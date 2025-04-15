@@ -7,6 +7,7 @@ from tqdm import tqdm
 # load video frames from a folder, selecting a fixed number of frames per video
 def load_video_frames(video_folder, num_frames=16, resize=(224, 224)):
     frame_files = sorted([f for f in os.listdir(video_folder) if f.endswith(".jpg")])
+    
     # evenly sample `num_frames` indices from the full list
     selected = np.linspace(0, len(frame_files) - 1, num_frames).astype(int)
     
