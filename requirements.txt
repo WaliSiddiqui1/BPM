@@ -1,0 +1,9 @@
+tensorflow==2.14.0
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+nltk
+tqdm
+evaluate
