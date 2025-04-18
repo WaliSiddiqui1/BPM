@@ -14,6 +14,7 @@
 module purge
 module load cuda/11.8.0-lpttyok
 module load cudnn/8.7.0.84-11.8-lg2dpd5
+module load ffmpeg
 
 # Create virtual environment if it doesn't exist
 VENV_PATH="$HOME/nsva_env"
