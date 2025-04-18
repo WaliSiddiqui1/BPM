@@ -126,9 +126,8 @@ def process_video(video_path, vtt_path):
             json.dump(data_entry, f)
 
 if __name__ == "__main__":
-    # Replace this with your actual YouTube video URL
-    example_youtube_url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-    download_video_and_captions(example_youtube_url)
+    youtube_url = "https://youtube.com/playlist?list=PL5j8RirTTnK5rfAPFJFwaqJvLweQynhjq&si=ZKB4XQC8LxNv1z3M"
+    download_video_and_captions(youtube_url)
 
     # Process all downloaded videos
     for file in os.listdir(VIDEO_DIR):
