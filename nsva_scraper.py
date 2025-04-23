@@ -1,11 +1,12 @@
 import os
 import cv2
 import json
+import time
+import random
 from pathlib import Path
 from yt_dlp import YoutubeDL
 import webvtt
 
-# Set up directories
 VIDEO_DIR = "videos"
 CLIP_DIR = "data/clips"
 CAPTION_DIR = "data/captions"
@@ -15,20 +16,37 @@ os.makedirs(CLIP_DIR, exist_ok=True)
 os.makedirs(CAPTION_DIR, exist_ok=True)
 os.makedirs(FRAME_DIR, exist_ok=True)
 
-# Download YouTube videos and captions
+COOKIES_FILE = "youtube_cookies.txt"
+
 def download_video_and_captions(youtube_url):
+    if not os.path.exists(COOKIES_FILE):
+        print(f"Warning: Cookie file {COOKIES_FILE} not found.")
+        print("You may encounter authentication issues. Please create and upload the cookies file.")
+    
     ydl_opts = {
         'format': 'bestvideo+bestaudio',
         'outtmpl': os.path.join(VIDEO_DIR, '%(title)s.%(ext)s'),
         'writesubtitles': True,
         'writeautomaticsub': True,
         'subtitleslangs': ['en'],
-        'skip_download': False
+        'skip_download': False,
+        'cookiefile': COOKIES_FILE if os.path.exists(COOKIES_FILE) else None,
+        'quiet': False,
+        'no_warnings': False
     }
-    with YoutubeDL(ydl_opts) as ydl:
-        ydl.download([youtube_url])
+    
+    try:
+        with YoutubeDL(ydl_opts) as ydl:
+            ydl.download([youtube_url])
+            
+        delay = random.uniform(7, 15)
+        print(f"Waiting {delay:.2f} seconds before next operation...")
+        time.sleep(delay)
+        return True
+    except Exception as e:
+        print(f"Error downloading {youtube_url}: {e}")
+        return False
 
-# Segment video into short clips
 def segment_video(video_path, clip_duration=5):
     cap = cv2.VideoCapture(video_path)
     fps = int(cap.get(cv2.CAP_PROP_FPS))
@@ -51,7 +69,6 @@ def segment_video(video_path, clip_duration=5):
     cap.release()
     return clip_paths
 
-# Extract frames from a video
 def extract_frames(video_path, num_frames=16):
     cap = cv2.VideoCapture(video_path)
     total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
@@ -68,7 +85,6 @@ def extract_frames(video_path, num_frames=16):
     cap.release()
     return frames
 
-# Parse captions
 def parse_captions(vtt_path):
     captions = []
     for caption in webvtt.read(vtt_path):
@@ -79,7 +95,6 @@ def parse_captions(vtt_path):
             captions.append((start, end, text))
     return captions
 
-# Align captions with clips
 def timestamp_to_seconds(ts):
     h, m, s = ts.split(':')
     s, ms = s.split('.')
@@ -94,7 +109,6 @@ def align_captions_to_clips(captions, clip_start, clip_end):
             result.append(text)
     return " ".join(result)
 
-# Full pipeline
 def process_video(video_path, vtt_path):
     video_name = Path(video_path).stem
     captions = parse_captions(vtt_path)
@@ -125,15 +139,67 @@ def process_video(video_path, vtt_path):
         with open(frames_out_path, 'w') as f:
             json.dump(data_entry, f)
 
+def download_and_process_playlist(youtube_url, max_retries=3):
+    print(f"Starting download and processing of playlist: {youtube_url}")
+    
+    ydl_opts = {
+        'quiet': False,
+        'no_warnings': False,
+        'extract_flat': True, 
+        'cookiefile': COOKIES_FILE if os.path.exists(COOKIES_FILE) else None,
+    }
+    
+    try:
+        with YoutubeDL(ydl_opts) as ydl:
+            playlist_info = ydl.extract_info(youtube_url, download=False)
+            
+        if 'entries' not in playlist_info:
+            print("No videos found in playlist")
+            return
+            
+        for entry in playlist_info['entries']:
+            video_url = f"https://www.youtube.com/watch?v={entry['id']}"
+            print(f"Processing video: {entry.get('title', 'Unknown Title')} ({video_url})")
+            
+            for attempt in range(max_retries):
+                try:
+                    success = download_video_and_captions(video_url)
+                    if success:
+                        break
+                    print(f"Download failed on attempt {attempt+1}/{max_retries}, retrying...")
+                    time.sleep(random.uniform(10, 20))
+                except Exception as e:
+                    print(f"Error on attempt {attempt+1}: {e}")
+                    if attempt < max_retries - 1:
+                        print("Retrying...")
+                        time.sleep(random.uniform(15, 30))
+                    else:
+                        print(f"Failed to download {video_url} after {max_retries} attempts, skipping.")
+            
+    except Exception as e:
+        print(f"Error processing playlist: {e}")
+
 if __name__ == "__main__":
     youtube_url = "https://youtube.com/playlist?list=PL5j8RirTTnK5rfAPFJFwaqJvLweQynhjq&si=ZKB4XQC8LxNv1z3M"
-    download_video_and_captions(youtube_url)
-
-    # Process all downloaded videos
+    
+    if not os.path.exists(COOKIES_FILE):
+        print("=" * 80)
+        print(f"WARNING: Cookie file {COOKIES_FILE} not found!")
+        print("You may encounter 'Sign in to confirm you're not a bot' errors.")
+        print("To fix this, create the youtube_cookies.txt file by exporting cookies from your browser.")
+        print("=" * 80)
+    else:
+        print(f"Found cookies file: {COOKIES_FILE}")
+    
+    download_and_process_playlist(youtube_url)
+    
     for file in os.listdir(VIDEO_DIR):
         if file.endswith(".mp4"):
             base_name = Path(file).stem
             vtt_file = os.path.join(VIDEO_DIR, base_name + ".en.vtt")
             video_file = os.path.join(VIDEO_DIR, file)
             if os.path.exists(vtt_file):
+                print(f"Processing video file: {file}")
                 process_video(video_file, vtt_file)
+            else:
+                print(f"Warning: No caption file found for {file}")
