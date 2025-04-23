@@ -3,12 +3,12 @@
 #SBATCH --gres=gpu:2
 #SBATCH -n 1
 #SBATCH -t 08:00:00
-#SBATCH --mem=100G
+#SBATCH --mem=500G
 #SBATCH -J nsva_dataset_build
 #SBATCH -o logs/nsva_dataset_build.out
 #SBATCH -e logs/nsva_dataset_build.err
 #SBATCH --mail-type=END,FAIL
-#SBATCH --mail-user=your_email@brown.edu  # <-- replace this with your Brown email
+#SBATCH --mail-user=robayet_hossain@brown.edu  # <-- replace this with your Brown email
 
 # Clear any modules and load required ones
 module purge
