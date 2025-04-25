@@ -17,6 +17,7 @@ os.makedirs(CAPTION_DIR, exist_ok=True)
 os.makedirs(FRAME_DIR, exist_ok=True)
 
 COOKIES_FILE = "youtube_cookies.txt"
+VIDEO_LINKS_FILE = "video_links.txt"  # <<< NEW: Text file with YouTube links
 
 def download_video_and_captions(youtube_url):
     if not os.path.exists(COOKIES_FILE):
@@ -139,49 +140,34 @@ def process_video(video_path, vtt_path):
         with open(frames_out_path, 'w') as f:
             json.dump(data_entry, f)
 
-def download_and_process_playlist(youtube_url, max_retries=3):
-    print(f"Starting download and processing of playlist: {youtube_url}")
+def download_and_process_video_list(links_file, max_retries=3):
+    print(f"Starting download and processing of videos listed in {links_file}")
     
-    ydl_opts = {
-        'quiet': False,
-        'no_warnings': False,
-        'extract_flat': True, 
-        'cookiefile': COOKIES_FILE if os.path.exists(COOKIES_FILE) else None,
-    }
+    if not os.path.exists(links_file):
+        print(f"Error: Video links file {links_file} not found!")
+        return
+
+    with open(links_file, 'r') as f:
+        links = [line.strip() for line in f if line.strip()]
     
-    try:
-        with YoutubeDL(ydl_opts) as ydl:
-            playlist_info = ydl.extract_info(youtube_url, download=False)
-            
-        if 'entries' not in playlist_info:
-            print("No videos found in playlist")
-            return
-            
-        for entry in playlist_info['entries']:
-            video_url = f"https://www.youtube.com/watch?v={entry['id']}"
-            print(f"Processing video: {entry.get('title', 'Unknown Title')} ({video_url})")
-            
-            for attempt in range(max_retries):
-                try:
-                    success = download_video_and_captions(video_url)
-                    if success:
-                        break
-                    print(f"Download failed on attempt {attempt+1}/{max_retries}, retrying...")
-                    time.sleep(random.uniform(10, 20))
-                except Exception as e:
-                    print(f"Error on attempt {attempt+1}: {e}")
-                    if attempt < max_retries - 1:
-                        print("Retrying...")
-                        time.sleep(random.uniform(15, 30))
-                    else:
-                        print(f"Failed to download {video_url} after {max_retries} attempts, skipping.")
-            
-    except Exception as e:
-        print(f"Error processing playlist: {e}")
+    for video_url in links:
+        print(f"Processing video: {video_url}")
+        for attempt in range(max_retries):
+            try:
+                success = download_video_and_captions(video_url)
+                if success:
+                    break
+                print(f"Download failed on attempt {attempt+1}/{max_retries}, retrying...")
+                time.sleep(random.uniform(10, 20))
+            except Exception as e:
+                print(f"Error on attempt {attempt+1}: {e}")
+                if attempt < max_retries - 1:
+                    print("Retrying...")
+                    time.sleep(random.uniform(15, 30))
+                else:
+                    print(f"Failed to download {video_url} after {max_retries} attempts, skipping.")
 
 if __name__ == "__main__":
-    youtube_url = "https://youtube.com/playlist?list=PL5j8RirTTnK5rfAPFJFwaqJvLweQynhjq&si=ZKB4XQC8LxNv1z3M"
-    
     if not os.path.exists(COOKIES_FILE):
         print("=" * 80)
         print(f"WARNING: Cookie file {COOKIES_FILE} not found!")
@@ -191,7 +177,8 @@ if __name__ == "__main__":
     else:
         print(f"Found cookies file: {COOKIES_FILE}")
     
-    download_and_process_playlist(youtube_url)
+    # USE VIDEO LIST INSTEAD OF PLAYLIST
+    download_and_process_video_list(VIDEO_LINKS_FILE)
     
     for file in os.listdir(VIDEO_DIR):
         if file.endswith(".mp4"):
