@@ -17,7 +17,7 @@ os.makedirs(CAPTION_DIR, exist_ok=True)
 os.makedirs(FRAME_DIR, exist_ok=True)
 
 COOKIES_FILE = "youtube_cookies.txt"
-VIDEO_LINKS_FILE = "video_links.txt"  # <<< NEW: Text file with YouTube links
+LINKS_FILE = "video_links.txt"
 
 def download_video_and_captions(youtube_url):
     if not os.path.exists(COOKIES_FILE):
@@ -39,7 +39,6 @@ def download_video_and_captions(youtube_url):
     try:
         with YoutubeDL(ydl_opts) as ydl:
             ydl.download([youtube_url])
-            
         delay = random.uniform(7, 15)
         print(f"Waiting {delay:.2f} seconds before next operation...")
         time.sleep(delay)
@@ -140,18 +139,25 @@ def process_video(video_path, vtt_path):
         with open(frames_out_path, 'w') as f:
             json.dump(data_entry, f)
 
-def download_and_process_video_list(links_file, max_retries=3):
-    print(f"Starting download and processing of videos listed in {links_file}")
-    
+def read_video_links(links_file):
     if not os.path.exists(links_file):
-        print(f"Error: Video links file {links_file} not found!")
-        return
-
+        print(f"Error: Links file {links_file} not found.")
+        return []
+        
     with open(links_file, 'r') as f:
         links = [line.strip() for line in f if line.strip()]
     
-    for video_url in links:
-        print(f"Processing video: {video_url}")
+    print(f"Found {len(links)} video links in {links_file}")
+    return links
+
+def process_video_links_from_file(links_file, max_retries=3):
+    links = read_video_links(links_file)
+    if not links:
+        return
+        
+    for i, video_url in enumerate(links):
+        print(f"Processing video {i+1}/{len(links)}: {video_url}")
+        
         for attempt in range(max_retries):
             try:
                 success = download_video_and_captions(video_url)
@@ -166,6 +172,11 @@ def download_and_process_video_list(links_file, max_retries=3):
                     time.sleep(random.uniform(15, 30))
                 else:
                     print(f"Failed to download {video_url} after {max_retries} attempts, skipping.")
+                    
+        if i < len(links) - 1:
+            delay = random.uniform(10, 20)
+            print(f"Moving to next video in {delay:.2f} seconds...")
+            time.sleep(delay)
 
 if __name__ == "__main__":
     if not os.path.exists(COOKIES_FILE):
@@ -177,8 +188,12 @@ if __name__ == "__main__":
     else:
         print(f"Found cookies file: {COOKIES_FILE}")
     
-    # USE VIDEO LIST INSTEAD OF PLAYLIST
-    download_and_process_video_list(VIDEO_LINKS_FILE)
+    if not os.path.exists(LINKS_FILE):
+        print(f"Error: Links file {LINKS_FILE} not found.")
+        print("Please create a file with one YouTube video URL per line.")
+        exit(1)
+    
+    process_video_links_from_file(LINKS_FILE)
     
     for file in os.listdir(VIDEO_DIR):
         if file.endswith(".mp4"):
