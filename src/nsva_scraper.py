@@ -31,7 +31,7 @@ def download_video_and_captions(youtube_url):
         'writeautomaticsub': True,
         'subtitleslangs': ['en'],
         'skip_download': False,
-        'cookiefile': COOKIES_FILE if os.path.exists(COOKIES_FILE) else None,
+        # 'cookiefile': COOKIES_FILE if os.path.exists(COOKIES_FILE) else None,
         'quiet': False,
         'no_warnings': False
     }
