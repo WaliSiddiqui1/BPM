@@ -1,1 +1,1 @@
-Project Poster ![here](/FinalPoster.pdf)
+Project Poster [here](FinalPoster.pdf)
