@@ -1,1 +1,1 @@
-![Final Poster](FinalPoster.png)
+![Final Poster](/FinalPoster.png)
