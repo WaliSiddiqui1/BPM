@@ -1,1 +1,1 @@
-[Project poster](BPM (Bron Performance Metric) Poster (2).pdf)
+Project Poster [here](BPM (Bron Performance Metric) Poster (2).pdf)
