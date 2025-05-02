@@ -1,1 +1,1 @@
-Project Poster [here](FinalPoster.pdf)
+[![Poster](FinalPoster.png)]
