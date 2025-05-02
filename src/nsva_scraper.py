@@ -16,7 +16,7 @@ os.makedirs(CLIP_DIR, exist_ok=True)
 os.makedirs(CAPTION_DIR, exist_ok=True)
 os.makedirs(FRAME_DIR, exist_ok=True)
 
-COOKIES_FILE = "youtube_cookies.txt"
+COOKIES_FILE = "youtube_cookies.txt" 
 LINKS_FILE = "video_links.txt"
 
 def download_video_and_captions(youtube_url):
