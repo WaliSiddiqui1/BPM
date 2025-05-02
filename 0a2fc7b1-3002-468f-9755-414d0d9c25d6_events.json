@@ -1,0 +1,3562 @@
+{
+    "game_info": {
+        "id": "0a2fc7b1-3002-468f-9755-414d0d9c25d6",
+        "home_team": "Jazz",
+        "away_team": "Spurs",
+        "scheduled": "2019-02-09T22:00:00+00:00"
+    },
+    "events": [
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Spurs lineup change (Jakob Poeltl, LaMarcus Aldridge, Bryn Forbes, Davis Bertans, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Jazz lineup change (Donovan Mitchell, Derrick Favors, Ricky Rubio, Rudy Gobert, Joe Ingles)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Jakob Poeltl vs. Rudy Gobert (Derrick Favors gains possession)",
+            "event_type": "opentip",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:40",
+            "description": "Joe Ingles makes three point stepback jump shot (Rudy Gobert assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:25",
+            "description": "DeMar DeRozan misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:23",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:16",
+            "description": "Derrick Favors makes two point jump shot (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:00",
+            "description": "DeMar DeRozan makes two point driving layup (LaMarcus Aldridge assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:00",
+            "description": "Derrick Favors shooting foul (DeMar DeRozan draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:00",
+            "description": "DeMar DeRozan makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:54",
+            "description": "Davis Bertans personal foul (Joe Ingles draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:49",
+            "description": "Joe Ingles misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:45",
+            "description": "Jakob Poeltl defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:33",
+            "description": "Jakob Poeltl makes two point cutting dunk (LaMarcus Aldridge assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:10",
+            "description": "Donovan Mitchell makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:00",
+            "description": "DeMar DeRozan misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:58",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:50",
+            "description": "Rudy Gobert turnover (lost ball) (Davis Bertans steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:43",
+            "description": "DeMar DeRozan turnover (lost ball) (Derrick Favors steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:34",
+            "description": "Derrick Favors misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:31",
+            "description": "Donovan Mitchell offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:27",
+            "description": "Ricky Rubio misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:23",
+            "description": "LaMarcus Aldridge defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:07",
+            "description": "LaMarcus Aldridge makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:51",
+            "description": "Derrick Favors misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:48",
+            "description": "Jakob Poeltl defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:41",
+            "description": "DeMar DeRozan makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:17",
+            "description": "Donovan Mitchell misses three point stepback jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:14",
+            "description": "Jakob Poeltl defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:02",
+            "description": "Bryn Forbes makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:46",
+            "description": "Derrick Favors makes two point reverse layup (Rudy Gobert assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:28",
+            "description": "Bryn Forbes makes three point jump shot (DeMar DeRozan assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:26",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:26",
+            "description": "Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Jae Crowder, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:13",
+            "description": "Jae Crowder makes three point jump shot (Ricky Rubio assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:53",
+            "description": "Bryn Forbes misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:50",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:46",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:43",
+            "description": "LaMarcus Aldridge defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:35",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:30",
+            "description": "Ricky Rubio personal foul (DeMar DeRozan draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:21",
+            "description": "DeMar DeRozan makes two point floating jump shot (Davis Bertans assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:18",
+            "description": "Rudy Gobert technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:18",
+            "description": "DeMar DeRozan makes technical free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:18",
+            "description": "Spurs lineup change (Dante Cunningham, LaMarcus Aldridge, Bryn Forbes, Davis Bertans, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:57",
+            "description": "Rudy Gobert turnover (out of bounds lost ball)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:34",
+            "description": "LaMarcus Aldridge makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:25",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:20",
+            "description": "Spurs defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:20",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:20",
+            "description": "Spurs lineup change (Dante Cunningham, Patty Mills, LaMarcus Aldridge, Marco Belinelli, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:08",
+            "description": "LaMarcus Aldridge misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:06",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:57",
+            "description": "Rudy Gobert makes two point layup (Jae Crowder assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:57",
+            "description": "Spurs 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:57",
+            "description": "Jazz lineup change (Donovan Mitchell, Rudy Gobert, Royce O'Neale, Jae Crowder, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:34",
+            "description": "LaMarcus Aldridge misses two point turnaround fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:31",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:25",
+            "description": "Kyle Korver misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:22",
+            "description": "Marco Belinelli defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:15",
+            "description": "Rudy Gobert blocks Marco Belinelli's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:13",
+            "description": "Donovan Mitchell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:09",
+            "description": "DeMar DeRozan shooting foul (Rudy Gobert draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:09",
+            "description": "Rudy Gobert makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:09",
+            "description": "Rudy Gobert makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:52",
+            "description": "Marco Belinelli turnover (bad pass) (Kyle Korver steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:45",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:42",
+            "description": "Rudy Gobert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:41",
+            "description": "Rudy Gobert misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:41",
+            "description": "Patty Mills defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:33",
+            "description": "LaMarcus Aldridge makes two point alley-oop dunk (DeMar DeRozan assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:16",
+            "description": "Kyle Korver makes three point jump shot (Jae Crowder assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:01",
+            "description": "Marco Belinelli makes two point pullup jump shot (LaMarcus Aldridge assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:01",
+            "description": "Kyle Korver shooting foul (Marco Belinelli draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:01",
+            "description": "Jazz lineup change (Donovan Mitchell, Derrick Favors, Royce O'Neale, Jae Crowder, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:01",
+            "description": "Spurs lineup change (Dante Cunningham, Patty Mills, Jakob Poeltl, Marco Belinelli, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:01",
+            "description": "Marco Belinelli makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:40",
+            "description": "Donovan Mitchell turnover (lost ball) (Dante Cunningham steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:23",
+            "description": "DeMar DeRozan misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:20",
+            "description": "Kyle Korver defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:13",
+            "description": "Donovan Mitchell makes two point floating jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:58",
+            "description": "DeMar DeRozan misses two point driving floating bank jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:56",
+            "description": "Royce O'Neale defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:50",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:47",
+            "description": "Dante Cunningham defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:38",
+            "description": "Dante Cunningham misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:36",
+            "description": "Kyle Korver defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:22",
+            "description": "Derrick Favors misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:19",
+            "description": "Patty Mills defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:14",
+            "description": "Marco Belinelli misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:11",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:04",
+            "description": "Royce O'Neale misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:02",
+            "description": "Derrick Favors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:01",
+            "description": "Derrick Favors turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:01",
+            "description": "Spurs lineup change (Dante Cunningham, Patty Mills, Jakob Poeltl, Marco Belinelli, Davis Bertans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:01",
+            "description": "Jazz lineup change (Derrick Favors, Ricky Rubio, Jae Crowder, Joe Ingles, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:45",
+            "description": "Patty Mills misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:43",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:37",
+            "description": "Dante Cunningham personal foul (Derrick Favors draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:29",
+            "description": "Ricky Rubio makes two point pullup jump shot (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:14",
+            "description": "Marco Belinelli offensive foul (Ricky Rubio draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:14",
+            "description": "Marco Belinelli turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:14",
+            "description": "Jazz lineup change (Donovan Mitchell, Derrick Favors, Jae Crowder, Joe Ingles, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Donovan Mitchell misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "End of 1st Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "12:00",
+            "description": "Jazz lineup change (Derrick Favors, Ricky Rubio, Jae Crowder, Joe Ingles, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:49",
+            "description": "Davis Bertans misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:47",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:41",
+            "description": "Ricky Rubio makes two point driving reverse layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:28",
+            "description": "Davis Bertans makes two point pullup jump shot (Patty Mills assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:14",
+            "description": "Derrick Favors makes two point dunk (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:14",
+            "description": "Dante Cunningham shooting foul (Derrick Favors draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:14",
+            "description": "Derrick Favors makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:05",
+            "description": "Jakob Poeltl misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:01",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:46",
+            "description": "Jakob Poeltl shooting foul (Derrick Favors draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:46",
+            "description": "Derrick Favors makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:46",
+            "description": "Derrick Favors makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:37",
+            "description": "Patty Mills makes three point pullup jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:21",
+            "description": "Joe Ingles makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:00",
+            "description": "Marco Belinelli misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:55",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:49",
+            "description": "Ricky Rubio misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:46",
+            "description": "Patty Mills defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:39",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:39",
+            "description": "Spurs lineup change (Dante Cunningham, LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, Davis Bertans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:39",
+            "description": "Jazz lineup change (Derrick Favors, Raul Neto, Jae Crowder, Joe Ingles, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:32",
+            "description": "Bryn Forbes turnover (bad pass) (Derrick Favors steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:15",
+            "description": "Derrick Favors misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:13",
+            "description": "LaMarcus Aldridge defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:02",
+            "description": "Marco Belinelli misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:00",
+            "description": "LaMarcus Aldridge offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:53",
+            "description": "LaMarcus Aldridge misses two point bank hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:51",
+            "description": "Raul Neto defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:43",
+            "description": "Davis Bertans blocks Derrick Favors's two point dunk",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:40",
+            "description": "Marco Belinelli defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:38",
+            "description": "Davis Bertans makes three point jump shot (Marco Belinelli assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:37",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:37",
+            "description": "Jazz lineup change (Donovan Mitchell, Rudy Gobert, Raul Neto, Royce O'Neale, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:37",
+            "description": "Spurs lineup change (Jakob Poeltl, LaMarcus Aldridge, Bryn Forbes, Davis Bertans, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:21",
+            "description": "Rudy Gobert makes two point layup (Raul Neto assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:05",
+            "description": "DeMar DeRozan turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:57",
+            "description": "Royce O'Neale makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:41",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:36",
+            "description": "LaMarcus Aldridge misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:33",
+            "description": "Kyle Korver defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:28",
+            "description": "Donovan Mitchell misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:25",
+            "description": "Rudy Gobert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:25",
+            "description": "Rudy Gobert makes two point tip dunk",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:04",
+            "description": "LaMarcus Aldridge misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:02",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:53",
+            "description": "Donovan Mitchell makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:34",
+            "description": "Bryn Forbes misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:32",
+            "description": "Donovan Mitchell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:26",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:19",
+            "description": "Donovan Mitchell misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:17",
+            "description": "LaMarcus Aldridge defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:07",
+            "description": "Bryn Forbes makes two point driving floating jump shot (DeMar DeRozan assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:52",
+            "description": "Raul Neto makes two point layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:22",
+            "description": "Bryn Forbes makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:05",
+            "description": "Raul Neto misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:02",
+            "description": "Jakob Poeltl defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:54",
+            "description": "DeMar DeRozan makes two point turnaround fadeaway jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:32",
+            "description": "Donovan Mitchell makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:13",
+            "description": "Bryn Forbes misses two point turnaround fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:12",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:07",
+            "description": "Donovan Mitchell misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:03",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:03",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:03",
+            "description": "Jazz lineup change (Donovan Mitchell, Rudy Gobert, Raul Neto, Royce O'Neale, Joe Ingles)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:03",
+            "description": "Spurs lineup change (Jakob Poeltl, LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:03",
+            "description": "Spurs lineup change (Patty Mills, LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:59",
+            "description": "Royce O'Neale makes three point jump shot (Raul Neto assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:56",
+            "description": "Spurs 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:56",
+            "description": "Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Royce O'Neale, Joe Ingles)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:39",
+            "description": "LaMarcus Aldridge misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:37",
+            "description": "Royce O'Neale defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:21",
+            "description": "Joe Ingles misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:19",
+            "description": "Rudy Gobert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:09",
+            "description": "Ricky Rubio makes two point driving layup (Rudy Gobert assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:47",
+            "description": "DeMar DeRozan makes two point pullup jump shot (LaMarcus Aldridge assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:32",
+            "description": "Royce O'Neale makes three point jump shot (Ricky Rubio assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:25",
+            "description": "Spurs 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:09",
+            "description": "Patty Mills misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:06",
+            "description": "Marco Belinelli offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:05",
+            "description": "Patty Mills misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:01",
+            "description": "Royce O'Neale defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:50",
+            "description": "Rudy Gobert misses two point alley-oop layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:48",
+            "description": "Rudy Gobert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:48",
+            "description": "Rudy Gobert makes two point tip layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:29",
+            "description": "Joe Ingles personal foul (Marco Belinelli draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:20",
+            "description": "Joe Ingles personal foul (Marco Belinelli draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:20",
+            "description": "Marco Belinelli makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:20",
+            "description": "Marco Belinelli makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:09",
+            "description": "Rudy Gobert makes two point alley-oop dunk (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:48",
+            "description": "Rudy Gobert shooting foul (LaMarcus Aldridge draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:48",
+            "description": "LaMarcus Aldridge makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:48",
+            "description": "LaMarcus Aldridge makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:38",
+            "description": "Ricky Rubio makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:27",
+            "description": "Patty Mills makes three point jump shot (Bryn Forbes assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:04",
+            "description": "Ricky Rubio makes three point jump shot (Royce O'Neale assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "LaMarcus Aldridge misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "Spurs offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "End of 1st Half.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "12:00",
+            "description": "Spurs lineup change (Jakob Poeltl, LaMarcus Aldridge, Bryn Forbes, Davis Bertans, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "12:00",
+            "description": "Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Jae Crowder, Joe Ingles)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:47",
+            "description": "Jakob Poeltl makes two point layup (DeMar DeRozan assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:32",
+            "description": "Jae Crowder misses two point cutting dunk",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:30",
+            "description": "Davis Bertans defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:22",
+            "description": "Davis Bertans misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:19",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:10",
+            "description": "Joe Ingles turnover (bad pass) (DeMar DeRozan steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:05",
+            "description": "DeMar DeRozan makes two point layup (Bryn Forbes assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:49",
+            "description": "Rudy Gobert makes two point dunk (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:33",
+            "description": "DeMar DeRozan misses two point turnaround fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:30",
+            "description": "Donovan Mitchell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:21",
+            "description": "Ricky Rubio misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:18",
+            "description": "Jakob Poeltl defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:03",
+            "description": "LaMarcus Aldridge misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:01",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:56",
+            "description": "Ricky Rubio makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:43",
+            "description": "Jakob Poeltl makes two point driving floating bank jump shot (DeMar DeRozan assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:22",
+            "description": "Jakob Poeltl blocks Donovan Mitchell's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:18",
+            "description": "LaMarcus Aldridge defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:15",
+            "description": "Bryn Forbes misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:14",
+            "description": "Jazz defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:14",
+            "description": "Jakob Poeltl personal foul (Loose ball) (Rudy Gobert draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:04",
+            "description": "Donovan Mitchell makes three point pullup jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:45",
+            "description": "DeMar DeRozan turnover (lost ball) (Donovan Mitchell steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:39",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:36",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:36",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:34",
+            "description": "Donovan Mitchell misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:31",
+            "description": "Bryn Forbes defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:15",
+            "description": "Davis Bertans misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:13",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:03",
+            "description": "Ricky Rubio makes two point driving floating bank jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:45",
+            "description": "Ricky Rubio personal foul (Bryn Forbes draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:36",
+            "description": "Rudy Gobert blocks LaMarcus Aldridge's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:36",
+            "description": "Spurs offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:36",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:32",
+            "description": "LaMarcus Aldridge misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:30",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:17",
+            "description": "Ricky Rubio misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:14",
+            "description": "Jakob Poeltl defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:04",
+            "description": "Joe Ingles personal foul (DeMar DeRozan draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:04",
+            "description": "Spurs lineup change (LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, Davis Bertans, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:04",
+            "description": "Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Royce O'Neale, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:59",
+            "description": "DeMar DeRozan makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:44",
+            "description": "DeMar DeRozan shooting foul (Donovan Mitchell draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:44",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:44",
+            "description": "Donovan Mitchell makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:44",
+            "description": "Donovan Mitchell makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:32",
+            "description": "DeMar DeRozan misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:29",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:22",
+            "description": "Donovan Mitchell misses two point fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:19",
+            "description": "Bryn Forbes defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:05",
+            "description": "Marco Belinelli makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:51",
+            "description": "Donovan Mitchell offensive foul (DeMar DeRozan draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:51",
+            "description": "Donovan Mitchell turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:51",
+            "description": "Spurs lineup change (Patty Mills, LaMarcus Aldridge, Marco Belinelli, Davis Bertans, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:39",
+            "description": "Patty Mills makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:25",
+            "description": "LaMarcus Aldridge blocks Ricky Rubio's two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:23",
+            "description": "Rudy Gobert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:19",
+            "description": "Rudy Gobert turnover (back court violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:10",
+            "description": "DeMar DeRozan misses two point turnaround fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:07",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:56",
+            "description": "Royce O'Neale makes two point driving finger roll layup (Donovan Mitchell assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:55",
+            "description": "Spurs 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:36",
+            "description": "DeMar DeRozan makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:21",
+            "description": "LaMarcus Aldridge shooting foul (Rudy Gobert draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:21",
+            "description": "Rudy Gobert makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:21",
+            "description": "Rudy Gobert makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:07",
+            "description": "DeMar DeRozan misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:03",
+            "description": "LaMarcus Aldridge offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:03",
+            "description": "LaMarcus Aldridge makes two point tip layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:50",
+            "description": "Rudy Gobert makes two point alley-oop dunk (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:28",
+            "description": "Ricky Rubio shooting foul (LaMarcus Aldridge draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:28",
+            "description": "LaMarcus Aldridge makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:28",
+            "description": "Jazz lineup change (Donovan Mitchell, Rudy Gobert, Raul Neto, Royce O'Neale, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:28",
+            "description": "Spurs lineup change (Patty Mills, LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, Davis Bertans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:28",
+            "description": "LaMarcus Aldridge makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:17",
+            "description": "Kyle Korver makes two point driving layup (Donovan Mitchell assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:07",
+            "description": "Davis Bertans makes three point jump shot (Patty Mills assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:51",
+            "description": "Donovan Mitchell misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:48",
+            "description": "Patty Mills defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:39",
+            "description": "Marco Belinelli misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:36",
+            "description": "LaMarcus Aldridge offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:36",
+            "description": "LaMarcus Aldridge misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:35",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:32",
+            "description": "Royce O'Neale makes two point layup (Raul Neto assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:32",
+            "description": "Davis Bertans shooting foul (Royce O'Neale draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:32",
+            "description": "Spurs lineup change (Patty Mills, Bryn Forbes, Marco Belinelli, Pau Gasol, Davis Bertans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:32",
+            "description": "Jazz lineup change (Derrick Favors, Raul Neto, Royce O'Neale, Joe Ingles, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:32",
+            "description": "Royce O'Neale makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:22",
+            "description": "Bryn Forbes makes two point pullup jump shot (Patty Mills assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:05",
+            "description": "Derrick Favors misses two point alley-oop layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:04",
+            "description": "Pau Gasol defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:53",
+            "description": "Davis Bertans misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:50",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:41",
+            "description": "Joe Ingles turnover (bad pass) (Marco Belinelli steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:36",
+            "description": "Bryn Forbes misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:32",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:24",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:20",
+            "description": "Joe Ingles turnover (lost ball) (Pau Gasol steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:16",
+            "description": "Raul Neto shooting foul (Marco Belinelli draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:16",
+            "description": "Marco Belinelli makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:16",
+            "description": "Spurs lineup change (Dante Cunningham, Patty Mills, Bryn Forbes, Marco Belinelli, Pau Gasol)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:16",
+            "description": "Marco Belinelli makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:09",
+            "description": "Kyle Korver misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:06",
+            "description": "Joe Ingles offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:57",
+            "description": "Raul Neto misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:54",
+            "description": "Dante Cunningham defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:45",
+            "description": "Bryn Forbes misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:41",
+            "description": "Royce O'Neale defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:30",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:30",
+            "description": "Jazz lineup change (Donovan Mitchell, Derrick Favors, Royce O'Neale, Joe Ingles, Kyle Korver)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:23",
+            "description": "Donovan Mitchell makes two point layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:03",
+            "description": "Pau Gasol makes two point jump shot (Patty Mills assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "Donovan Mitchell misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "End of 3rd Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "12:00",
+            "description": "Jazz lineup change (Donovan Mitchell, Derrick Favors, Raul Neto, Jae Crowder, Joe Ingles)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:45",
+            "description": "Derrick Favors turnover (bad pass) (Dante Cunningham steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:32",
+            "description": "Pau Gasol misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:30",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:19",
+            "description": "Raul Neto makes two point cutting layup (Derrick Favors assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:03",
+            "description": "Pau Gasol makes two point jump shot (Patty Mills assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:46",
+            "description": "Derrick Favors makes two point jump shot (Raul Neto assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:33",
+            "description": "Marco Belinelli misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:30",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:23",
+            "description": "Donovan Mitchell misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:22",
+            "description": "Spurs defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:22",
+            "description": "Donovan Mitchell personal foul (Loose ball) (Pau Gasol draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:22",
+            "description": "Spurs lineup change (Dante Cunningham, Patty Mills, LaMarcus Aldridge, Bryn Forbes, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:12",
+            "description": "Patty Mills misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:10",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:56",
+            "description": "Jae Crowder makes three point jump shot (Joe Ingles assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:54",
+            "description": "Spurs 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:54",
+            "description": "Jazz lineup change (Donovan Mitchell, Derrick Favors, Ricky Rubio, Jae Crowder, Joe Ingles)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:54",
+            "description": "Spurs lineup change (Dante Cunningham, Patty Mills, Bryn Forbes, Pau Gasol, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:41",
+            "description": "DeMar DeRozan makes two point jump shot (Pau Gasol assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:41",
+            "description": "Joe Ingles shooting foul (DeMar DeRozan draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:41",
+            "description": "DeMar DeRozan makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:31",
+            "description": "DeMar DeRozan personal foul (Donovan Mitchell draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:28",
+            "description": "Bryn Forbes shooting foul (Ricky Rubio draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:28",
+            "description": "Ricky Rubio makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:28",
+            "description": "Spurs lineup change (Bryn Forbes, Marco Belinelli, Pau Gasol, Davis Bertans, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:28",
+            "description": "Ricky Rubio misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:26",
+            "description": "DeMar DeRozan defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:11",
+            "description": "Bryn Forbes misses two point driving floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:08",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:02",
+            "description": "Joe Ingles makes three point jump shot (Jae Crowder assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:44",
+            "description": "Ricky Rubio shooting foul (Pau Gasol draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:44",
+            "description": "Pau Gasol makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:44",
+            "description": "Pau Gasol misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:42",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:31",
+            "description": "Bryn Forbes personal foul (Derrick Favors draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:31",
+            "description": "Jazz lineup change (Donovan Mitchell, Derrick Favors, Ricky Rubio, Royce O'Neale, Jae Crowder)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:23",
+            "description": "Royce O'Neale makes three point jump shot (Donovan Mitchell assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:05",
+            "description": "Jae Crowder shooting foul (Davis Bertans draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:05",
+            "description": "Davis Bertans makes regular free throw 1 of 3",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:05",
+            "description": "Davis Bertans makes regular free throw 2 of 3",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:05",
+            "description": "Davis Bertans makes regular free throw 3 of 3",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:49",
+            "description": "Ricky Rubio misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:47",
+            "description": "Pau Gasol defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:39",
+            "description": "DeMar DeRozan turnover (lost ball) (Donovan Mitchell steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:33",
+            "description": "Jae Crowder makes three point jump shot (Donovan Mitchell assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:18",
+            "description": "Marco Belinelli makes two point reverse layup (Pau Gasol assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:00",
+            "description": "Donovan Mitchell misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:56",
+            "description": "Derrick Favors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:55",
+            "description": "DeMar DeRozan shooting foul (Derrick Favors draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:55",
+            "description": "Derrick Favors misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:55",
+            "description": "Instant replay (Request: Ruling Upheld)",
+            "event_type": "review",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:55",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:55",
+            "description": "Spurs lineup change (Patty Mills, LaMarcus Aldridge, Marco Belinelli, Davis Bertans, DeMar DeRozan)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:55",
+            "description": "Derrick Favors misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:54",
+            "description": "DeMar DeRozan defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:38",
+            "description": "Patty Mills makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:27",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:27",
+            "description": "Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Royce O'Neale, Jae Crowder)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:17",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:14",
+            "description": "Marco Belinelli defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:05",
+            "description": "DeMar DeRozan makes two point layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:53",
+            "description": "DeMar DeRozan personal foul (Donovan Mitchell draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:53",
+            "description": "Donovan Mitchell misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:53",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:53",
+            "description": "Donovan Mitchell makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:47",
+            "description": "Ricky Rubio personal foul (Patty Mills draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:47",
+            "description": "Patty Mills makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:47",
+            "description": "Jazz lineup change (Donovan Mitchell, Rudy Gobert, Royce O'Neale, Jae Crowder, Joe Ingles)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:47",
+            "description": "Patty Mills misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:46",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:35",
+            "description": "Joe Ingles makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:19",
+            "description": "Patty Mills makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:19",
+            "description": "Royce O'Neale shooting foul (Patty Mills draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:19",
+            "description": "Patty Mills makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:06",
+            "description": "Davis Bertans personal foul (Rudy Gobert draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:06",
+            "description": "Rudy Gobert makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:06",
+            "description": "Rudy Gobert misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:04",
+            "description": "LaMarcus Aldridge defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:00",
+            "description": "Patty Mills turnover (lost ball) (Donovan Mitchell steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:56",
+            "description": "Donovan Mitchell makes two point running layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:46",
+            "description": "Marco Belinelli misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:46",
+            "description": "Donovan Mitchell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:34",
+            "description": "Donovan Mitchell misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:30",
+            "description": "LaMarcus Aldridge defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:16",
+            "description": "LaMarcus Aldridge makes three point jump shot (Marco Belinelli assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "Donovan Mitchell makes three point jump shot (Rudy Gobert assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:38",
+            "description": "DeMar DeRozan misses two point turnaround fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:35",
+            "description": "Royce O'Neale defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:21",
+            "description": "Rudy Gobert makes two point dunk (Donovan Mitchell assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:20",
+            "description": "Spurs 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:20",
+            "description": "Spurs lineup change (Dante Cunningham, Jakob Poeltl, Quincy Pondexter, Chimezie Metu, Drew Eubanks)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:58",
+            "description": "Drew Eubanks misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:56",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:47",
+            "description": "Donovan Mitchell makes two point floating jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:45",
+            "description": "Spurs 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:45",
+            "description": "Jazz lineup change (Thabo Sefolosha, Grayson Allen, Georges Niang, Raul Neto, Ekpe Udoh)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:39",
+            "description": "Chimezie Metu misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:35",
+            "description": "Dante Cunningham offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:35",
+            "description": "Dante Cunningham makes two point reverse layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:20",
+            "description": "Thabo Sefolosha misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:17",
+            "description": "Drew Eubanks defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:07",
+            "description": "Dante Cunningham makes two point turnaround fadeaway jump shot (Jakob Poeltl assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:55",
+            "description": "Georges Niang makes three point jump shot (Raul Neto assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:40",
+            "description": "Thabo Sefolosha blocks Chimezie Metu's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:37",
+            "description": "Ekpe Udoh defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:35",
+            "description": "Grayson Allen makes three point jump shot (Georges Niang assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:29",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:23",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:16",
+            "description": "Jakob Poeltl makes two point driving finger roll layup (Drew Eubanks assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:07",
+            "description": "Raul Neto turnover (bad pass) (Jakob Poeltl steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:54",
+            "description": "Dante Cunningham makes two point driving hook shot (Quincy Pondexter assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:45",
+            "description": "Grayson Allen misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:41",
+            "description": "Jakob Poeltl defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:31",
+            "description": "Chimezie Metu misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:27",
+            "description": "Raul Neto defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:22",
+            "description": "Jakob Poeltl shooting foul (Grayson Allen draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:22",
+            "description": "Grayson Allen makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:22",
+            "description": "Grayson Allen makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:12",
+            "description": "Dante Cunningham turnover (lost ball) (Ekpe Udoh steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:00",
+            "description": "End of 4th Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        }
+    ]
+}

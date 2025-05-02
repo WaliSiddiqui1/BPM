@@ -1,0 +1,4002 @@
+{
+    "game_info": {
+        "id": "0a4d96ea-6f91-47b5-894d-e46efb640b48",
+        "home_team": "Jazz",
+        "away_team": "Lakers",
+        "scheduled": "2019-03-28T02:30:00+00:00"
+    },
+    "events": [
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Lakers lineup change (Rajon Rondo, Kyle Kuzma, Kentavious Caldwell-Pope, Lance Stephenson, JaVale McGee)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Jazz lineup change (Derrick Favors, Ricky Rubio, Joe Ingles, Rudy Gobert, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "JaVale McGee vs. Rudy Gobert (Kyle Kuzma gains possession)",
+            "event_type": "opentip",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:41",
+            "description": "Derrick Favors personal foul (JaVale McGee draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:36",
+            "description": "Rajon Rondo misses two point driving floating bank jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:35",
+            "description": "Jazz defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:35",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:19",
+            "description": "Joe Ingles makes three point jump shot (Ricky Rubio assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:01",
+            "description": "Kyle Kuzma misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:58",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:52",
+            "description": "Derrick Favors misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:49",
+            "description": "Kentavious Caldwell-Pope defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:37",
+            "description": "Lance Stephenson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:34",
+            "description": "Joe Ingles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:24",
+            "description": "Ricky Rubio misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:22",
+            "description": "Rudy Gobert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:22",
+            "description": "Rudy Gobert misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:22",
+            "description": "Rajon Rondo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:17",
+            "description": "Kentavious Caldwell-Pope misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:15",
+            "description": "Joe Ingles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:02",
+            "description": "JaVale McGee blocks Derrick Favors's two point driving hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:00",
+            "description": "Rudy Gobert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:58",
+            "description": "Joe Ingles misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:56",
+            "description": "Rajon Rondo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:50",
+            "description": "Lance Stephenson misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:48",
+            "description": "Joe Ingles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:43",
+            "description": "Donovan Mitchell makes three point jump shot (Joe Ingles assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:25",
+            "description": "Kyle Kuzma makes three point bank jump shot (Lance Stephenson assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:08",
+            "description": "Derrick Favors makes two point layup (Donovan Mitchell assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:53",
+            "description": "Rajon Rondo misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:52",
+            "description": "JaVale McGee offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:52",
+            "description": "Rudy Gobert shooting foul (JaVale McGee draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:52",
+            "description": "JaVale McGee makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:52",
+            "description": "JaVale McGee makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:38",
+            "description": "Derrick Favors makes two point jump shot (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:17",
+            "description": "Kyle Kuzma makes three point bank jump shot (Rajon Rondo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:59",
+            "description": "Rudy Gobert makes two point bank hook shot (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:48",
+            "description": "Kyle Kuzma makes two point turnaround jump shot (Rajon Rondo assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:32",
+            "description": "Derrick Favors makes two point driving dunk (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:13",
+            "description": "Kyle Kuzma misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:09",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:00",
+            "description": "Joe Ingles misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:57",
+            "description": "Lance Stephenson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:45",
+            "description": "JaVale McGee misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:42",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:39",
+            "description": "Lance Stephenson personal foul (Joe Ingles draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:39",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:39",
+            "description": "Lakers lineup change (Rajon Rondo, Kyle Kuzma, Kentavious Caldwell-Pope, Alex Caruso, Johnathan Williams)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:39",
+            "description": "Jazz lineup change (Ricky Rubio, Royce O'Neale, Jae Crowder, Rudy Gobert, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:39",
+            "description": "Lakers delay of game violation",
+            "event_type": "delay",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:31",
+            "description": "Ricky Rubio makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:04",
+            "description": "Johnathan Williams misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:03",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:55",
+            "description": "Rudy Gobert makes two point dunk (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:41",
+            "description": "Rajon Rondo misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:38",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:29",
+            "description": "Alex Caruso shooting foul (Ricky Rubio draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:29",
+            "description": "Ricky Rubio makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:29",
+            "description": "Lakers lineup change (Rajon Rondo, Kyle Kuzma, Kentavious Caldwell-Pope, JaVale McGee, Alex Caruso)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:29",
+            "description": "Ricky Rubio makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:10",
+            "description": "Kyle Kuzma makes two point bank jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:47",
+            "description": "Ricky Rubio misses two point bank jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:45",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:37",
+            "description": "Kyle Kuzma misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:35",
+            "description": "Jazz defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:35",
+            "description": "Kentavious Caldwell-Pope personal foul (Donovan Mitchell draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:35",
+            "description": "Jazz lineup change (Kyle Korver, Royce O'Neale, Jae Crowder, Rudy Gobert, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:26",
+            "description": "Donovan Mitchell misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:23",
+            "description": "Rajon Rondo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:17",
+            "description": "Alex Caruso makes three point jump shot (Rajon Rondo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:05",
+            "description": "Kyle Korver misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:02",
+            "description": "Rajon Rondo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:56",
+            "description": "Rajon Rondo makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:40",
+            "description": "Jae Crowder makes three point jump shot (Kyle Korver assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:26",
+            "description": "JaVale McGee misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:24",
+            "description": "Kyle Korver defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:15",
+            "description": "JaVale McGee shooting foul (Rudy Gobert draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:15",
+            "description": "Rudy Gobert makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:15",
+            "description": "Lakers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:15",
+            "description": "Jazz lineup change (Kyle Korver, Jae Crowder, Joe Ingles, Raul Neto, Rudy Gobert)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:15",
+            "description": "Rudy Gobert makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:58",
+            "description": "Rajon Rondo misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:55",
+            "description": "JaVale McGee offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:55",
+            "description": "JaVale McGee misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:54",
+            "description": "Kyle Korver defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:38",
+            "description": "Rudy Gobert makes two point cutting layup (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:31",
+            "description": "Kyle Kuzma misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:29",
+            "description": "JaVale McGee offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:29",
+            "description": "JaVale McGee makes two point tip dunk",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:20",
+            "description": "Kyle Kuzma blocks Raul Neto's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:20",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:20",
+            "description": "Lakers lineup change (Isaac Bonga, Kyle Kuzma, Lance Stephenson, JaVale McGee, Alex Caruso)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:20",
+            "description": "Jazz lineup change (Derrick Favors, Kyle Korver, Jae Crowder, Joe Ingles, Raul Neto)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:20",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:18",
+            "description": "Kyle Korver makes three point jump shot (Joe Ingles assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:59",
+            "description": "Kyle Kuzma makes two point driving floating bank jump shot (Lance Stephenson assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:45",
+            "description": "Kyle Korver misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:42",
+            "description": "Isaac Bonga defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:35",
+            "description": "Isaac Bonga misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:33",
+            "description": "Joe Ingles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:25",
+            "description": "Joe Ingles misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:21",
+            "description": "Derrick Favors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:19",
+            "description": "Derrick Favors turnover (lost ball) (Lance Stephenson steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:11",
+            "description": "Raul Neto blocks Lance Stephenson's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:09",
+            "description": "Raul Neto defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:02",
+            "description": "Jae Crowder turnover (lost ball) (Alex Caruso steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:53",
+            "description": "Alex Caruso misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:50",
+            "description": "Kyle Korver defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:33",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:31",
+            "description": "Derrick Favors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:31",
+            "description": "Derrick Favors makes two point tip layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:20",
+            "description": "Kyle Kuzma misses two point driving bank jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:19",
+            "description": "Joe Ingles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:15",
+            "description": "Kyle Korver misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:11",
+            "description": "Isaac Bonga defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:01",
+            "description": "Joe Ingles personal foul (Kyle Kuzma draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Alex Caruso makes three point floating jump shot (Lance Stephenson assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Instant replay (Request: Ruling Upheld)",
+            "event_type": "review",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "End of 1st Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "12:00",
+            "description": "Lakers lineup change (Isaac Bonga, Lance Stephenson, Alex Caruso, Johnathan Williams, Moritz Wagner)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:47",
+            "description": "Derrick Favors makes two point cutting layup (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:47",
+            "description": "Isaac Bonga shooting foul (Derrick Favors draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:47",
+            "description": "Derrick Favors misses regular free throw 1 of 1",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:46",
+            "description": "Isaac Bonga defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:37",
+            "description": "Joe Ingles personal foul (Lance Stephenson draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:24",
+            "description": "Isaac Bonga makes two point floating jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:11",
+            "description": "Raul Neto makes two point driving reverse layup (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:00",
+            "description": "Johnathan Williams misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:56",
+            "description": "Moritz Wagner offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:56",
+            "description": "Moritz Wagner makes two point tip layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:43",
+            "description": "Derrick Favors makes two point dunk (Raul Neto assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:23",
+            "description": "Lance Stephenson makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:11",
+            "description": "Alex Caruso shooting foul (Derrick Favors draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:11",
+            "description": "Derrick Favors misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:11",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:11",
+            "description": "Lakers lineup change (Lance Stephenson, Alex Caruso, Scott Machado, Johnathan Williams, Moritz Wagner)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:11",
+            "description": "Derrick Favors makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:57",
+            "description": "Alex Caruso makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:39",
+            "description": "Jae Crowder makes three point stepback jump shot (Raul Neto assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:25",
+            "description": "Moritz Wagner makes two point driving layup (Lance Stephenson assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:25",
+            "description": "Derrick Favors shooting foul (Moritz Wagner draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:25",
+            "description": "Jazz lineup change (Derrick Favors, Kyle Korver, Joe Ingles, Raul Neto, Thabo Sefolosha)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:25",
+            "description": "Moritz Wagner makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:04",
+            "description": "Raul Neto turnover (lost ball) (Johnathan Williams steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:56",
+            "description": "Lance Stephenson misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:54",
+            "description": "Joe Ingles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:48",
+            "description": "Thabo Sefolosha misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:45",
+            "description": "Johnathan Williams defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:26",
+            "description": "Moritz Wagner turnover (bad pass) (Derrick Favors steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:20",
+            "description": "Thabo Sefolosha makes two point running layup (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:20",
+            "description": "Lakers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:20",
+            "description": "Jazz lineup change (Derrick Favors, Royce O'Neale, Raul Neto, Donovan Mitchell, Thabo Sefolosha)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:09",
+            "description": "Moritz Wagner makes three point jump shot (Alex Caruso assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:47",
+            "description": "Thabo Sefolosha misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:44",
+            "description": "Johnathan Williams defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:35",
+            "description": "Royce O'Neale shooting foul (Johnathan Williams draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:35",
+            "description": "Johnathan Williams makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:35",
+            "description": "Jazz lineup change (Ricky Rubio, Royce O'Neale, Rudy Gobert, Donovan Mitchell, Thabo Sefolosha)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:35",
+            "description": "Johnathan Williams misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:34",
+            "description": "Royce O'Neale defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:21",
+            "description": "Rudy Gobert makes two point layup (Donovan Mitchell assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:05",
+            "description": "Alex Caruso misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:03",
+            "description": "Thabo Sefolosha defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:50",
+            "description": "Donovan Mitchell turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:50",
+            "description": "Lakers lineup change (Rajon Rondo, Kyle Kuzma, Lance Stephenson, JaVale McGee, Moritz Wagner)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:39",
+            "description": "Lance Stephenson misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:35",
+            "description": "Thabo Sefolosha defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:29",
+            "description": "Donovan Mitchell misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:26",
+            "description": "Lance Stephenson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:04",
+            "description": "JaVale McGee misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:01",
+            "description": "Royce O'Neale defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:51",
+            "description": "Ricky Rubio misses two point driving reverse layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Rudy Gobert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Rudy Gobert misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Lakers defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:40",
+            "description": "Kyle Kuzma misses two point driving bank jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:39",
+            "description": "Jazz defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:39",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:39",
+            "description": "Lakers lineup change (Rajon Rondo, Kyle Kuzma, Kentavious Caldwell-Pope, JaVale McGee, Moritz Wagner)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:25",
+            "description": "Donovan Mitchell misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:23",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:01",
+            "description": "Rajon Rondo misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:01",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:01",
+            "description": "Lakers turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:49",
+            "description": "Ricky Rubio misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:47",
+            "description": "Moritz Wagner defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:31",
+            "description": "Rudy Gobert blocks Moritz Wagner's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:29",
+            "description": "Donovan Mitchell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:25",
+            "description": "Thabo Sefolosha makes three point jump shot (Donovan Mitchell assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:23",
+            "description": "Lakers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:23",
+            "description": "Jazz lineup change (Ricky Rubio, Jae Crowder, Joe Ingles, Rudy Gobert, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:07",
+            "description": "JaVale McGee misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:03",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:56",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:54",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:47",
+            "description": "Rajon Rondo misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:47",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:29",
+            "description": "Jae Crowder makes two point driving layup (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:24",
+            "description": "Donovan Mitchell shooting foul (Kyle Kuzma draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:24",
+            "description": "Kyle Kuzma makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:24",
+            "description": "Kyle Kuzma makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:10",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:07",
+            "description": "Kentavious Caldwell-Pope defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:48",
+            "description": "Kentavious Caldwell-Pope makes three point jump shot (Rajon Rondo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:31",
+            "description": "Ricky Rubio makes two point driving finger roll layup (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:13",
+            "description": "Kyle Kuzma makes two point jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:03",
+            "description": "Moritz Wagner personal foul (Joe Ingles draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:03",
+            "description": "Joe Ingles technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:03",
+            "description": "Kentavious Caldwell-Pope makes technical free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:03",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:03",
+            "description": "Lakers lineup change (Rajon Rondo, Kyle Kuzma, Kentavious Caldwell-Pope, Lance Stephenson, JaVale McGee)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:00",
+            "description": "Joe Ingles makes three point jump shot (Jae Crowder assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:43",
+            "description": "Kentavious Caldwell-Pope misses two point fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:41",
+            "description": "Joe Ingles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:34",
+            "description": "Joe Ingles makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:11",
+            "description": "Lance Stephenson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:08",
+            "description": "JaVale McGee offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:07",
+            "description": "Lance Stephenson makes three point jump shot (JaVale McGee assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:50",
+            "description": "Joe Ingles turnover (bad pass) (Rajon Rondo steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:47",
+            "description": "Ricky Rubio shooting foul (Lance Stephenson draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:47",
+            "description": "Lance Stephenson makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:47",
+            "description": "Lance Stephenson makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:36",
+            "description": "Joe Ingles misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:32",
+            "description": "Rajon Rondo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:25",
+            "description": "Kyle Kuzma misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:23",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:04",
+            "description": "Donovan Mitchell makes two point driving dunk",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "Rajon Rondo misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "End of 1st Half.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "12:00",
+            "description": "Jazz lineup change (Derrick Favors, Ricky Rubio, Joe Ingles, Rudy Gobert, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:47",
+            "description": "Ricky Rubio misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:45",
+            "description": "Lakers defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:45",
+            "description": "Rudy Gobert personal foul (Loose ball) (Kyle Kuzma draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:25",
+            "description": "Rajon Rondo misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:22",
+            "description": "Donovan Mitchell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:18",
+            "description": "Donovan Mitchell misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:14",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:08",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:58",
+            "description": "Kyle Kuzma misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:57",
+            "description": "Jazz defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:57",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Kyle Kuzma shooting foul (Derrick Favors draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Luke Walton technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Ricky Rubio misses technical free throw 1 of 1",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Derrick Favors misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Derrick Favors makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:33",
+            "description": "Kentavious Caldwell-Pope misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:32",
+            "description": "Donovan Mitchell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:31",
+            "description": "Kentavious Caldwell-Pope shooting foul (Donovan Mitchell draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:31",
+            "description": "Donovan Mitchell makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:31",
+            "description": "Donovan Mitchell makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:18",
+            "description": "Rajon Rondo misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:15",
+            "description": "Donovan Mitchell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:11",
+            "description": "Rudy Gobert makes two point alley-oop dunk (Donovan Mitchell assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:48",
+            "description": "JaVale McGee misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:47",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:38",
+            "description": "Rudy Gobert makes two point cutting dunk (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:38",
+            "description": "Lakers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:28",
+            "description": "Kentavious Caldwell-Pope makes two point driving layup (Rajon Rondo assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:13",
+            "description": "Kyle Kuzma blocks Rudy Gobert's two point dunk",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:10",
+            "description": "Derrick Favors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:09",
+            "description": "Derrick Favors makes two point layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:56",
+            "description": "Kyle Kuzma misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:54",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:47",
+            "description": "Donovan Mitchell misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:45",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:37",
+            "description": "Lance Stephenson makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:18",
+            "description": "Derrick Favors misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:14",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:06",
+            "description": "JaVale McGee makes two point driving hook shot (Lance Stephenson assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:44",
+            "description": "Derrick Favors makes two point cutting dunk (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:30",
+            "description": "Rajon Rondo turnover (bad pass) (Rudy Gobert steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:24",
+            "description": "JaVale McGee shooting foul (Ricky Rubio draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:24",
+            "description": "Ricky Rubio makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:24",
+            "description": "Ricky Rubio makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:16",
+            "description": "Rudy Gobert shooting foul (Lance Stephenson draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:16",
+            "description": "Lance Stephenson makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:16",
+            "description": "Jazz lineup change (Ricky Rubio, Royce O'Neale, Jae Crowder, Rudy Gobert, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:16",
+            "description": "Lance Stephenson misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:14",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:05",
+            "description": "Donovan Mitchell misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:02",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:49",
+            "description": "JaVale McGee makes two point floating jump shot (Rajon Rondo assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:38",
+            "description": "Lance Stephenson shooting foul (Donovan Mitchell draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:38",
+            "description": "Donovan Mitchell makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:38",
+            "description": "Donovan Mitchell makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:20",
+            "description": "Rudy Gobert blocks Rajon Rondo's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:18",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:15",
+            "description": "Donovan Mitchell makes two point alley-oop dunk (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:56",
+            "description": "Rudy Gobert blocks Kyle Kuzma's three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:53",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:53",
+            "description": "JaVale McGee personal foul (Jae Crowder draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:53",
+            "description": "Jae Crowder technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:53",
+            "description": "Instant replay",
+            "event_type": "review",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:53",
+            "description": "Kentavious Caldwell-Pope makes technical free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:53",
+            "description": "Lakers lineup change (Kyle Kuzma, Kentavious Caldwell-Pope, Lance Stephenson, JaVale McGee, Alex Caruso)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:53",
+            "description": "Jae Crowder makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:53",
+            "description": "Jae Crowder makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:46",
+            "description": "Alex Caruso turnover (bad pass) (Jae Crowder steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:41",
+            "description": "Ricky Rubio makes two point alley-oop layup (Jae Crowder assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:20",
+            "description": "Alex Caruso misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:17",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:11",
+            "description": "Donovan Mitchell turnover (out of bounds lost ball)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:51",
+            "description": "Lance Stephenson misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:50",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:40",
+            "description": "Jae Crowder misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:37",
+            "description": "Kentavious Caldwell-Pope defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:31",
+            "description": "Kentavious Caldwell-Pope misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:28",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:24",
+            "description": "Jae Crowder turnover (lost ball) (Kentavious Caldwell-Pope steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:10",
+            "description": "JaVale McGee misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:08",
+            "description": "Ricky Rubio defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:03",
+            "description": "Alex Caruso shooting foul (Rudy Gobert draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:03",
+            "description": "Rudy Gobert makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:03",
+            "description": "Lakers lineup change (Kyle Kuzma, Kentavious Caldwell-Pope, Lance Stephenson, Alex Caruso, Johnathan Williams)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:03",
+            "description": "Jazz lineup change (Kyle Korver, Royce O'Neale, Jae Crowder, Rudy Gobert, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:03",
+            "description": "Rudy Gobert makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:46",
+            "description": "Kentavious Caldwell-Pope misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:43",
+            "description": "Johnathan Williams offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:41",
+            "description": "Lance Stephenson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:39",
+            "description": "Kyle Korver defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:23",
+            "description": "Royce O'Neale turnover (bad pass) (Lance Stephenson steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:17",
+            "description": "Rudy Gobert shooting foul (Alex Caruso draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:17",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:17",
+            "description": "Lakers lineup change (Rajon Rondo, Kyle Kuzma, Alex Caruso, Johnathan Williams, Moritz Wagner)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:17",
+            "description": "Jazz lineup change (Derrick Favors, Kyle Korver, Royce O'Neale, Jae Crowder, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:17",
+            "description": "Alex Caruso misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:17",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:17",
+            "description": "Alex Caruso makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:53",
+            "description": "Royce O'Neale misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:49",
+            "description": "Kyle Kuzma defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:28",
+            "description": "Kyle Kuzma makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:10",
+            "description": "Royce O'Neale misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:08",
+            "description": "Kyle Kuzma defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:57",
+            "description": "Kyle Kuzma makes two point fadeaway jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:46",
+            "description": "Royce O'Neale makes two point driving layup (Kyle Korver assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:32",
+            "description": "Derrick Favors shooting foul (Johnathan Williams draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:32",
+            "description": "Johnathan Williams misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:32",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:32",
+            "description": "Jazz lineup change (Derrick Favors, Kyle Korver, Jae Crowder, Joe Ingles, Raul Neto)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:32",
+            "description": "Johnathan Williams misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:31",
+            "description": "Jae Crowder defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:19",
+            "description": "Joe Ingles turnover (bad pass) (Johnathan Williams steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:14",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:04",
+            "description": "Moritz Wagner misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:01",
+            "description": "Kyle Korver defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:48",
+            "description": "Derrick Favors misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:46",
+            "description": "Moritz Wagner defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:33",
+            "description": "Derrick Favors shooting foul (Moritz Wagner draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:33",
+            "description": "Moritz Wagner makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:33",
+            "description": "Jazz lineup change (Kyle Korver, Jae Crowder, Joe Ingles, Raul Neto, Ekpe Udoh)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:33",
+            "description": "Moritz Wagner makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:21",
+            "description": "Raul Neto makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:05",
+            "description": "Raul Neto personal foul (Kyle Kuzma draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:05",
+            "description": "Kyle Kuzma misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:05",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:05",
+            "description": "Lakers lineup change (Isaac Bonga, Rajon Rondo, Kyle Kuzma, Alex Caruso, Johnathan Williams)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:05",
+            "description": "Kyle Kuzma makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "Raul Neto turnover (bad pass) (Isaac Bonga steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "End of 3rd Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "12:00",
+            "description": "Lakers lineup change (Lance Stephenson, Alex Caruso, Scott Machado, Johnathan Williams, Moritz Wagner)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "12:00",
+            "description": "Jazz lineup change (Derrick Favors, Kyle Korver, Jae Crowder, Joe Ingles, Raul Neto)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:48",
+            "description": "Alex Caruso makes two point alley-oop dunk (Scott Machado assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:33",
+            "description": "Alex Caruso personal foul (Derrick Favors draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:27",
+            "description": "Lance Stephenson personal foul (Derrick Favors draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:22",
+            "description": "Moritz Wagner blocks Jae Crowder's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:21",
+            "description": "Jae Crowder offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:21",
+            "description": "Scott Machado shooting foul (Jae Crowder draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:21",
+            "description": "Jae Crowder makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:21",
+            "description": "Jae Crowder makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:06",
+            "description": "Johnathan Williams makes two point cutting dunk (Alex Caruso assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:44",
+            "description": "Jae Crowder makes three point jump shot (Joe Ingles assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:30",
+            "description": "Johnathan Williams misses two point turnaround hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:28",
+            "description": "Derrick Favors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:22",
+            "description": "Joe Ingles misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:19",
+            "description": "Johnathan Williams defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:12",
+            "description": "Johnathan Williams makes two point cutting layup (Alex Caruso assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:01",
+            "description": "Alex Caruso shooting foul (Jae Crowder draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:01",
+            "description": "Instant replay (Request: Ruling Upheld)",
+            "event_type": "review",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:01",
+            "description": "Jae Crowder makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:01",
+            "description": "Jae Crowder misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:58",
+            "description": "Lakers defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:58",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:50",
+            "description": "Scott Machado makes two point reverse layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:43",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:43",
+            "description": "Jazz lineup change (Derrick Favors, Royce O'Neale, Jae Crowder, Joe Ingles, Raul Neto)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:37",
+            "description": "Scott Machado shooting foul (Derrick Favors draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:37",
+            "description": "Derrick Favors misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:37",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:37",
+            "description": "Jazz lineup change (Derrick Favors, Royce O'Neale, Joe Ingles, Donovan Mitchell, Thabo Sefolosha)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:37",
+            "description": "Derrick Favors misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:35",
+            "description": "Alex Caruso defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:22",
+            "description": "Derrick Favors blocks Johnathan Williams's two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:19",
+            "description": "Thabo Sefolosha defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:03",
+            "description": "Derrick Favors makes two point dunk (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:53",
+            "description": "Alex Caruso misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:51",
+            "description": "Johnathan Williams offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:44",
+            "description": "Royce O'Neale personal foul (Lance Stephenson draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:37",
+            "description": "Johnathan Williams makes two point cutting dunk (Scott Machado assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:16",
+            "description": "Moritz Wagner personal foul (Thabo Sefolosha draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:16",
+            "description": "Thabo Sefolosha makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:16",
+            "description": "Jazz lineup change (Royce O'Neale, Joe Ingles, Rudy Gobert, Donovan Mitchell, Thabo Sefolosha)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:16",
+            "description": "Thabo Sefolosha makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:10",
+            "description": "Moritz Wagner misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:07",
+            "description": "Joe Ingles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:51",
+            "description": "Royce O'Neale makes two point driving layup (Joe Ingles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:36",
+            "description": "Royce O'Neale shooting foul (Johnathan Williams draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:36",
+            "description": "Johnathan Williams misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:36",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:36",
+            "description": "Lakers lineup change (Lance Stephenson, JaVale McGee, Alex Caruso, Scott Machado, Johnathan Williams)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:36",
+            "description": "Jazz lineup change (Ricky Rubio, Royce O'Neale, Rudy Gobert, Donovan Mitchell, Thabo Sefolosha)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:36",
+            "description": "Johnathan Williams makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:25",
+            "description": "Donovan Mitchell misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:15",
+            "description": "Scott Machado misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:13",
+            "description": "Thabo Sefolosha defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:06",
+            "description": "Rudy Gobert makes two point alley-oop layup (Royce O'Neale assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:54",
+            "description": "JaVale McGee makes two point alley-oop dunk (Alex Caruso assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:53",
+            "description": "Stoppage (Other)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:40",
+            "description": "Rudy Gobert makes two point jump shot (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:25",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:25",
+            "description": "Lakers lineup change (Isaac Bonga, Kentavious Caldwell-Pope, JaVale McGee, Scott Machado, Johnathan Williams)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:14",
+            "description": "JaVale McGee makes two point fadeaway jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:56",
+            "description": "Donovan Mitchell misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:53",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:53",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:44",
+            "description": "Johnathan Williams personal foul (Donovan Mitchell draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:44",
+            "description": "Donovan Mitchell misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:44",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:44",
+            "description": "Donovan Mitchell misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:42",
+            "description": "Johnathan Williams defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:34",
+            "description": "JaVale McGee makes two point alley-oop dunk (Scott Machado assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:33",
+            "description": "Jazz 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:20",
+            "description": "Thabo Sefolosha makes three point jump shot (Ricky Rubio assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:02",
+            "description": "Isaac Bonga misses two point driving floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:00",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:55",
+            "description": "Johnathan Williams shooting foul (Thabo Sefolosha draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:55",
+            "description": "Thabo Sefolosha misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:55",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:55",
+            "description": "Jazz lineup change (Ricky Rubio, Joe Ingles, Rudy Gobert, Donovan Mitchell, Thabo Sefolosha)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:55",
+            "description": "Thabo Sefolosha makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:37",
+            "description": "JaVale McGee makes two point cutting dunk (Johnathan Williams assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:19",
+            "description": "Rudy Gobert makes two point dunk (Ricky Rubio assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:07",
+            "description": "Kentavious Caldwell-Pope misses three point stepback jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:04",
+            "description": "Rudy Gobert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "Johnathan Williams personal foul (Rudy Gobert draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "Rudy Gobert misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "Jazz lineup change (Ricky Rubio, Jae Crowder, Joe Ingles, Rudy Gobert, Donovan Mitchell)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "Rudy Gobert misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:54",
+            "description": "JaVale McGee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:47",
+            "description": "JaVale McGee misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:44",
+            "description": "Kentavious Caldwell-Pope offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:44",
+            "description": "Kentavious Caldwell-Pope misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:43",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:42",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:32",
+            "description": "JaVale McGee turnover (lost ball) (Rudy Gobert steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:24",
+            "description": "JaVale McGee blocks Joe Ingles's two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:23",
+            "description": "Joe Ingles offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:23",
+            "description": "Kentavious Caldwell-Pope kicked ball violation",
+            "event_type": "kickball",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:09",
+            "description": "Joe Ingles makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:54",
+            "description": "Ricky Rubio personal foul (JaVale McGee draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:54",
+            "description": "Lakers lineup change (Isaac Bonga, Alex Caruso, Scott Machado, Johnathan Williams, Moritz Wagner)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:39",
+            "description": "Moritz Wagner misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:39",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:39",
+            "description": "Lakers turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:39",
+            "description": "Jazz lineup change (Ricky Rubio, Royce O'Neale, Jae Crowder, Joe Ingles, Ekpe Udoh)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:27",
+            "description": "Ricky Rubio misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:27",
+            "description": "Lakers defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:27",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:27",
+            "description": "Jazz lineup change (Ricky Rubio, Royce O'Neale, Grayson Allen, Ekpe Udoh, Georges Niang)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:17",
+            "description": "Alex Caruso makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:57",
+            "description": "Georges Niang misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:55",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:55",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:55",
+            "description": "Jazz lineup change (Royce O'Neale, Raul Neto, Grayson Allen, Ekpe Udoh, Georges Niang)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:53",
+            "description": "Royce O'Neale turnover (bad pass) (Scott Machado steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:48",
+            "description": "Scott Machado makes two point running layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:33",
+            "description": "Johnathan Williams personal foul (Grayson Allen draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:33",
+            "description": "Grayson Allen misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:33",
+            "description": "Jazz offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:33",
+            "description": "Grayson Allen makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:28",
+            "description": "Scott Machado makes three point stepback jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:16",
+            "description": "Georges Niang makes two point bank hook shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:58",
+            "description": "Moritz Wagner makes two point layup (Isaac Bonga assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:58",
+            "description": "Georges Niang shooting foul (Moritz Wagner draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:58",
+            "description": "Moritz Wagner makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:40",
+            "description": "Grayson Allen misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:37",
+            "description": "Moritz Wagner defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:27",
+            "description": "Alex Caruso misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:23",
+            "description": "Lakers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:23",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:13",
+            "description": "Moritz Wagner misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:10",
+            "description": "Ekpe Udoh defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:00",
+            "description": "End of 4th Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        }
+    ]
+}

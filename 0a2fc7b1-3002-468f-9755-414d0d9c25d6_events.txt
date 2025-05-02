@@ -1,0 +1,1338 @@
+Game: Spurs @ Jazz
+Date: 2019-02-09T22:00:00+00:00
+
+All Events:
+-----------
+
+OT-3 - 12:00
+Spurs lineup change (Jakob Poeltl, LaMarcus Aldridge, Bryn Forbes, Davis Bertans, DeMar DeRozan)
+
+OT-3 - 12:00
+Jazz lineup change (Donovan Mitchell, Derrick Favors, Ricky Rubio, Rudy Gobert, Joe Ingles)
+
+OT-3 - 12:00
+Jakob Poeltl vs. Rudy Gobert (Derrick Favors gains possession)
+
+OT-3 - 11:40
+Joe Ingles makes three point stepback jump shot (Rudy Gobert assists)
+
+OT-3 - 11:25
+DeMar DeRozan misses two point pullup jump shot
+
+OT-3 - 11:23
+Ricky Rubio defensive rebound
+
+OT-3 - 11:16
+Derrick Favors makes two point jump shot (Joe Ingles assists)
+
+OT-3 - 11:00
+DeMar DeRozan makes two point driving layup (LaMarcus Aldridge assists)
+
+OT-3 - 11:00
+Derrick Favors shooting foul (DeMar DeRozan draws the foul)
+
+OT-3 - 11:00
+DeMar DeRozan makes regular free throw 1 of 1
+
+OT-3 - 10:54
+Davis Bertans personal foul (Joe Ingles draws the foul)
+
+OT-3 - 10:49
+Joe Ingles misses three point jump shot
+
+OT-3 - 10:45
+Jakob Poeltl defensive rebound
+
+OT-3 - 10:33
+Jakob Poeltl makes two point cutting dunk (LaMarcus Aldridge assists)
+
+OT-3 - 10:10
+Donovan Mitchell makes two point pullup jump shot
+
+OT-3 - 10:00
+DeMar DeRozan misses two point pullup jump shot
+
+OT-3 - 9:58
+Rudy Gobert defensive rebound
+
+OT-3 - 9:50
+Rudy Gobert turnover (lost ball) (Davis Bertans steals)
+
+OT-3 - 9:43
+DeMar DeRozan turnover (lost ball) (Derrick Favors steals)
+
+OT-3 - 9:34
+Derrick Favors misses three point jump shot
+
+OT-3 - 9:31
+Donovan Mitchell offensive rebound
+
+OT-3 - 9:27
+Ricky Rubio misses three point jump shot
+
+OT-3 - 9:23
+LaMarcus Aldridge defensive rebound
+
+OT-3 - 9:07
+LaMarcus Aldridge makes two point stepback jump shot
+
+OT-3 - 8:51
+Derrick Favors misses two point hook shot
+
+OT-3 - 8:48
+Jakob Poeltl defensive rebound
+
+OT-3 - 8:41
+DeMar DeRozan makes two point pullup jump shot
+
+OT-3 - 8:17
+Donovan Mitchell misses three point stepback jump shot
+
+OT-3 - 8:14
+Jakob Poeltl defensive rebound
+
+OT-3 - 8:02
+Bryn Forbes makes two point stepback jump shot
+
+OT-3 - 7:46
+Derrick Favors makes two point reverse layup (Rudy Gobert assists)
+
+OT-3 - 7:28
+Bryn Forbes makes three point jump shot (DeMar DeRozan assists)
+
+OT-3 - 7:26
+Jazz 60 second timeout
+
+OT-3 - 7:26
+Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Jae Crowder, Kyle Korver)
+
+OT-3 - 7:13
+Jae Crowder makes three point jump shot (Ricky Rubio assists)
+
+OT-3 - 6:53
+Bryn Forbes misses three point pullup jump shot
+
+OT-3 - 6:50
+Rudy Gobert defensive rebound
+
+OT-3 - 6:46
+Jae Crowder misses three point jump shot
+
+OT-3 - 6:43
+LaMarcus Aldridge defensive rebound
+
+OT-3 - 6:35
+Stoppage (Out of bounds)
+
+OT-3 - 6:30
+Ricky Rubio personal foul (DeMar DeRozan draws the foul)
+
+OT-3 - 6:21
+DeMar DeRozan makes two point floating jump shot (Davis Bertans assists)
+
+OT-3 - 6:18
+Rudy Gobert technical foul
+
+OT-3 - 6:18
+DeMar DeRozan makes technical free throw 1 of 1
+
+OT-3 - 6:18
+Spurs lineup change (Dante Cunningham, LaMarcus Aldridge, Bryn Forbes, Davis Bertans, DeMar DeRozan)
+
+OT-3 - 5:57
+Rudy Gobert turnover (out of bounds lost ball)
+
+OT-3 - 5:34
+LaMarcus Aldridge makes two point stepback jump shot
+
+OT-3 - 5:25
+Jae Crowder misses three point jump shot
+
+OT-3 - 5:20
+Spurs defensive rebound
+
+OT-3 - 5:20
+Stoppage (Out of bounds)
+
+OT-3 - 5:20
+Spurs lineup change (Dante Cunningham, Patty Mills, LaMarcus Aldridge, Marco Belinelli, DeMar DeRozan)
+
+OT-3 - 5:08
+LaMarcus Aldridge misses two point stepback jump shot
+
+OT-3 - 5:06
+Ricky Rubio defensive rebound
+
+OT-3 - 4:57
+Rudy Gobert makes two point layup (Jae Crowder assists)
+
+OT-3 - 4:57
+Spurs 60 second timeout
+
+OT-3 - 4:57
+Jazz lineup change (Donovan Mitchell, Rudy Gobert, Royce O'Neale, Jae Crowder, Kyle Korver)
+
+OT-3 - 4:34
+LaMarcus Aldridge misses two point turnaround fadeaway jump shot
+
+OT-3 - 4:31
+Jae Crowder defensive rebound
+
+OT-3 - 4:25
+Kyle Korver misses three point pullup jump shot
+
+OT-3 - 4:22
+Marco Belinelli defensive rebound
+
+OT-3 - 4:15
+Rudy Gobert blocks Marco Belinelli's two point driving layup
+
+OT-3 - 4:13
+Donovan Mitchell defensive rebound
+
+OT-3 - 4:09
+DeMar DeRozan shooting foul (Rudy Gobert draws the foul)
+
+OT-3 - 4:09
+Rudy Gobert makes regular free throw 1 of 2
+
+OT-3 - 4:09
+Rudy Gobert makes regular free throw 2 of 2
+
+OT-3 - 3:52
+Marco Belinelli turnover (bad pass) (Kyle Korver steals)
+
+OT-3 - 3:45
+Jae Crowder misses three point jump shot
+
+OT-3 - 3:42
+Rudy Gobert offensive rebound
+
+OT-3 - 3:41
+Rudy Gobert misses two point layup
+
+OT-3 - 3:41
+Patty Mills defensive rebound
+
+OT-3 - 3:33
+LaMarcus Aldridge makes two point alley-oop dunk (DeMar DeRozan assists)
+
+OT-3 - 3:16
+Kyle Korver makes three point jump shot (Jae Crowder assists)
+
+OT-3 - 3:01
+Marco Belinelli makes two point pullup jump shot (LaMarcus Aldridge assists)
+
+OT-3 - 3:01
+Kyle Korver shooting foul (Marco Belinelli draws the foul)
+
+OT-3 - 3:01
+Jazz lineup change (Donovan Mitchell, Derrick Favors, Royce O'Neale, Jae Crowder, Kyle Korver)
+
+OT-3 - 3:01
+Spurs lineup change (Dante Cunningham, Patty Mills, Jakob Poeltl, Marco Belinelli, DeMar DeRozan)
+
+OT-3 - 3:01
+Marco Belinelli makes regular free throw 1 of 1
+
+OT-3 - 2:40
+Donovan Mitchell turnover (lost ball) (Dante Cunningham steals)
+
+OT-3 - 2:23
+DeMar DeRozan misses two point pullup jump shot
+
+OT-3 - 2:20
+Kyle Korver defensive rebound
+
+OT-3 - 2:13
+Donovan Mitchell makes two point floating jump shot
+
+OT-3 - 1:58
+DeMar DeRozan misses two point driving floating bank jump shot
+
+OT-3 - 1:56
+Royce O'Neale defensive rebound
+
+OT-3 - 1:50
+Jae Crowder misses three point jump shot
+
+OT-3 - 1:47
+Dante Cunningham defensive rebound
+
+OT-3 - 1:38
+Dante Cunningham misses three point jump shot
+
+OT-3 - 1:36
+Kyle Korver defensive rebound
+
+OT-3 - 1:22
+Derrick Favors misses two point driving layup
+
+OT-3 - 1:19
+Patty Mills defensive rebound
+
+OT-3 - 1:14
+Marco Belinelli misses three point jump shot
+
+OT-3 - 1:11
+Derrick Favors defensive rebound
+
+OT-3 - 1:04
+Royce O'Neale misses two point jump shot
+
+OT-3 - 1:02
+Derrick Favors offensive rebound
+
+OT-3 - 1:01
+Derrick Favors turnover (traveling)
+
+OT-3 - 1:01
+Spurs lineup change (Dante Cunningham, Patty Mills, Jakob Poeltl, Marco Belinelli, Davis Bertans)
+
+OT-3 - 1:01
+Jazz lineup change (Derrick Favors, Ricky Rubio, Jae Crowder, Joe Ingles, Kyle Korver)
+
+OT-3 - 00:45
+Patty Mills misses three point jump shot
+
+OT-3 - 00:43
+Jae Crowder defensive rebound
+
+OT-3 - 00:37
+Dante Cunningham personal foul (Derrick Favors draws the foul)
+
+OT-3 - 00:29
+Ricky Rubio makes two point pullup jump shot (Joe Ingles assists)
+
+OT-3 - 00:14
+Marco Belinelli offensive foul (Ricky Rubio draws the foul)
+
+OT-3 - 00:14
+Marco Belinelli turnover (offensive foul)
+
+OT-3 - 00:14
+Jazz lineup change (Donovan Mitchell, Derrick Favors, Jae Crowder, Joe Ingles, Kyle Korver)
+
+OT-3 - 00:00
+Donovan Mitchell misses two point jump shot
+
+OT-3 - 00:00
+Jazz offensive rebound
+
+OT-3 - 00:00
+End of 1st Quarter.
+
+OT-2 - 12:00
+Jazz lineup change (Derrick Favors, Ricky Rubio, Jae Crowder, Joe Ingles, Kyle Korver)
+
+OT-2 - 11:49
+Davis Bertans misses three point jump shot
+
+OT-2 - 11:47
+Derrick Favors defensive rebound
+
+OT-2 - 11:41
+Ricky Rubio makes two point driving reverse layup
+
+OT-2 - 11:28
+Davis Bertans makes two point pullup jump shot (Patty Mills assists)
+
+OT-2 - 11:14
+Derrick Favors makes two point dunk (Ricky Rubio assists)
+
+OT-2 - 11:14
+Dante Cunningham shooting foul (Derrick Favors draws the foul)
+
+OT-2 - 11:14
+Derrick Favors makes regular free throw 1 of 1
+
+OT-2 - 11:05
+Jakob Poeltl misses two point floating jump shot
+
+OT-2 - 11:01
+Jae Crowder defensive rebound
+
+OT-2 - 10:46
+Jakob Poeltl shooting foul (Derrick Favors draws the foul)
+
+OT-2 - 10:46
+Derrick Favors makes regular free throw 1 of 2
+
+OT-2 - 10:46
+Derrick Favors makes regular free throw 2 of 2
+
+OT-2 - 10:37
+Patty Mills makes three point pullup jump shot
+
+OT-2 - 10:21
+Joe Ingles makes two point driving layup
+
+OT-2 - 10:00
+Marco Belinelli misses three point jump shot
+
+OT-2 - 9:55
+Ricky Rubio defensive rebound
+
+OT-2 - 9:49
+Ricky Rubio misses two point pullup jump shot
+
+OT-2 - 9:46
+Patty Mills defensive rebound
+
+OT-2 - 9:39
+Stoppage (Out of bounds)
+
+OT-2 - 9:39
+Spurs lineup change (Dante Cunningham, LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, Davis Bertans)
+
+OT-2 - 9:39
+Jazz lineup change (Derrick Favors, Raul Neto, Jae Crowder, Joe Ingles, Kyle Korver)
+
+OT-2 - 9:32
+Bryn Forbes turnover (bad pass) (Derrick Favors steals)
+
+OT-2 - 9:15
+Derrick Favors misses two point floating jump shot
+
+OT-2 - 9:13
+LaMarcus Aldridge defensive rebound
+
+OT-2 - 9:02
+Marco Belinelli misses two point pullup jump shot
+
+OT-2 - 9:00
+LaMarcus Aldridge offensive rebound
+
+OT-2 - 8:53
+LaMarcus Aldridge misses two point bank hook shot
+
+OT-2 - 8:51
+Raul Neto defensive rebound
+
+OT-2 - 8:43
+Davis Bertans blocks Derrick Favors's two point dunk
+
+OT-2 - 8:40
+Marco Belinelli defensive rebound
+
+OT-2 - 8:38
+Davis Bertans makes three point jump shot (Marco Belinelli assists)
+
+OT-2 - 8:37
+Jazz 60 second timeout
+
+OT-2 - 8:37
+Jazz lineup change (Donovan Mitchell, Rudy Gobert, Raul Neto, Royce O'Neale, Kyle Korver)
+
+OT-2 - 8:37
+Spurs lineup change (Jakob Poeltl, LaMarcus Aldridge, Bryn Forbes, Davis Bertans, DeMar DeRozan)
+
+OT-2 - 8:21
+Rudy Gobert makes two point layup (Raul Neto assists)
+
+OT-2 - 8:05
+DeMar DeRozan turnover (traveling)
+
+OT-2 - 7:57
+Royce O'Neale makes three point jump shot
+
+OT-2 - 7:41
+Stoppage (Out of bounds)
+
+OT-2 - 7:36
+LaMarcus Aldridge misses two point stepback jump shot
+
+OT-2 - 7:33
+Kyle Korver defensive rebound
+
+OT-2 - 7:28
+Donovan Mitchell misses two point driving layup
+
+OT-2 - 7:25
+Rudy Gobert offensive rebound
+
+OT-2 - 7:25
+Rudy Gobert makes two point tip dunk
+
+OT-2 - 7:04
+LaMarcus Aldridge misses two point layup
+
+OT-2 - 7:02
+Rudy Gobert defensive rebound
+
+OT-2 - 6:53
+Donovan Mitchell makes two point stepback jump shot
+
+OT-2 - 6:34
+Bryn Forbes misses two point jump shot
+
+OT-2 - 6:32
+Donovan Mitchell defensive rebound
+
+OT-2 - 6:26
+Stoppage (Out of bounds)
+
+OT-2 - 6:19
+Donovan Mitchell misses two point stepback jump shot
+
+OT-2 - 6:17
+LaMarcus Aldridge defensive rebound
+
+OT-2 - 6:07
+Bryn Forbes makes two point driving floating jump shot (DeMar DeRozan assists)
+
+OT-2 - 5:52
+Raul Neto makes two point layup
+
+OT-2 - 5:22
+Bryn Forbes makes three point jump shot
+
+OT-2 - 5:05
+Raul Neto misses three point pullup jump shot
+
+OT-2 - 5:02
+Jakob Poeltl defensive rebound
+
+OT-2 - 4:54
+DeMar DeRozan makes two point turnaround fadeaway jump shot
+
+OT-2 - 4:32
+Donovan Mitchell makes two point stepback jump shot
+
+OT-2 - 4:13
+Bryn Forbes misses two point turnaround fadeaway jump shot
+
+OT-2 - 4:12
+Rudy Gobert defensive rebound
+
+OT-2 - 4:07
+Donovan Mitchell misses three point pullup jump shot
+
+OT-2 - 4:03
+Jazz offensive rebound
+
+OT-2 - 4:03
+Stoppage (Out of bounds)
+
+OT-2 - 4:03
+Jazz lineup change (Donovan Mitchell, Rudy Gobert, Raul Neto, Royce O'Neale, Joe Ingles)
+
+OT-2 - 4:03
+Spurs lineup change (Jakob Poeltl, LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, DeMar DeRozan)
+
+OT-2 - 4:03
+Spurs lineup change (Patty Mills, LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, DeMar DeRozan)
+
+OT-2 - 3:59
+Royce O'Neale makes three point jump shot (Raul Neto assists)
+
+OT-2 - 3:56
+Spurs 60 second timeout
+
+OT-2 - 3:56
+Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Royce O'Neale, Joe Ingles)
+
+OT-2 - 3:39
+LaMarcus Aldridge misses two point stepback jump shot
+
+OT-2 - 3:37
+Royce O'Neale defensive rebound
+
+OT-2 - 3:21
+Joe Ingles misses three point jump shot
+
+OT-2 - 3:19
+Rudy Gobert offensive rebound
+
+OT-2 - 3:09
+Ricky Rubio makes two point driving layup (Rudy Gobert assists)
+
+OT-2 - 2:47
+DeMar DeRozan makes two point pullup jump shot (LaMarcus Aldridge assists)
+
+OT-2 - 2:32
+Royce O'Neale makes three point jump shot (Ricky Rubio assists)
+
+OT-2 - 2:25
+Spurs 60 second timeout
+
+OT-2 - 2:09
+Patty Mills misses two point driving layup
+
+OT-2 - 2:06
+Marco Belinelli offensive rebound
+
+OT-2 - 2:05
+Patty Mills misses three point jump shot
+
+OT-2 - 2:01
+Royce O'Neale defensive rebound
+
+OT-2 - 1:50
+Rudy Gobert misses two point alley-oop layup
+
+OT-2 - 1:48
+Rudy Gobert offensive rebound
+
+OT-2 - 1:48
+Rudy Gobert makes two point tip layup
+
+OT-2 - 1:29
+Joe Ingles personal foul (Marco Belinelli draws the foul)
+
+OT-2 - 1:20
+Joe Ingles personal foul (Marco Belinelli draws the foul)
+
+OT-2 - 1:20
+Marco Belinelli makes regular free throw 1 of 2
+
+OT-2 - 1:20
+Marco Belinelli makes regular free throw 2 of 2
+
+OT-2 - 1:09
+Rudy Gobert makes two point alley-oop dunk (Ricky Rubio assists)
+
+OT-2 - 00:48
+Rudy Gobert shooting foul (LaMarcus Aldridge draws the foul)
+
+OT-2 - 00:48
+LaMarcus Aldridge makes regular free throw 1 of 2
+
+OT-2 - 00:48
+LaMarcus Aldridge makes regular free throw 2 of 2
+
+OT-2 - 00:38
+Ricky Rubio makes two point pullup jump shot
+
+OT-2 - 00:27
+Patty Mills makes three point jump shot (Bryn Forbes assists)
+
+OT-2 - 00:04
+Ricky Rubio makes three point jump shot (Royce O'Neale assists)
+
+OT-2 - 00:00
+LaMarcus Aldridge misses three point jump shot
+
+OT-2 - 00:00
+Spurs offensive rebound
+
+OT-2 - 00:00
+End of 1st Half.
+
+OT-1 - 12:00
+Spurs lineup change (Jakob Poeltl, LaMarcus Aldridge, Bryn Forbes, Davis Bertans, DeMar DeRozan)
+
+OT-1 - 12:00
+Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Jae Crowder, Joe Ingles)
+
+OT-1 - 11:47
+Jakob Poeltl makes two point layup (DeMar DeRozan assists)
+
+OT-1 - 11:32
+Jae Crowder misses two point cutting dunk
+
+OT-1 - 11:30
+Davis Bertans defensive rebound
+
+OT-1 - 11:22
+Davis Bertans misses two point pullup jump shot
+
+OT-1 - 11:19
+Rudy Gobert defensive rebound
+
+OT-1 - 11:10
+Joe Ingles turnover (bad pass) (DeMar DeRozan steals)
+
+OT-1 - 11:05
+DeMar DeRozan makes two point layup (Bryn Forbes assists)
+
+OT-1 - 10:49
+Rudy Gobert makes two point dunk (Ricky Rubio assists)
+
+OT-1 - 10:33
+DeMar DeRozan misses two point turnaround fadeaway jump shot
+
+OT-1 - 10:30
+Donovan Mitchell defensive rebound
+
+OT-1 - 10:21
+Ricky Rubio misses three point jump shot
+
+OT-1 - 10:18
+Jakob Poeltl defensive rebound
+
+OT-1 - 10:03
+LaMarcus Aldridge misses two point hook shot
+
+OT-1 - 10:01
+Jae Crowder defensive rebound
+
+OT-1 - 9:56
+Ricky Rubio makes two point pullup jump shot
+
+OT-1 - 9:43
+Jakob Poeltl makes two point driving floating bank jump shot (DeMar DeRozan assists)
+
+OT-1 - 9:22
+Jakob Poeltl blocks Donovan Mitchell's two point driving layup
+
+OT-1 - 9:18
+LaMarcus Aldridge defensive rebound
+
+OT-1 - 9:15
+Bryn Forbes misses three point jump shot
+
+OT-1 - 9:14
+Jazz defensive rebound
+
+OT-1 - 9:14
+Jakob Poeltl personal foul (Loose ball) (Rudy Gobert draws the foul)
+
+OT-1 - 9:04
+Donovan Mitchell makes three point pullup jump shot
+
+OT-1 - 8:45
+DeMar DeRozan turnover (lost ball) (Donovan Mitchell steals)
+
+OT-1 - 8:39
+Jae Crowder misses three point jump shot
+
+OT-1 - 8:36
+Jazz offensive rebound
+
+OT-1 - 8:36
+Stoppage (Out of bounds)
+
+OT-1 - 8:34
+Donovan Mitchell misses three point jump shot
+
+OT-1 - 8:31
+Bryn Forbes defensive rebound
+
+OT-1 - 8:15
+Davis Bertans misses three point jump shot
+
+OT-1 - 8:13
+Ricky Rubio defensive rebound
+
+OT-1 - 8:03
+Ricky Rubio makes two point driving floating bank jump shot
+
+OT-1 - 7:45
+Ricky Rubio personal foul (Bryn Forbes draws the foul)
+
+OT-1 - 7:36
+Rudy Gobert blocks LaMarcus Aldridge's two point jump shot
+
+OT-1 - 7:36
+Spurs offensive rebound
+
+OT-1 - 7:36
+Stoppage (Out of bounds)
+
+OT-1 - 7:32
+LaMarcus Aldridge misses two point floating jump shot
+
+OT-1 - 7:30
+Jae Crowder defensive rebound
+
+OT-1 - 7:17
+Ricky Rubio misses three point jump shot
+
+OT-1 - 7:14
+Jakob Poeltl defensive rebound
+
+OT-1 - 7:04
+Joe Ingles personal foul (DeMar DeRozan draws the foul)
+
+OT-1 - 7:04
+Spurs lineup change (LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, Davis Bertans, DeMar DeRozan)
+
+OT-1 - 7:04
+Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Royce O'Neale, Kyle Korver)
+
+OT-1 - 6:59
+DeMar DeRozan makes two point pullup jump shot
+
+OT-1 - 6:44
+DeMar DeRozan shooting foul (Donovan Mitchell draws the foul)
+
+OT-1 - 6:44
+Jazz 60 second timeout
+
+OT-1 - 6:44
+Donovan Mitchell makes regular free throw 1 of 2
+
+OT-1 - 6:44
+Donovan Mitchell makes regular free throw 2 of 2
+
+OT-1 - 6:32
+DeMar DeRozan misses two point stepback jump shot
+
+OT-1 - 6:29
+Ricky Rubio defensive rebound
+
+OT-1 - 6:22
+Donovan Mitchell misses two point fadeaway jump shot
+
+OT-1 - 6:19
+Bryn Forbes defensive rebound
+
+OT-1 - 6:05
+Marco Belinelli makes two point driving layup
+
+OT-1 - 5:51
+Donovan Mitchell offensive foul (DeMar DeRozan draws the foul)
+
+OT-1 - 5:51
+Donovan Mitchell turnover (offensive foul)
+
+OT-1 - 5:51
+Spurs lineup change (Patty Mills, LaMarcus Aldridge, Marco Belinelli, Davis Bertans, DeMar DeRozan)
+
+OT-1 - 5:39
+Patty Mills makes two point driving finger roll layup
+
+OT-1 - 5:25
+LaMarcus Aldridge blocks Ricky Rubio's two point pullup jump shot
+
+OT-1 - 5:23
+Rudy Gobert offensive rebound
+
+OT-1 - 5:19
+Rudy Gobert turnover (back court violation)
+
+OT-1 - 5:10
+DeMar DeRozan misses two point turnaround fadeaway jump shot
+
+OT-1 - 5:07
+Ricky Rubio defensive rebound
+
+OT-1 - 4:56
+Royce O'Neale makes two point driving finger roll layup (Donovan Mitchell assists)
+
+OT-1 - 4:55
+Spurs 60 second timeout
+
+OT-1 - 4:36
+DeMar DeRozan makes two point pullup jump shot
+
+OT-1 - 4:21
+LaMarcus Aldridge shooting foul (Rudy Gobert draws the foul)
+
+OT-1 - 4:21
+Rudy Gobert makes regular free throw 1 of 2
+
+OT-1 - 4:21
+Rudy Gobert makes regular free throw 2 of 2
+
+OT-1 - 4:07
+DeMar DeRozan misses two point stepback jump shot
+
+OT-1 - 4:03
+LaMarcus Aldridge offensive rebound
+
+OT-1 - 4:03
+LaMarcus Aldridge makes two point tip layup
+
+OT-1 - 3:50
+Rudy Gobert makes two point alley-oop dunk (Ricky Rubio assists)
+
+OT-1 - 3:28
+Ricky Rubio shooting foul (LaMarcus Aldridge draws the foul)
+
+OT-1 - 3:28
+LaMarcus Aldridge makes regular free throw 1 of 2
+
+OT-1 - 3:28
+Jazz lineup change (Donovan Mitchell, Rudy Gobert, Raul Neto, Royce O'Neale, Kyle Korver)
+
+OT-1 - 3:28
+Spurs lineup change (Patty Mills, LaMarcus Aldridge, Bryn Forbes, Marco Belinelli, Davis Bertans)
+
+OT-1 - 3:28
+LaMarcus Aldridge makes regular free throw 2 of 2
+
+OT-1 - 3:17
+Kyle Korver makes two point driving layup (Donovan Mitchell assists)
+
+OT-1 - 3:07
+Davis Bertans makes three point jump shot (Patty Mills assists)
+
+OT-1 - 2:51
+Donovan Mitchell misses three point jump shot
+
+OT-1 - 2:48
+Patty Mills defensive rebound
+
+OT-1 - 2:39
+Marco Belinelli misses two point driving layup
+
+OT-1 - 2:36
+LaMarcus Aldridge offensive rebound
+
+OT-1 - 2:36
+LaMarcus Aldridge misses two point tip layup
+
+OT-1 - 2:35
+Rudy Gobert defensive rebound
+
+OT-1 - 2:32
+Royce O'Neale makes two point layup (Raul Neto assists)
+
+OT-1 - 2:32
+Davis Bertans shooting foul (Royce O'Neale draws the foul)
+
+OT-1 - 2:32
+Spurs lineup change (Patty Mills, Bryn Forbes, Marco Belinelli, Pau Gasol, Davis Bertans)
+
+OT-1 - 2:32
+Jazz lineup change (Derrick Favors, Raul Neto, Royce O'Neale, Joe Ingles, Kyle Korver)
+
+OT-1 - 2:32
+Royce O'Neale makes regular free throw 1 of 1
+
+OT-1 - 2:22
+Bryn Forbes makes two point pullup jump shot (Patty Mills assists)
+
+OT-1 - 2:05
+Derrick Favors misses two point alley-oop layup
+
+OT-1 - 2:04
+Pau Gasol defensive rebound
+
+OT-1 - 1:53
+Davis Bertans misses three point jump shot
+
+OT-1 - 1:50
+Derrick Favors defensive rebound
+
+OT-1 - 1:41
+Joe Ingles turnover (bad pass) (Marco Belinelli steals)
+
+OT-1 - 1:36
+Bryn Forbes misses three point jump shot
+
+OT-1 - 1:32
+Derrick Favors defensive rebound
+
+OT-1 - 1:24
+Stoppage (Out of bounds)
+
+OT-1 - 1:20
+Joe Ingles turnover (lost ball) (Pau Gasol steals)
+
+OT-1 - 1:16
+Raul Neto shooting foul (Marco Belinelli draws the foul)
+
+OT-1 - 1:16
+Marco Belinelli makes regular free throw 1 of 2
+
+OT-1 - 1:16
+Spurs lineup change (Dante Cunningham, Patty Mills, Bryn Forbes, Marco Belinelli, Pau Gasol)
+
+OT-1 - 1:16
+Marco Belinelli makes regular free throw 2 of 2
+
+OT-1 - 1:09
+Kyle Korver misses three point jump shot
+
+OT-1 - 1:06
+Joe Ingles offensive rebound
+
+OT-1 - 00:57
+Raul Neto misses three point jump shot
+
+OT-1 - 00:54
+Dante Cunningham defensive rebound
+
+OT-1 - 00:45
+Bryn Forbes misses three point jump shot
+
+OT-1 - 00:41
+Royce O'Neale defensive rebound
+
+OT-1 - 00:30
+Stoppage (Out of bounds)
+
+OT-1 - 00:30
+Jazz lineup change (Donovan Mitchell, Derrick Favors, Royce O'Neale, Joe Ingles, Kyle Korver)
+
+OT-1 - 00:23
+Donovan Mitchell makes two point layup
+
+OT-1 - 00:03
+Pau Gasol makes two point jump shot (Patty Mills assists)
+
+OT-1 - 00:00
+Donovan Mitchell misses three point pullup jump shot
+
+OT-1 - 00:00
+Jazz offensive rebound
+
+OT-1 - 00:00
+End of 3rd Quarter.
+
+OT0 - 12:00
+Jazz lineup change (Donovan Mitchell, Derrick Favors, Raul Neto, Jae Crowder, Joe Ingles)
+
+OT0 - 11:45
+Derrick Favors turnover (bad pass) (Dante Cunningham steals)
+
+OT0 - 11:32
+Pau Gasol misses two point hook shot
+
+OT0 - 11:30
+Derrick Favors defensive rebound
+
+OT0 - 11:19
+Raul Neto makes two point cutting layup (Derrick Favors assists)
+
+OT0 - 11:03
+Pau Gasol makes two point jump shot (Patty Mills assists)
+
+OT0 - 10:46
+Derrick Favors makes two point jump shot (Raul Neto assists)
+
+OT0 - 10:33
+Marco Belinelli misses two point pullup jump shot
+
+OT0 - 10:30
+Derrick Favors defensive rebound
+
+OT0 - 10:23
+Donovan Mitchell misses two point floating jump shot
+
+OT0 - 10:22
+Spurs defensive rebound
+
+OT0 - 10:22
+Donovan Mitchell personal foul (Loose ball) (Pau Gasol draws the foul)
+
+OT0 - 10:22
+Spurs lineup change (Dante Cunningham, Patty Mills, LaMarcus Aldridge, Bryn Forbes, DeMar DeRozan)
+
+OT0 - 10:12
+Patty Mills misses three point pullup jump shot
+
+OT0 - 10:10
+Derrick Favors defensive rebound
+
+OT0 - 9:56
+Jae Crowder makes three point jump shot (Joe Ingles assists)
+
+OT0 - 9:54
+Spurs 60 second timeout
+
+OT0 - 9:54
+Jazz lineup change (Donovan Mitchell, Derrick Favors, Ricky Rubio, Jae Crowder, Joe Ingles)
+
+OT0 - 9:54
+Spurs lineup change (Dante Cunningham, Patty Mills, Bryn Forbes, Pau Gasol, DeMar DeRozan)
+
+OT0 - 9:41
+DeMar DeRozan makes two point jump shot (Pau Gasol assists)
+
+OT0 - 9:41
+Joe Ingles shooting foul (DeMar DeRozan draws the foul)
+
+OT0 - 9:41
+DeMar DeRozan makes regular free throw 1 of 1
+
+OT0 - 9:31
+DeMar DeRozan personal foul (Donovan Mitchell draws the foul)
+
+OT0 - 9:28
+Bryn Forbes shooting foul (Ricky Rubio draws the foul)
+
+OT0 - 9:28
+Ricky Rubio makes regular free throw 1 of 2
+
+OT0 - 9:28
+Spurs lineup change (Bryn Forbes, Marco Belinelli, Pau Gasol, Davis Bertans, DeMar DeRozan)
+
+OT0 - 9:28
+Ricky Rubio misses regular free throw 2 of 2
+
+OT0 - 9:26
+DeMar DeRozan defensive rebound
+
+OT0 - 9:11
+Bryn Forbes misses two point driving floating jump shot
+
+OT0 - 9:08
+Derrick Favors defensive rebound
+
+OT0 - 9:02
+Joe Ingles makes three point jump shot (Jae Crowder assists)
+
+OT0 - 8:44
+Ricky Rubio shooting foul (Pau Gasol draws the foul)
+
+OT0 - 8:44
+Pau Gasol makes regular free throw 1 of 2
+
+OT0 - 8:44
+Pau Gasol misses regular free throw 2 of 2
+
+OT0 - 8:42
+Jae Crowder defensive rebound
+
+OT0 - 8:31
+Bryn Forbes personal foul (Derrick Favors draws the foul)
+
+OT0 - 8:31
+Jazz lineup change (Donovan Mitchell, Derrick Favors, Ricky Rubio, Royce O'Neale, Jae Crowder)
+
+OT0 - 8:23
+Royce O'Neale makes three point jump shot (Donovan Mitchell assists)
+
+OT0 - 8:05
+Jae Crowder shooting foul (Davis Bertans draws the foul)
+
+OT0 - 8:05
+Davis Bertans makes regular free throw 1 of 3
+
+OT0 - 8:05
+Davis Bertans makes regular free throw 2 of 3
+
+OT0 - 8:05
+Davis Bertans makes regular free throw 3 of 3
+
+OT0 - 7:49
+Ricky Rubio misses two point jump shot
+
+OT0 - 7:47
+Pau Gasol defensive rebound
+
+OT0 - 7:39
+DeMar DeRozan turnover (lost ball) (Donovan Mitchell steals)
+
+OT0 - 7:33
+Jae Crowder makes three point jump shot (Donovan Mitchell assists)
+
+OT0 - 7:18
+Marco Belinelli makes two point reverse layup (Pau Gasol assists)
+
+OT0 - 7:00
+Donovan Mitchell misses three point jump shot
+
+OT0 - 6:56
+Derrick Favors offensive rebound
+
+OT0 - 6:55
+DeMar DeRozan shooting foul (Derrick Favors draws the foul)
+
+OT0 - 6:55
+Derrick Favors misses regular free throw 1 of 2
+
+OT0 - 6:55
+Instant replay (Request: Ruling Upheld)
+
+OT0 - 6:55
+Jazz offensive rebound
+
+OT0 - 6:55
+Spurs lineup change (Patty Mills, LaMarcus Aldridge, Marco Belinelli, Davis Bertans, DeMar DeRozan)
+
+OT0 - 6:55
+Derrick Favors misses regular free throw 2 of 2
+
+OT0 - 6:54
+DeMar DeRozan defensive rebound
+
+OT0 - 6:38
+Patty Mills makes two point pullup jump shot
+
+OT0 - 6:27
+Jazz 60 second timeout
+
+OT0 - 6:27
+Jazz lineup change (Donovan Mitchell, Ricky Rubio, Rudy Gobert, Royce O'Neale, Jae Crowder)
+
+OT0 - 6:17
+Jae Crowder misses three point jump shot
+
+OT0 - 6:14
+Marco Belinelli defensive rebound
+
+OT0 - 6:05
+DeMar DeRozan makes two point layup
+
+OT0 - 5:53
+DeMar DeRozan personal foul (Donovan Mitchell draws the foul)
+
+OT0 - 5:53
+Donovan Mitchell misses regular free throw 1 of 2
+
+OT0 - 5:53
+Jazz offensive rebound
+
+OT0 - 5:53
+Donovan Mitchell makes regular free throw 2 of 2
+
+OT0 - 5:47
+Ricky Rubio personal foul (Patty Mills draws the foul)
+
+OT0 - 5:47
+Patty Mills makes regular free throw 1 of 2
+
+OT0 - 5:47
+Jazz lineup change (Donovan Mitchell, Rudy Gobert, Royce O'Neale, Jae Crowder, Joe Ingles)
+
+OT0 - 5:47
+Patty Mills misses regular free throw 2 of 2
+
+OT0 - 5:46
+Rudy Gobert defensive rebound
+
+OT0 - 5:35
+Joe Ingles makes three point jump shot
+
+OT0 - 5:19
+Patty Mills makes two point driving layup
+
+OT0 - 5:19
+Royce O'Neale shooting foul (Patty Mills draws the foul)
+
+OT0 - 5:19
+Patty Mills makes regular free throw 1 of 1
+
+OT0 - 5:06
+Davis Bertans personal foul (Rudy Gobert draws the foul)
+
+OT0 - 5:06
+Rudy Gobert makes regular free throw 1 of 2
+
+OT0 - 5:06
+Rudy Gobert misses regular free throw 2 of 2
+
+OT0 - 5:04
+LaMarcus Aldridge defensive rebound
+
+OT0 - 5:00
+Patty Mills turnover (lost ball) (Donovan Mitchell steals)
+
+OT0 - 4:56
+Donovan Mitchell makes two point running layup
+
+OT0 - 4:46
+Marco Belinelli misses three point jump shot
+
+OT0 - 4:46
+Donovan Mitchell defensive rebound
+
+OT0 - 4:34
+Donovan Mitchell misses three point pullup jump shot
+
+OT0 - 4:30
+LaMarcus Aldridge defensive rebound
+
+OT0 - 4:16
+LaMarcus Aldridge makes three point jump shot (Marco Belinelli assists)
+
+OT0 - 3:56
+Donovan Mitchell makes three point jump shot (Rudy Gobert assists)
+
+OT0 - 3:38
+DeMar DeRozan misses two point turnaround fadeaway jump shot
+
+OT0 - 3:35
+Royce O'Neale defensive rebound
+
+OT0 - 3:21
+Rudy Gobert makes two point dunk (Donovan Mitchell assists)
+
+OT0 - 3:20
+Spurs 60 second timeout
+
+OT0 - 3:20
+Spurs lineup change (Dante Cunningham, Jakob Poeltl, Quincy Pondexter, Chimezie Metu, Drew Eubanks)
+
+OT0 - 2:58
+Drew Eubanks misses two point hook shot
+
+OT0 - 2:56
+Rudy Gobert defensive rebound
+
+OT0 - 2:47
+Donovan Mitchell makes two point floating jump shot
+
+OT0 - 2:45
+Spurs 60 second timeout
+
+OT0 - 2:45
+Jazz lineup change (Thabo Sefolosha, Grayson Allen, Georges Niang, Raul Neto, Ekpe Udoh)
+
+OT0 - 2:39
+Chimezie Metu misses two point pullup jump shot
+
+OT0 - 2:35
+Dante Cunningham offensive rebound
+
+OT0 - 2:35
+Dante Cunningham makes two point reverse layup
+
+OT0 - 2:20
+Thabo Sefolosha misses three point jump shot
+
+OT0 - 2:17
+Drew Eubanks defensive rebound
+
+OT0 - 2:07
+Dante Cunningham makes two point turnaround fadeaway jump shot (Jakob Poeltl assists)
+
+OT0 - 1:55
+Georges Niang makes three point jump shot (Raul Neto assists)
+
+OT0 - 1:40
+Thabo Sefolosha blocks Chimezie Metu's two point layup
+
+OT0 - 1:37
+Ekpe Udoh defensive rebound
+
+OT0 - 1:35
+Grayson Allen makes three point jump shot (Georges Niang assists)
+
+OT0 - 1:29
+Stoppage (Out of bounds)
+
+OT0 - 1:23
+Stoppage (Out of bounds)
+
+OT0 - 1:16
+Jakob Poeltl makes two point driving finger roll layup (Drew Eubanks assists)
+
+OT0 - 1:07
+Raul Neto turnover (bad pass) (Jakob Poeltl steals)
+
+OT0 - 00:54
+Dante Cunningham makes two point driving hook shot (Quincy Pondexter assists)
+
+OT0 - 00:45
+Grayson Allen misses three point jump shot
+
+OT0 - 00:41
+Jakob Poeltl defensive rebound
+
+OT0 - 00:31
+Chimezie Metu misses two point jump shot
+
+OT0 - 00:27
+Raul Neto defensive rebound
+
+OT0 - 00:22
+Jakob Poeltl shooting foul (Grayson Allen draws the foul)
+
+OT0 - 00:22
+Grayson Allen makes regular free throw 1 of 2
+
+OT0 - 00:22
+Grayson Allen makes regular free throw 2 of 2
+
+OT0 - 00:12
+Dante Cunningham turnover (lost ball) (Ekpe Udoh steals)
+
+OT0 - 00:00
+End of 4th Quarter.
+

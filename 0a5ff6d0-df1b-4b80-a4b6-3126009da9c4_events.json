@@ -1,0 +1,3802 @@
+{
+    "game_info": {
+        "id": "0a5ff6d0-df1b-4b80-a4b6-3126009da9c4",
+        "home_team": "Pistons",
+        "away_team": "Kings",
+        "scheduled": "2019-01-20T00:00:00+00:00"
+    },
+    "events": [
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, Willie Cauley-Stein, De'Aaron Fox, Nemanja Bjelica)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Reggie Jackson, Zaza Pachulia, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Willie Cauley-Stein vs. Zaza Pachulia (Blake Griffin gains possession)",
+            "event_type": "opentip",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:44",
+            "description": "Reggie Bullock turnover (lost ball) (Iman Shumpert steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:39",
+            "description": "Buddy Hield makes two point layup (Iman Shumpert assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:21",
+            "description": "Blake Griffin makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:08",
+            "description": "Nemanja Bjelica misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:05",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:59",
+            "description": "Willie Cauley-Stein shooting foul (Blake Griffin draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:59",
+            "description": "Blake Griffin makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:59",
+            "description": "Blake Griffin misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:57",
+            "description": "Iman Shumpert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:45",
+            "description": "Nemanja Bjelica misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:44",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:44",
+            "description": "Willie Cauley-Stein personal foul (Loose ball) (Zaza Pachulia draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:26",
+            "description": "Reggie Bullock misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:23",
+            "description": "Zaza Pachulia offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:19",
+            "description": "Nemanja Bjelica shooting foul (Blake Griffin draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:19",
+            "description": "Blake Griffin misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:19",
+            "description": "Pistons offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:19",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, De'Aaron Fox, Nemanja Bjelica, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:19",
+            "description": "Blake Griffin makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:04",
+            "description": "De'Aaron Fox misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:00",
+            "description": "Zaza Pachulia defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:53",
+            "description": "Blake Griffin misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:49",
+            "description": "De'Aaron Fox defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:40",
+            "description": "Iman Shumpert makes two point jump shot (Harry Giles III assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:18",
+            "description": "Bruce Brown misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:17",
+            "description": "Harry Giles III defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:58",
+            "description": "De'Aaron Fox misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:58",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:58",
+            "description": "David Joerger technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:58",
+            "description": "Reggie Jackson makes technical free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:40",
+            "description": "Reggie Bullock misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:37",
+            "description": "Buddy Hield defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:31",
+            "description": "Nemanja Bjelica makes two point driving dunk (Buddy Hield assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:13",
+            "description": "Reggie Bullock makes two point driving layup (Reggie Jackson assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:08",
+            "description": "Buddy Hield makes two point layup (Iman Shumpert assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:57",
+            "description": "Zaza Pachulia offensive foul (De'Aaron Fox draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:57",
+            "description": "Zaza Pachulia turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:50",
+            "description": "Harry Giles III makes two point floating jump shot (De'Aaron Fox assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:28",
+            "description": "Blake Griffin misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:28",
+            "description": "Blake Griffin offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:24",
+            "description": "Blake Griffin misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:24",
+            "description": "Blake Griffin offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:21",
+            "description": "Blake Griffin misses two point putback layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:21",
+            "description": "Buddy Hield defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:19",
+            "description": "De'Aaron Fox misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:18",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:15",
+            "description": "Blake Griffin makes two point layup (Bruce Brown assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:02",
+            "description": "Reggie Jackson personal foul (Nemanja Bjelica draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:57",
+            "description": "Buddy Hield makes three point jump shot (De'Aaron Fox assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:50",
+            "description": "Pistons 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:50",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Reggie Jackson, Jon Leuer, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:35",
+            "description": "Buddy Hield blocks Jon Leuer's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:33",
+            "description": "Jon Leuer offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:28",
+            "description": "Blake Griffin misses two point driving hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:28",
+            "description": "Jon Leuer offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:22",
+            "description": "Jon Leuer makes two point putback layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:11",
+            "description": "Iman Shumpert misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:09",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:56",
+            "description": "Jon Leuer makes two point reverse layup (Blake Griffin assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:36",
+            "description": "Harry Giles III turnover (bad pass) (Blake Griffin steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:32",
+            "description": "Blake Griffin makes two point floating jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:32",
+            "description": "Harry Giles III shooting foul (Blake Griffin draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:32",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, De'Aaron Fox, Marvin Bagley III, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:32",
+            "description": "Blake Griffin makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:17",
+            "description": "Jon Leuer shooting foul (Harry Giles III draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:17",
+            "description": "Harry Giles III misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:17",
+            "description": "Kings offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:17",
+            "description": "Harry Giles III makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:07",
+            "description": "Reggie Jackson makes three point jump shot (Blake Griffin assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:42",
+            "description": "Harry Giles III misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:40",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:26",
+            "description": "Blake Griffin makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:15",
+            "description": "Marvin Bagley III misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:12",
+            "description": "Buddy Hield offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:10",
+            "description": "Buddy Hield makes two point putback layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:56",
+            "description": "Jon Leuer makes two point jump shot (Bruce Brown assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:46",
+            "description": "Harry Giles III offensive foul (Charge) (Jon Leuer draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:46",
+            "description": "Harry Giles III turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:46",
+            "description": "Kings lineup change (Buddy Hield, De'Aaron Fox, Bogdan Bogdanovic, Marvin Bagley III, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:46",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Jon Leuer, Blake Griffin, Jose Calderon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:33",
+            "description": "Blake Griffin makes two point layup (Jose Calderon assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:26",
+            "description": "De'Aaron Fox makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:15",
+            "description": "Reggie Bullock misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:11",
+            "description": "Harry Giles III defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:53",
+            "description": "Marvin Bagley III turnover (lost ball) (Blake Griffin steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:46",
+            "description": "Buddy Hield shooting foul (Bruce Brown draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:46",
+            "description": "Kings 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:46",
+            "description": "Kings lineup change (Buddy Hield, Yogi Ferrell, Bogdan Bogdanovic, Marvin Bagley III, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:46",
+            "description": "Pistons lineup change (Bruce Brown, Zaza Pachulia, Blake Griffin, Luke Kennard, Jose Calderon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:46",
+            "description": "Bruce Brown misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:46",
+            "description": "Pistons offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:46",
+            "description": "Bruce Brown makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:32",
+            "description": "Harry Giles III makes two point alley-oop dunk (Bogdan Bogdanovic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:08",
+            "description": "Blake Griffin turnover (bad pass) (Bogdan Bogdanovic steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:04",
+            "description": "Marvin Bagley III makes two point dunk (Bogdan Bogdanovic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:45",
+            "description": "Jose Calderon makes three point jump shot (Bruce Brown assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:45",
+            "description": "Blake Griffin personal foul (Loose ball) (Marvin Bagley III draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:45",
+            "description": "Kings lineup change (Yogi Ferrell, Justin Jackson, Bogdan Bogdanovic, Marvin Bagley III, Kosta Koufos)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:45",
+            "description": "Pistons lineup change (Stanley Johnson, Khyri Thomas, Zaza Pachulia, Blake Griffin, Luke Kennard)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:29",
+            "description": "Bogdan Bogdanovic makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:12",
+            "description": "Khyri Thomas misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:09",
+            "description": "Marvin Bagley III defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:05",
+            "description": "Bogdan Bogdanovic misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:00",
+            "description": "Stanley Johnson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:55",
+            "description": "Stanley Johnson turnover (lost ball) (Marvin Bagley III steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:51",
+            "description": "Marvin Bagley III makes two point dunk (Justin Jackson assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:35",
+            "description": "Zaza Pachulia misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:32",
+            "description": "Marvin Bagley III defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:26",
+            "description": "Marvin Bagley III misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:26",
+            "description": "Stanley Johnson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:05",
+            "description": "Luke Kennard misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:03",
+            "description": "Pistons offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:03",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:01",
+            "description": "Stanley Johnson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Kings defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "End of 1st Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "12:00",
+            "description": "Pistons lineup change (Stanley Johnson, Khyri Thomas, Zaza Pachulia, Luke Kennard, Jose Calderon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:36",
+            "description": "Bogdan Bogdanovic misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:36",
+            "description": "Kings offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:36",
+            "description": "Kings turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:21",
+            "description": "Zaza Pachulia makes two point layup (Luke Kennard assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:08",
+            "description": "Marvin Bagley III turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:47",
+            "description": "Luke Kennard makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:37",
+            "description": "Bogdan Bogdanovic misses two point fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:37",
+            "description": "Kings offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:37",
+            "description": "Stanley Johnson personal foul (Loose ball) (Marvin Bagley III draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:29",
+            "description": "Bogdan Bogdanovic misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:24",
+            "description": "Khyri Thomas defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:21",
+            "description": "Khyri Thomas makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:16",
+            "description": "Kings 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:16",
+            "description": "Kings lineup change (Yogi Ferrell, Justin Jackson, Bogdan Bogdanovic, Kosta Koufos, Nemanja Bjelica)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:03",
+            "description": "Justin Jackson misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:58",
+            "description": "Jose Calderon defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:38",
+            "description": "Luke Kennard makes two point jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:23",
+            "description": "Yogi Ferrell misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:22",
+            "description": "Khyri Thomas defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:06",
+            "description": "Luke Kennard misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:03",
+            "description": "Zaza Pachulia offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:50",
+            "description": "Luke Kennard misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:48",
+            "description": "Yogi Ferrell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:43",
+            "description": "Kosta Koufos misses two point turnaround hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:39",
+            "description": "Luke Kennard defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:27",
+            "description": "Kosta Koufos blocks Khyri Thomas's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:25",
+            "description": "Zaza Pachulia offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:25",
+            "description": "Zaza Pachulia makes two point putback layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:25",
+            "description": "Kings 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:25",
+            "description": "Kings lineup change (Buddy Hield, Willie Cauley-Stein, Justin Jackson, Bogdan Bogdanovic, Nemanja Bjelica)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:08",
+            "description": "Buddy Hield makes three point jump shot (Bogdan Bogdanovic assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:53",
+            "description": "Luke Kennard turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:53",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, Willie Cauley-Stein, Justin Jackson, Bogdan Bogdanovic)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:38",
+            "description": "Bogdan Bogdanovic misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:38",
+            "description": "Pistons defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:38",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:22",
+            "description": "Jose Calderon misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:19",
+            "description": "Bogdan Bogdanovic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:14",
+            "description": "Justin Jackson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:07",
+            "description": "Khyri Thomas defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:59",
+            "description": "Luke Kennard makes three point jump shot (Zaza Pachulia assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:48",
+            "description": "Buddy Hield makes three point jump shot (Willie Cauley-Stein assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:36",
+            "description": "Bogdan Bogdanovic shooting foul (Jose Calderon draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:36",
+            "description": "Jose Calderon makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:36",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, Willie Cauley-Stein, De'Aaron Fox, Bogdan Bogdanovic)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:36",
+            "description": "Pistons lineup change (Reggie Bullock, Jon Leuer, Blake Griffin, Luke Kennard, Jose Calderon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:36",
+            "description": "Jose Calderon makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:16",
+            "description": "Iman Shumpert misses three point step back jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:14",
+            "description": "Kings offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:14",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:14",
+            "description": "Pistons lineup change (Reggie Bullock, Reggie Jackson, Jon Leuer, Blake Griffin, Luke Kennard)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:14",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:04",
+            "description": "Iman Shumpert makes two point driving dunk (Bogdan Bogdanovic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:36",
+            "description": "Blake Griffin misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:34",
+            "description": "Buddy Hield defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:26",
+            "description": "Bogdan Bogdanovic makes two point jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:18",
+            "description": "Pistons 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:18",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Reggie Jackson, Jon Leuer, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:56",
+            "description": "Bogdan Bogdanovic blocks Blake Griffin's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:54",
+            "description": "Iman Shumpert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:52",
+            "description": "Iman Shumpert turnover (bad pass) (Reggie Jackson steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:43",
+            "description": "Jon Leuer makes two point alley-oop layup (Reggie Bullock assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:31",
+            "description": "Bruce Brown shooting foul (De'Aaron Fox draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:31",
+            "description": "De'Aaron Fox makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:31",
+            "description": "De'Aaron Fox misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:28",
+            "description": "Reggie Bullock defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:18",
+            "description": "Reggie Jackson misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:16",
+            "description": "Iman Shumpert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:16",
+            "description": "Reggie Jackson personal foul (Iman Shumpert draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:04",
+            "description": "Buddy Hield makes two point jump shot (De'Aaron Fox assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:51",
+            "description": "Blake Griffin makes two point finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:45",
+            "description": "Willie Cauley-Stein misses two point alley-oop layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:44",
+            "description": "Willie Cauley-Stein offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:40",
+            "description": "Iman Shumpert misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:39",
+            "description": "Iman Shumpert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:36",
+            "description": "Iman Shumpert turnover (bad pass) (Reggie Jackson steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:30",
+            "description": "Reggie Jackson misses two point finger roll layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:28",
+            "description": "Buddy Hield defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:14",
+            "description": "Iman Shumpert misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:11",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:05",
+            "description": "Jon Leuer offensive foul (De'Aaron Fox draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:05",
+            "description": "Jon Leuer turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:54",
+            "description": "Bogdan Bogdanovic makes two point jump shot (Buddy Hield assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:37",
+            "description": "Reggie Bullock misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:37",
+            "description": "Willie Cauley-Stein defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:31",
+            "description": "De'Aaron Fox misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:28",
+            "description": "Jon Leuer defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:22",
+            "description": "Bogdan Bogdanovic personal foul (Reggie Bullock draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:22",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, Willie Cauley-Stein, De'Aaron Fox, Marvin Bagley III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:22",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Reggie Jackson, Zaza Pachulia, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:14",
+            "description": "Blake Griffin makes two point driving layup (Reggie Jackson assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:00",
+            "description": "Buddy Hield misses two point step back jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:58",
+            "description": "Buddy Hield offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:51",
+            "description": "Marvin Bagley III turnover (lost ball) (Zaza Pachulia steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:46",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:42",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:42",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, De'Aaron Fox, Marvin Bagley III, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:42",
+            "description": "Kings delay of game violation",
+            "event_type": "delay",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:32",
+            "description": "Bruce Brown makes two point layup (Zaza Pachulia assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:28",
+            "description": "Buddy Hield makes two point layup (De'Aaron Fox assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:23",
+            "description": "Blake Griffin offensive foul (Marvin Bagley III draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:23",
+            "description": "Blake Griffin turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:01",
+            "description": "Marvin Bagley III makes two point jump shot (Iman Shumpert assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:44",
+            "description": "Marvin Bagley III shooting foul (Blake Griffin draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:44",
+            "description": "Blake Griffin technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:44",
+            "description": "Buddy Hield makes technical free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:44",
+            "description": "Blake Griffin makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:44",
+            "description": "Blake Griffin makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:37",
+            "description": "Harry Giles III misses two point alley-oop layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:37",
+            "description": "De'Aaron Fox offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:35",
+            "description": "De'Aaron Fox misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:31",
+            "description": "Harry Giles III offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:31",
+            "description": "Harry Giles III makes two point putback layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:20",
+            "description": "Buddy Hield personal foul (Blake Griffin draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:20",
+            "description": "Blake Griffin makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:20",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, De'Aaron Fox, Marvin Bagley III, Nemanja Bjelica)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:20",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Khyri Thomas, Zaza Pachulia, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:20",
+            "description": "Blake Griffin makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:05",
+            "description": "De'Aaron Fox makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:05",
+            "description": "Bruce Brown shooting foul (De'Aaron Fox draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:05",
+            "description": "Pistons lineup change (Reggie Bullock, Reggie Jackson, Khyri Thomas, Zaza Pachulia, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:05",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, De'Aaron Fox, Justin Jackson, Marvin Bagley III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:05",
+            "description": "De'Aaron Fox makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "Reggie Bullock misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "Pistons offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "End of 1st Half.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "12:00",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, Willie Cauley-Stein, De'Aaron Fox, Marvin Bagley III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "12:00",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Reggie Jackson, Zaza Pachulia, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:47",
+            "description": "Willie Cauley-Stein makes two point layup (De'Aaron Fox assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:47",
+            "description": "Zaza Pachulia shooting foul (Willie Cauley-Stein draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:47",
+            "description": "Willie Cauley-Stein misses regular free throw 1 of 1",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:45",
+            "description": "Zaza Pachulia defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:22",
+            "description": "Bruce Brown makes three point jump shot (Reggie Bullock assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:13",
+            "description": "De'Aaron Fox misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:08",
+            "description": "Reggie Jackson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:03",
+            "description": "Reggie Jackson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:00",
+            "description": "De'Aaron Fox defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:51",
+            "description": "Blake Griffin personal foul (Marvin Bagley III draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:36",
+            "description": "Buddy Hield misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:33",
+            "description": "Blake Griffin defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:32",
+            "description": "Blake Griffin makes two point fadeaway jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:32",
+            "description": "Iman Shumpert shooting foul (Blake Griffin draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:32",
+            "description": "Blake Griffin makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:16",
+            "description": "De'Aaron Fox makes three point jump shot (Buddy Hield assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:04",
+            "description": "Blake Griffin personal foul (De'Aaron Fox draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:04",
+            "description": "Blake Griffin turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:59",
+            "description": "Reggie Jackson personal foul (Willie Cauley-Stein draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:41",
+            "description": "Zaza Pachulia blocks Willie Cauley-Stein's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:37",
+            "description": "Blake Griffin defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:30",
+            "description": "Marvin Bagley III personal foul (Blake Griffin draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:27",
+            "description": "Marvin Bagley III personal foul (Blake Griffin draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:19",
+            "description": "Blake Griffin misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:16",
+            "description": "Buddy Hield defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:09",
+            "description": "Iman Shumpert misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:06",
+            "description": "Zaza Pachulia defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:51",
+            "description": "Blake Griffin turnover (lost ball) (Marvin Bagley III steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:46",
+            "description": "Marvin Bagley III misses two point alley-oop layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:46",
+            "description": "Pistons defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:46",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:22",
+            "description": "Zaza Pachulia misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:22",
+            "description": "Kings defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:22",
+            "description": "Zaza Pachulia personal foul (Loose ball) (Marvin Bagley III draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:22",
+            "description": "Marvin Bagley III makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:22",
+            "description": "Marvin Bagley III makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:07",
+            "description": "Reggie Bullock makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:58",
+            "description": "De'Aaron Fox misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:56",
+            "description": "Zaza Pachulia defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:50",
+            "description": "Reggie Bullock misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:47",
+            "description": "De'Aaron Fox defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:36",
+            "description": "Willie Cauley-Stein makes two point layup (De'Aaron Fox assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:07",
+            "description": "Reggie Bullock misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:05",
+            "description": "Buddy Hield defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:04",
+            "description": "Buddy Hield turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:50",
+            "description": "Marvin Bagley III personal foul (Blake Griffin draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:50",
+            "description": "Pistons 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:50",
+            "description": "Pistons lineup change (Bruce Brown, Jon Leuer, Blake Griffin, Luke Kennard, Jose Calderon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:38",
+            "description": "Blake Griffin makes two point driving layup (Jose Calderon assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:12",
+            "description": "Kings turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:02",
+            "description": "Blake Griffin turnover (out of bounds lost ball)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:59",
+            "description": "Pistons delay of game violation",
+            "event_type": "delay",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:54",
+            "description": "Willie Cauley-Stein makes two point layup (De'Aaron Fox assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:25",
+            "description": "Bruce Brown turnover (bad pass) (De'Aaron Fox steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:18",
+            "description": "Iman Shumpert makes three point jump shot (De'Aaron Fox assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:00",
+            "description": "Luke Kennard makes two point floating jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:44",
+            "description": "Marvin Bagley III turnover (out of bounds lost ball)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:44",
+            "description": "Pistons lineup change (Bruce Brown, Stanley Johnson, Zaza Pachulia, Luke Kennard, Jose Calderon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:29",
+            "description": "Buddy Hield shooting foul (Luke Kennard draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:29",
+            "description": "Luke Kennard misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:29",
+            "description": "Pistons offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:29",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, Willie Cauley-Stein, De'Aaron Fox, Bogdan Bogdanovic)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:29",
+            "description": "Luke Kennard makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:20",
+            "description": "Willie Cauley-Stein makes two point dunk (Bogdan Bogdanovic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:56",
+            "description": "Bruce Brown misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:53",
+            "description": "Zaza Pachulia offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:53",
+            "description": "Zaza Pachulia misses two point putback layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:53",
+            "description": "Zaza Pachulia offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:52",
+            "description": "Zaza Pachulia makes two point putback layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:39",
+            "description": "Buddy Hield misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:36",
+            "description": "Stanley Johnson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:21",
+            "description": "Luke Kennard makes three point jump shot (Bruce Brown assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:09",
+            "description": "Luke Kennard shooting foul (Bogdan Bogdanovic draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:09",
+            "description": "Bogdan Bogdanovic makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:09",
+            "description": "Kings lineup change (Buddy Hield, De'Aaron Fox, Bogdan Bogdanovic, Nemanja Bjelica, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:09",
+            "description": "Pistons lineup change (Stanley Johnson, Khyri Thomas, Zaza Pachulia, Luke Kennard, Jose Calderon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:09",
+            "description": "Bogdan Bogdanovic makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:59",
+            "description": "Luke Kennard makes three point jump shot (Jose Calderon assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:56",
+            "description": "Kings 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:45",
+            "description": "Buddy Hield misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:43",
+            "description": "Kings offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:43",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:36",
+            "description": "Bogdan Bogdanovic misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:34",
+            "description": "Stanley Johnson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:31",
+            "description": "Khyri Thomas misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:28",
+            "description": "De'Aaron Fox defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:25",
+            "description": "Khyri Thomas shooting foul (De'Aaron Fox draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:25",
+            "description": "De'Aaron Fox makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:25",
+            "description": "De'Aaron Fox makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:13",
+            "description": "Luke Kennard misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:10",
+            "description": "Nemanja Bjelica defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:59",
+            "description": "Nemanja Bjelica misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:56",
+            "description": "Zaza Pachulia defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:34",
+            "description": "Pistons turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:20",
+            "description": "Khyri Thomas shooting foul (Harry Giles III draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:20",
+            "description": "Harry Giles III misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:20",
+            "description": "Kings offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:20",
+            "description": "Harry Giles III makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:05",
+            "description": "Harry Giles III kicked ball violation",
+            "event_type": "kickball",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:52",
+            "description": "Zaza Pachulia turnover (3-second violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:43",
+            "description": "De'Aaron Fox makes two point floating jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:31",
+            "description": "Harry Giles III shooting foul (Zaza Pachulia draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:31",
+            "description": "Zaza Pachulia misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:31",
+            "description": "Pistons offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:31",
+            "description": "Zaza Pachulia makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:07",
+            "description": "Bogdan Bogdanovic misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:06",
+            "description": "Jose Calderon defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:02",
+            "description": "Stanley Johnson makes two point layup (Jose Calderon assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "End of 3rd Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "12:00",
+            "description": "Kings lineup change (Iman Shumpert, Justin Jackson, Bogdan Bogdanovic, Nemanja Bjelica, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "12:00",
+            "description": "Pistons lineup change (Reggie Jackson, Khyri Thomas, Zaza Pachulia, Blake Griffin, Luke Kennard)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:48",
+            "description": "Kings technical foul (Defensive three second)",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:48",
+            "description": "Reggie Jackson misses technical free throw 1 of 1",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:48",
+            "description": "Pistons offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:32",
+            "description": "Khyri Thomas makes two point floating jump shot (Reggie Jackson assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:11",
+            "description": "Justin Jackson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:07",
+            "description": "Zaza Pachulia defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:54",
+            "description": "Luke Kennard makes three point jump shot (Blake Griffin assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:35",
+            "description": "Nemanja Bjelica makes three point jump shot (Bogdan Bogdanovic assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:13",
+            "description": "Luke Kennard misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:09",
+            "description": "Iman Shumpert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:02",
+            "description": "Bogdan Bogdanovic misses two point turnaround hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:57",
+            "description": "Harry Giles III offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:57",
+            "description": "Harry Giles III misses two point putback layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:57",
+            "description": "Luke Kennard defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:44",
+            "description": "Khyri Thomas misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:40",
+            "description": "Bogdan Bogdanovic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:36",
+            "description": "Nemanja Bjelica turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:36",
+            "description": "Pistons 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:36",
+            "description": "Kings lineup change (Iman Shumpert, Justin Jackson, Bogdan Bogdanovic, Marvin Bagley III, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:24",
+            "description": "Blake Griffin misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:20",
+            "description": "Harry Giles III defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:02",
+            "description": "Marvin Bagley III makes two point jump shot (Bogdan Bogdanovic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:36",
+            "description": "Harry Giles III shooting foul (Blake Griffin draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:36",
+            "description": "Blake Griffin makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:36",
+            "description": "Pistons lineup change (Reggie Bullock, Reggie Jackson, Zaza Pachulia, Blake Griffin, Luke Kennard)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:36",
+            "description": "Blake Griffin makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:19",
+            "description": "Marvin Bagley III makes two point jump shot (Harry Giles III assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:05",
+            "description": "Marvin Bagley III blocks Blake Griffin's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:02",
+            "description": "Blake Griffin offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:01",
+            "description": "Blake Griffin makes two point putback layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:56",
+            "description": "Reggie Jackson personal foul (Bogdan Bogdanovic draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:47",
+            "description": "Bogdan Bogdanovic turnover (bad pass) (Blake Griffin steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:26",
+            "description": "Harry Giles III blocks Zaza Pachulia's two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "Zaza Pachulia offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "Pistons turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "Kings lineup change (Iman Shumpert, De'Aaron Fox, Bogdan Bogdanovic, Marvin Bagley III, Harry Giles III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "Pistons lineup change (Reggie Bullock, Reggie Jackson, Jon Leuer, Blake Griffin, Luke Kennard)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:13",
+            "description": "Bogdan Bogdanovic misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:10",
+            "description": "Luke Kennard defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:53",
+            "description": "Reggie Bullock turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:53",
+            "description": "Kings 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:53",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, Willie Cauley-Stein, De'Aaron Fox, Marvin Bagley III)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:53",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Reggie Jackson, Jon Leuer, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:42",
+            "description": "Buddy Hield misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:40",
+            "description": "Blake Griffin defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:31",
+            "description": "Willie Cauley-Stein personal foul (Blake Griffin draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:21",
+            "description": "Willie Cauley-Stein shooting foul (Blake Griffin draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:21",
+            "description": "Blake Griffin makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:21",
+            "description": "Blake Griffin makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:11",
+            "description": "Marvin Bagley III makes two point dunk (Willie Cauley-Stein assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:51",
+            "description": "Bruce Brown misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:46",
+            "description": "Reggie Jackson offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:31",
+            "description": "Jon Leuer misses two point driving hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:30",
+            "description": "Bruce Brown offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:29",
+            "description": "Jon Leuer misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:29",
+            "description": "Willie Cauley-Stein defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:15",
+            "description": "Willie Cauley-Stein makes two point layup (De'Aaron Fox assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:08",
+            "description": "Pistons 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:08",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Zaza Pachulia, Blake Griffin, Jose Calderon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:49",
+            "description": "Reggie Bullock misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:49",
+            "description": "Pistons offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:48",
+            "description": "Pistons turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:35",
+            "description": "De'Aaron Fox misses two point step back jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:28",
+            "description": "Buddy Hield offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:28",
+            "description": "Buddy Hield misses two point putback layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:28",
+            "description": "Iman Shumpert offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:24",
+            "description": "Buddy Hield misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:20",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:02",
+            "description": "Blake Griffin misses two point turnaround hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:02",
+            "description": "Kings defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:02",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "Bruce Brown shooting foul (De'Aaron Fox draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "De'Aaron Fox misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "Kings offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:56",
+            "description": "De'Aaron Fox makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:34",
+            "description": "Jose Calderon misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:29",
+            "description": "Willie Cauley-Stein defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:26",
+            "description": "Buddy Hield makes three point jump shot (Iman Shumpert assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:00",
+            "description": "Reggie Bullock misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:58",
+            "description": "De'Aaron Fox defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:51",
+            "description": "Buddy Hield makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:32",
+            "description": "Blake Griffin makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:32",
+            "description": "Marvin Bagley III shooting foul (Blake Griffin draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:32",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Reggie Jackson, Zaza Pachulia, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:32",
+            "description": "Blake Griffin makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:25",
+            "description": "Buddy Hield makes two point jump shot (Iman Shumpert assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:25",
+            "description": "Bruce Brown shooting foul (Buddy Hield draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:25",
+            "description": "Pistons lineup change (Reggie Bullock, Reggie Jackson, Zaza Pachulia, Blake Griffin, Luke Kennard)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:25",
+            "description": "Buddy Hield makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:11",
+            "description": "Reggie Bullock makes three point jump shot (Luke Kennard assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:54",
+            "description": "Luke Kennard blocks De'Aaron Fox's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:48",
+            "description": "Kings offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:48",
+            "description": "Jump ball. De'Aaron Fox vs. Zaza Pachulia (Buddy Hield gains possession)",
+            "event_type": "jumpball",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:36",
+            "description": "Buddy Hield misses two point reverse layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:36",
+            "description": "Willie Cauley-Stein offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:36",
+            "description": "Willie Cauley-Stein makes two point putback dunk",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:21",
+            "description": "Zaza Pachulia offensive foul (Iman Shumpert draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:21",
+            "description": "Zaza Pachulia turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:11",
+            "description": "Buddy Hield makes three point jump shot (De'Aaron Fox assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:11",
+            "description": "Pistons 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:55",
+            "description": "Blake Griffin makes two point layup (Zaza Pachulia assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:42",
+            "description": "Zaza Pachulia personal foul (Buddy Hield draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:42",
+            "description": "Pistons lineup change (Reggie Bullock, Bruce Brown, Reggie Jackson, Zaza Pachulia, Blake Griffin)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:42",
+            "description": "Kings 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:38",
+            "description": "Buddy Hield misses two point fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:35",
+            "description": "Willie Cauley-Stein offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:31",
+            "description": "Iman Shumpert misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:28",
+            "description": "Bruce Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:05",
+            "description": "Reggie Jackson misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:03",
+            "description": "Iman Shumpert defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:03",
+            "description": "Kings 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:03",
+            "description": "Kings lineup change (Buddy Hield, Iman Shumpert, Willie Cauley-Stein, De'Aaron Fox, Bogdan Bogdanovic)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:00",
+            "description": "Buddy Hield makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:00",
+            "description": "End of 4th Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        }
+    ]
+}

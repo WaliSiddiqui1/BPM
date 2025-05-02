@@ -1,0 +1,3802 @@
+{
+    "game_info": {
+        "id": "00aa5705-35f8-43c6-b9eb-27963ea7ec34",
+        "home_team": "Warriors",
+        "away_team": "Nuggets",
+        "scheduled": "2019-04-03T02:30:00+00:00"
+    },
+    "events": [
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Nuggets lineup change (Gary Harris, Paul Millsap, Jamal Murray, Nikola Jokic, Will Barton)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Warriors lineup change (Klay Thompson, Kevin Durant, Stephen Curry, Draymond Green, DeMarcus Cousins)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Nikola Jokic vs. DeMarcus Cousins (Draymond Green gains possession)",
+            "event_type": "opentip",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:46",
+            "description": "Stephen Curry makes three point jump shot (Draymond Green assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:27",
+            "description": "Nikola Jokic misses two point fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:26",
+            "description": "Gary Harris offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:18",
+            "description": "Gary Harris misses two point turnaround fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:16",
+            "description": "Nikola Jokic offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:16",
+            "description": "Kevin Durant shooting foul (Will Barton draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:16",
+            "description": "Will Barton misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:16",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:16",
+            "description": "Will Barton misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:14",
+            "description": "Paul Millsap offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:12",
+            "description": "Paul Millsap makes three point pullup jump shot (Jamal Murray assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:12",
+            "description": "Draymond Green shooting foul (Paul Millsap draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:12",
+            "description": "Paul Millsap makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:02",
+            "description": "Klay Thompson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:00",
+            "description": "Will Barton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:53",
+            "description": "Will Barton makes two point jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:40",
+            "description": "Stephen Curry makes two point stepback jump shot (Kevin Durant assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:30",
+            "description": "DeMarcus Cousins blocks Gary Harris's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:28",
+            "description": "Gary Harris offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:26",
+            "description": "Kevin Durant blocks Jamal Murray's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:24",
+            "description": "Draymond Green defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:22",
+            "description": "Draymond Green turnover (lost ball) (Jamal Murray steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:15",
+            "description": "Nikola Jokic makes two point jump shot (Will Barton assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:15",
+            "description": "DeMarcus Cousins shooting foul (Nikola Jokic draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:15",
+            "description": "Nikola Jokic makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:05",
+            "description": "DeMarcus Cousins misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:00",
+            "description": "Paul Millsap defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:52",
+            "description": "Paul Millsap makes three point jump shot (Nikola Jokic assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:37",
+            "description": "Kevin Durant makes two point fadeaway jump shot (Draymond Green assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:19",
+            "description": "Paul Millsap misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:17",
+            "description": "Warriors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:17",
+            "description": "Nikola Jokic personal foul (Loose ball) (Kevin Durant draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:05",
+            "description": "Kevin Durant misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:04",
+            "description": "DeMarcus Cousins offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:59",
+            "description": "DeMarcus Cousins misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:58",
+            "description": "Paul Millsap defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:45",
+            "description": "Paul Millsap makes two point driving hook shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:32",
+            "description": "Stephen Curry turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:24",
+            "description": "Stephen Curry personal foul (Jamal Murray draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:20",
+            "description": "Jamal Murray misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:18",
+            "description": "Klay Thompson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:11",
+            "description": "DeMarcus Cousins makes two point layup (Kevin Durant assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:01",
+            "description": "Paul Millsap misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:00",
+            "description": "Paul Millsap offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:00",
+            "description": "Paul Millsap misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:59",
+            "description": "Paul Millsap offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:59",
+            "description": "Paul Millsap misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:58",
+            "description": "DeMarcus Cousins defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:48",
+            "description": "Stephen Curry misses three point stepback jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:46",
+            "description": "Will Barton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:37",
+            "description": "Jamal Murray offensive foul (Stephen Curry draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:37",
+            "description": "Jamal Murray turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:24",
+            "description": "Kevin Durant makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:12",
+            "description": "Paul Millsap makes two point jump shot (Nikola Jokic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:00",
+            "description": "DeMarcus Cousins turnover (lost ball) (Gary Harris steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:54",
+            "description": "Kevin Durant blocks Gary Harris's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:53",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:53",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:53",
+            "description": "Warriors 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:41",
+            "description": "Nikola Jokic turnover (lost ball) (DeMarcus Cousins steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:37",
+            "description": "DeMarcus Cousins makes two point layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:20",
+            "description": "Will Barton makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:06",
+            "description": "Kevin Durant makes three point jump shot (Draymond Green assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:51",
+            "description": "Draymond Green blocks Paul Millsap's three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:49",
+            "description": "Stephen Curry defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:46",
+            "description": "Klay Thompson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:45",
+            "description": "DeMarcus Cousins offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:42",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:42",
+            "description": "Nuggets lineup change (Gary Harris, Mason Plumlee, Jamal Murray, Nikola Jokic, Will Barton)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:38",
+            "description": "Stephen Curry turnover (lost ball) (Jamal Murray steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:35",
+            "description": "Mason Plumlee makes two point alley-oop dunk (Jamal Murray assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:20",
+            "description": "DeMarcus Cousins makes two point alley-oop layup (Draymond Green assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:03",
+            "description": "Will Barton misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:02",
+            "description": "Klay Thompson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:49",
+            "description": "Klay Thompson makes two point turnaround fadeaway jump shot (Kevin Durant assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:33",
+            "description": "Gary Harris misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:32",
+            "description": "Kevin Durant defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:25",
+            "description": "Klay Thompson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:23",
+            "description": "Will Barton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:17",
+            "description": "Will Barton misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:16",
+            "description": "Will Barton offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:14",
+            "description": "Will Barton makes two point tip layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:58",
+            "description": "Stephen Curry misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:56",
+            "description": "DeMarcus Cousins offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:50",
+            "description": "DeMarcus Cousins makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:34",
+            "description": "Nikola Jokic makes two point driving hook shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:15",
+            "description": "DeMarcus Cousins makes two point driving layup (Kevin Durant assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:48",
+            "description": "Nikola Jokic misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:46",
+            "description": "Draymond Green defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:33",
+            "description": "DeMarcus Cousins misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:30",
+            "description": "Nuggets defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:30",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:30",
+            "description": "Nuggets 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:30",
+            "description": "Nuggets lineup change (Paul Millsap, Mason Plumlee, Malik Beasley, Will Barton, Monte Morris)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:30",
+            "description": "Warriors lineup change (Kevon Looney, Andre Iguodala, Alfonzo McKinnie, Stephen Curry, Draymond Green)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:16",
+            "description": "Will Barton turnover (bad pass) (Stephen Curry steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:01",
+            "description": "Stephen Curry makes three point pullup jump shot (Andre Iguodala assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:36",
+            "description": "Mason Plumlee misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:34",
+            "description": "Andre Iguodala defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:26",
+            "description": "Stephen Curry turnover (bad pass) (Mason Plumlee steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:21",
+            "description": "Mason Plumlee turnover (bad pass) (Andre Iguodala steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:15",
+            "description": "Stephen Curry misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:13",
+            "description": "Paul Millsap defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:51",
+            "description": "Andre Iguodala blocks Monte Morris's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:50",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:49",
+            "description": "Mason Plumlee misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:48",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:48",
+            "description": "Nuggets turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:40",
+            "description": "Alfonzo McKinnie makes three point pullup jump shot (Stephen Curry assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:27",
+            "description": "Will Barton misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:25",
+            "description": "Will Barton offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:22",
+            "description": "Will Barton misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:21",
+            "description": "Draymond Green defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:04",
+            "description": "Paul Millsap blocks Draymond Green's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:03",
+            "description": "Paul Millsap defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:02",
+            "description": "Paul Millsap turnover (lost ball) (Kevon Looney steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Kevon Looney misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Warriors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "End of 1st Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "12:00",
+            "description": "Nuggets lineup change (Mason Plumlee, Trey Lyles, Malik Beasley, Monte Morris, Torrey Craig)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "12:00",
+            "description": "Warriors lineup change (Klay Thompson, Andre Iguodala, Quinn Cook, Shaun Livingston, DeMarcus Cousins)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:51",
+            "description": "Monte Morris makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:51",
+            "description": "Quinn Cook shooting foul (Monte Morris draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:51",
+            "description": "Monte Morris makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:32",
+            "description": "DeMarcus Cousins misses two point driving hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:30",
+            "description": "DeMarcus Cousins offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:30",
+            "description": "Trey Lyles shooting foul (DeMarcus Cousins draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:30",
+            "description": "DeMarcus Cousins misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:30",
+            "description": "Warriors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:30",
+            "description": "DeMarcus Cousins misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:27",
+            "description": "Mason Plumlee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:17",
+            "description": "Monte Morris makes two point driving floating jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:01",
+            "description": "DeMarcus Cousins misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:57",
+            "description": "Trey Lyles defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:42",
+            "description": "Shaun Livingston blocks Malik Beasley's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:38",
+            "description": "Shaun Livingston defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:36",
+            "description": "Klay Thompson makes two point layup (DeMarcus Cousins assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:16",
+            "description": "Monte Morris misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:12",
+            "description": "Andre Iguodala defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:01",
+            "description": "Klay Thompson misses two point driving finger roll layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:56",
+            "description": "Mason Plumlee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:46",
+            "description": "Torrey Craig misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:44",
+            "description": "Warriors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:44",
+            "description": "Torrey Craig personal foul (Loose ball) (DeMarcus Cousins draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:29",
+            "description": "DeMarcus Cousins turnover (bad pass) (Malik Beasley steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:25",
+            "description": "Monte Morris misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:24",
+            "description": "DeMarcus Cousins defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:17",
+            "description": "Klay Thompson turnover (bad pass) (Trey Lyles steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:13",
+            "description": "Malik Beasley turnover (bad pass) (Klay Thompson steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:09",
+            "description": "DeMarcus Cousins makes two point layup (Klay Thompson assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:09",
+            "description": "Nuggets 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:55",
+            "description": "Trey Lyles misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:49",
+            "description": "DeMarcus Cousins defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:37",
+            "description": "Quinn Cook makes two point pullup jump shot (DeMarcus Cousins assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:16",
+            "description": "Trey Lyles turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:16",
+            "description": "Warriors lineup change (Klay Thompson, Quinn Cook, Shaun Livingston, Kevin Durant, DeMarcus Cousins)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:03",
+            "description": "Klay Thompson makes two point fadeaway jump shot (DeMarcus Cousins assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:45",
+            "description": "Torrey Craig makes two point cutting layup (Mason Plumlee assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:24",
+            "description": "Klay Thompson makes three point pullup jump shot (Kevin Durant assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:09",
+            "description": "Trey Lyles misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:09",
+            "description": "Warriors defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:09",
+            "description": "Mason Plumlee personal foul (Loose ball) (DeMarcus Cousins draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:09",
+            "description": "Nuggets lineup change (Gary Harris, Mason Plumlee, Jamal Murray, Nikola Jokic, Torrey Craig)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:45",
+            "description": "Kevin Durant misses three point turnaround fadeaway jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:43",
+            "description": "Mason Plumlee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:37",
+            "description": "Jamal Murray makes two point layup (Mason Plumlee assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:28",
+            "description": "Quinn Cook misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:23",
+            "description": "Jamal Murray defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:19",
+            "description": "Torrey Craig misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:17",
+            "description": "DeMarcus Cousins defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:08",
+            "description": "Klay Thompson misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:07",
+            "description": "Warriors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:07",
+            "description": "Nuggets lineup change (Gary Harris, Paul Millsap, Jamal Murray, Nikola Jokic, Will Barton)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:07",
+            "description": "Warriors lineup change (Shaun Livingston, Kevin Durant, Stephen Curry, Draymond Green, DeMarcus Cousins)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:03",
+            "description": "Jump ball. DeMarcus Cousins vs. Nikola Jokic (Draymond Green gains possession)",
+            "event_type": "jumpball",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:00",
+            "description": "Draymond Green turnover (bad pass) (Nikola Jokic steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Draymond Green shooting foul (Nikola Jokic draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Nikola Jokic makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Warriors 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Warriors lineup change (Shaun Livingston, Andrew Bogut, Kevin Durant, Stephen Curry, Draymond Green)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:48",
+            "description": "Nikola Jokic misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:47",
+            "description": "Andrew Bogut defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:34",
+            "description": "Draymond Green misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:32",
+            "description": "Nikola Jokic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:27",
+            "description": "Jamal Murray misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:18",
+            "description": "Draymond Green defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:08",
+            "description": "Draymond Green makes two point cutting layup (Andrew Bogut assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:46",
+            "description": "Nikola Jokic makes two point hook shot (Paul Millsap assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:33",
+            "description": "Draymond Green makes two point fadeaway jump shot (Stephen Curry assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:15",
+            "description": "Jamal Murray makes two point stepback jump shot (Nikola Jokic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:51",
+            "description": "Kevin Durant makes three point jump shot (Draymond Green assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:34",
+            "description": "Andrew Bogut personal foul (Jamal Murray draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:34",
+            "description": "Warriors lineup change (Andre Iguodala, Andrew Bogut, Kevin Durant, Stephen Curry, Draymond Green)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:26",
+            "description": "Gary Harris misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:25",
+            "description": "Andrew Bogut defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:12",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:09",
+            "description": "Paul Millsap personal foul (Draymond Green draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:03",
+            "description": "Andrew Bogut makes two point driving floating jump shot (Kevin Durant assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:44",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:40",
+            "description": "Jamal Murray makes three point stepback jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:22",
+            "description": "Andrew Bogut misses two point alley-oop layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:21",
+            "description": "Andrew Bogut offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:21",
+            "description": "Andrew Bogut makes two point tip layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:00",
+            "description": "Jamal Murray misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:58",
+            "description": "Kevin Durant defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:54",
+            "description": "Kevin Durant makes two point running dunk",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:54",
+            "description": "Will Barton shooting foul (Kevin Durant draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:54",
+            "description": "Warriors lineup change (Klay Thompson, Andre Iguodala, Kevin Durant, Stephen Curry, Draymond Green)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:54",
+            "description": "Kevin Durant makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:44",
+            "description": "Nikola Jokic misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:44",
+            "description": "Klay Thompson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:36",
+            "description": "Klay Thompson turnover (bad pass) (Jamal Murray steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:24",
+            "description": "Stephen Curry personal foul (Will Barton draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:16",
+            "description": "Draymond Green blocks Will Barton's three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:15",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:15",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:12",
+            "description": "Gary Harris makes two point fadeaway jump shot (Nikola Jokic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:02",
+            "description": "Kevin Durant makes two point running dunk",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:50",
+            "description": "Nikola Jokic misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:48",
+            "description": "Stephen Curry defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:43",
+            "description": "Kevin Durant misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:41",
+            "description": "Jamal Murray defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:33",
+            "description": "Nikola Jokic misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:31",
+            "description": "Draymond Green defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:08",
+            "description": "Stephen Curry misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:06",
+            "description": "Draymond Green offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:02",
+            "description": "Kevin Durant makes two point driving dunk (Draymond Green assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:01",
+            "description": "Paul Millsap misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "End of 1st Half.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "12:00",
+            "description": "Warriors lineup change (Klay Thompson, Kevin Durant, Stephen Curry, Draymond Green, DeMarcus Cousins)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:49",
+            "description": "Nikola Jokic turnover (lost ball) (DeMarcus Cousins steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:31",
+            "description": "Klay Thompson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:29",
+            "description": "Nikola Jokic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:24",
+            "description": "Gary Harris misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:22",
+            "description": "Draymond Green defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:16",
+            "description": "Kevin Durant makes two point jump shot (Draymond Green assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:54",
+            "description": "Gary Harris misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:52",
+            "description": "DeMarcus Cousins defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Klay Thompson makes two point bank jump shot (Stephen Curry assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:42",
+            "description": "Nuggets 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:27",
+            "description": "Will Barton makes two point driving reverse layup (Jamal Murray assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:08",
+            "description": "Kevin Durant makes two point fadeaway jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:49",
+            "description": "Will Barton misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:46",
+            "description": "Stephen Curry defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:43",
+            "description": "Draymond Green makes two point layup (Stephen Curry assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:31",
+            "description": "Stephen Curry shooting foul (Jamal Murray draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:31",
+            "description": "Jamal Murray makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:31",
+            "description": "Jamal Murray makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:18",
+            "description": "DeMarcus Cousins turnover (out of bounds lost ball)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:09",
+            "description": "Jamal Murray misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:08",
+            "description": "Kevin Durant defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:02",
+            "description": "Stephen Curry misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:00",
+            "description": "DeMarcus Cousins offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:57",
+            "description": "DeMarcus Cousins makes two point reverse layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:57",
+            "description": "Paul Millsap shooting foul (DeMarcus Cousins draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:57",
+            "description": "DeMarcus Cousins makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:43",
+            "description": "Jamal Murray misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:41",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:41",
+            "description": "DeMarcus Cousins shooting foul (Gary Harris draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:41",
+            "description": "Gary Harris makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:41",
+            "description": "Gary Harris makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:27",
+            "description": "Kevin Durant misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:25",
+            "description": "Jamal Murray defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:21",
+            "description": "Kevin Durant technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:21",
+            "description": "Jamal Murray makes technical free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:21",
+            "description": "Kevin Durant technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:21",
+            "description": "Jamal Murray makes technical free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:21",
+            "description": "Kevin Durant ejected from the game (Other)",
+            "event_type": "ejection",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:21",
+            "description": "Warriors 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:21",
+            "description": "Warriors lineup change (Klay Thompson, Alfonzo McKinnie, Stephen Curry, Draymond Green, DeMarcus Cousins)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:12",
+            "description": "Jamal Murray turnover (bad pass) (Stephen Curry steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:05",
+            "description": "DeMarcus Cousins makes two point driving bank jump shot (Draymond Green assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:52",
+            "description": "Nikola Jokic turnover (bad pass) (Alfonzo McKinnie steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:48",
+            "description": "Stephen Curry makes three point jump shot (Alfonzo McKinnie assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:46",
+            "description": "Nuggets 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:35",
+            "description": "Nikola Jokic makes two point jump shot (Paul Millsap assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:18",
+            "description": "Klay Thompson misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:15",
+            "description": "Alfonzo McKinnie offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:06",
+            "description": "Alfonzo McKinnie misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:00",
+            "description": "Will Barton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:50",
+            "description": "Paul Millsap misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:49",
+            "description": "Paul Millsap offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:47",
+            "description": "Paul Millsap misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:46",
+            "description": "Draymond Green defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:41",
+            "description": "Draymond Green turnover (bad pass) (Jamal Murray steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:40",
+            "description": "Jamal Murray misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:38",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:38",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:31",
+            "description": "Nikola Jokic turnover (lost ball) (Stephen Curry steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:30",
+            "description": "Gary Harris personal foul (Take) (Stephen Curry draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:30",
+            "description": "Nuggets lineup change (Gary Harris, Mason Plumlee, Jamal Murray, Nikola Jokic, Will Barton)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:20",
+            "description": "Draymond Green turnover (bad pass) (Mason Plumlee steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:15",
+            "description": "Will Barton turnover (out of bounds step)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:05",
+            "description": "Stephen Curry turnover (bad pass) (Nikola Jokic steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:05",
+            "description": "DeMarcus Cousins personal foul (Nikola Jokic draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:59",
+            "description": "DeMarcus Cousins blocks Will Barton's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:58",
+            "description": "DeMarcus Cousins defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:47",
+            "description": "DeMarcus Cousins turnover (lost ball) (Nikola Jokic steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:43",
+            "description": "Will Barton makes two point running finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:43",
+            "description": "Warriors 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:29",
+            "description": "Mason Plumlee blocks Alfonzo McKinnie's two point cutting dunk",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:28",
+            "description": "Gary Harris defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:22",
+            "description": "Gary Harris misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:21",
+            "description": "Alfonzo McKinnie defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:12",
+            "description": "Stephen Curry makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:52",
+            "description": "Jamal Murray makes two point jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:36",
+            "description": "DeMarcus Cousins turnover (lost ball) (Nikola Jokic steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:31",
+            "description": "Stephen Curry shooting foul (Gary Harris draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:31",
+            "description": "Gary Harris makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:31",
+            "description": "Nuggets lineup change (Gary Harris, Mason Plumlee, Jamal Murray, Malik Beasley, Nikola Jokic)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:31",
+            "description": "Warriors lineup change (Kevon Looney, Klay Thompson, Andre Iguodala, Alfonzo McKinnie, Draymond Green)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:31",
+            "description": "Gary Harris makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:11",
+            "description": "Kevon Looney misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:10",
+            "description": "Kevon Looney offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:06",
+            "description": "Kevon Looney turnover (bad pass) (Jamal Murray steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:01",
+            "description": "Malik Beasley misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:59",
+            "description": "Klay Thompson defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:53",
+            "description": "Alfonzo McKinnie makes two point running finger roll layup (Draymond Green assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:53",
+            "description": "Gary Harris shooting foul (Alfonzo McKinnie draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:53",
+            "description": "Alfonzo McKinnie misses regular free throw 1 of 1",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:52",
+            "description": "Mason Plumlee defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:34",
+            "description": "Nikola Jokic turnover (lost ball) (Kevon Looney steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:24",
+            "description": "Klay Thompson misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:22",
+            "description": "Malik Beasley defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:16",
+            "description": "Kevon Looney shooting foul (Mason Plumlee draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:16",
+            "description": "Mason Plumlee makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:16",
+            "description": "Nuggets lineup change (Mason Plumlee, Jamal Murray, Malik Beasley, Nikola Jokic, Monte Morris)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:16",
+            "description": "Mason Plumlee misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:15",
+            "description": "Nikola Jokic offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:15",
+            "description": "Nikola Jokic misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:14",
+            "description": "Draymond Green defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:01",
+            "description": "Alfonzo McKinnie turnover (out of bounds step)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:48",
+            "description": "Jamal Murray makes two point driving finger roll layup (Nikola Jokic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:28",
+            "description": "Kevon Looney makes two point cutting dunk (Andre Iguodala assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:03",
+            "description": "Jamal Murray makes two point stepback jump shot (Nikola Jokic assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:47",
+            "description": "Klay Thompson makes two point pullup jump shot (Kevon Looney assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:25",
+            "description": "Mason Plumlee misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:24",
+            "description": "Kevon Looney defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:06",
+            "description": "Draymond Green misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:04",
+            "description": "Nikola Jokic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:57",
+            "description": "Nikola Jokic turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:57",
+            "description": "Nuggets lineup change (Mason Plumlee, Trey Lyles, Jamal Murray, Malik Beasley, Monte Morris)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:57",
+            "description": "Warriors lineup change (Kevon Looney, Klay Thompson, Andre Iguodala, Quinn Cook, Draymond Green)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:44",
+            "description": "Klay Thompson misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:42",
+            "description": "Jamal Murray defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:39",
+            "description": "Malik Beasley turnover (lost ball) (Draymond Green steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:37",
+            "description": "Mason Plumlee personal foul (Draymond Green draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:18",
+            "description": "Kevon Looney makes two point cutting dunk (Quinn Cook assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:03",
+            "description": "Jamal Murray misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "Quinn Cook defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "End of 3rd Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "12:00",
+            "description": "Nuggets lineup change (Mason Plumlee, Trey Lyles, Malik Beasley, Monte Morris, Torrey Craig)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "12:00",
+            "description": "Warriors lineup change (Andre Iguodala, Jonas Jerebko, Shaun Livingston, Stephen Curry, DeMarcus Cousins)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:41",
+            "description": "DeMarcus Cousins makes three point stepback jump shot (Andre Iguodala assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:30",
+            "description": "Monte Morris makes two point bank jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:07",
+            "description": "Jonas Jerebko makes three point jump shot (Stephen Curry assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:47",
+            "description": "Malik Beasley makes three point pullup jump shot (Monte Morris assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:24",
+            "description": "DeMarcus Cousins makes two point jump shot (Shaun Livingston assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:23",
+            "description": "Nuggets 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:23",
+            "description": "Nuggets lineup change (Mason Plumlee, Trey Lyles, Monte Morris, Torrey Craig, Isaiah Thomas)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:05",
+            "description": "Torrey Craig misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:03",
+            "description": "DeMarcus Cousins defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:49",
+            "description": "Andre Iguodala turnover (bad pass) (Monte Morris steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:45",
+            "description": "Isaiah Thomas misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:43",
+            "description": "Andre Iguodala defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:28",
+            "description": "Jonas Jerebko makes three point jump shot (DeMarcus Cousins assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:11",
+            "description": "Monte Morris misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:09",
+            "description": "Stephen Curry defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:00",
+            "description": "Torrey Craig personal foul (Stephen Curry draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:56",
+            "description": "Torrey Craig personal foul (Stephen Curry draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:46",
+            "description": "Andre Iguodala turnover (bad pass) (Mason Plumlee steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:38",
+            "description": "Trey Lyles makes two point layup (Mason Plumlee assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:38",
+            "description": "DeMarcus Cousins shooting foul (Trey Lyles draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:38",
+            "description": "Trey Lyles makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:20",
+            "description": "Shaun Livingston makes two point alley-oop dunk (DeMarcus Cousins assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:03",
+            "description": "Andre Iguodala blocks Trey Lyles's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:02",
+            "description": "Mason Plumlee offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:55",
+            "description": "Isaiah Thomas misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:53",
+            "description": "Andre Iguodala defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:49",
+            "description": "DeMarcus Cousins makes three point jump shot (Andre Iguodala assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:35",
+            "description": "Monte Morris makes three point jump shot (Isaiah Thomas assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "Stephen Curry makes three point stepback jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "Nuggets 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "Nuggets lineup change (Trey Lyles, Monte Morris, Jarred Vanderbilt, Torrey Craig, Isaiah Thomas)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:22",
+            "description": "Warriors lineup change (Quinn Cook, Jonas Jerebko, Shaun Livingston, Alfonzo McKinnie, DeMarcus Cousins)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:13",
+            "description": "Monte Morris misses two point driving finger roll layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:12",
+            "description": "DeMarcus Cousins defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:05",
+            "description": "Jonas Jerebko misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:03",
+            "description": "Jarred Vanderbilt defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:58",
+            "description": "DeMarcus Cousins shooting foul (Isaiah Thomas draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:58",
+            "description": "Nuggets lineup change (Trey Lyles, Juancho Hernangomez, Jarred Vanderbilt, Torrey Craig, Isaiah Thomas)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:58",
+            "description": "Isaiah Thomas makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:58",
+            "description": "Isaiah Thomas makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:37",
+            "description": "Jonas Jerebko misses two point fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:36",
+            "description": "Juancho Hernangomez defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:35",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:20",
+            "description": "Isaiah Thomas misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:18",
+            "description": "Torrey Craig offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:17",
+            "description": "Jarred Vanderbilt makes two point reverse layup (Torrey Craig assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:58",
+            "description": "DeMarcus Cousins makes two point layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:58",
+            "description": "Jarred Vanderbilt shooting foul (DeMarcus Cousins draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:58",
+            "description": "DeMarcus Cousins makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:57",
+            "description": "Shaun Livingston personal foul (Take) (Isaiah Thomas draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:57",
+            "description": "Warriors lineup change (Quinn Cook, Jonas Jerebko, Jordan Bell, Shaun Livingston, Alfonzo McKinnie)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:47",
+            "description": "Jonas Jerebko shooting foul (Trey Lyles draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:47",
+            "description": "Trey Lyles makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:47",
+            "description": "Trey Lyles makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:32",
+            "description": "Jordan Bell misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:31",
+            "description": "Jarred Vanderbilt defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:17",
+            "description": "Trey Lyles makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:10",
+            "description": "Quinn Cook misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:08",
+            "description": "Alfonzo McKinnie offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:06",
+            "description": "Shaun Livingston turnover (bad pass) (Torrey Craig steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:05",
+            "description": "Jonas Jerebko personal foul (Torrey Craig draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:05",
+            "description": "Torrey Craig makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:05",
+            "description": "Warriors lineup change (Kevon Looney, Quinn Cook, Jonas Jerebko, Jordan Bell, Alfonzo McKinnie)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:05",
+            "description": "Torrey Craig misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:04",
+            "description": "Jonas Jerebko defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:47",
+            "description": "Jordan Bell misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:46",
+            "description": "Torrey Craig defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:26",
+            "description": "Jarred Vanderbilt makes two point reverse layup (Isaiah Thomas assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:26",
+            "description": "Jordan Bell shooting foul (Jarred Vanderbilt draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:26",
+            "description": "Jarred Vanderbilt makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:10",
+            "description": "Torrey Craig blocks Alfonzo McKinnie's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:09",
+            "description": "Nuggets defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:06",
+            "description": "Jump ball. Torrey Craig vs. Alfonzo McKinnie (Jarred Vanderbilt gains possession)",
+            "event_type": "jumpball",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:57",
+            "description": "Kevon Looney blocks Juancho Hernangomez's three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:55",
+            "description": "Quinn Cook defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:43",
+            "description": "Alfonzo McKinnie misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:41",
+            "description": "Alfonzo McKinnie offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:40",
+            "description": "Alfonzo McKinnie turnover (bad pass) (Torrey Craig steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:36",
+            "description": "Isaiah Thomas makes three point running pullup jump shot (Trey Lyles assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:34",
+            "description": "Warriors 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:18",
+            "description": "Jordan Bell turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:03",
+            "description": "Kevon Looney shooting foul (Isaiah Thomas draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:03",
+            "description": "Isaiah Thomas makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:03",
+            "description": "Isaiah Thomas makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:46",
+            "description": "Jarred Vanderbilt shooting foul (Jonas Jerebko draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:46",
+            "description": "Jonas Jerebko misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:46",
+            "description": "Warriors offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:46",
+            "description": "Jonas Jerebko misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:45",
+            "description": "Kevon Looney offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:45",
+            "description": "Kevon Looney makes two point tip layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:33",
+            "description": "Jarred Vanderbilt makes two point cutting layup (Isaiah Thomas assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:16",
+            "description": "Kevon Looney makes two point turnaround jump shot (Quinn Cook assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:01",
+            "description": "Kevon Looney shooting foul (Jarred Vanderbilt draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:01",
+            "description": "Jarred Vanderbilt misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:01",
+            "description": "Nuggets offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:01",
+            "description": "Jarred Vanderbilt makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:43",
+            "description": "Jonas Jerebko misses two point turnaround hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:42",
+            "description": "Jarred Vanderbilt defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:31",
+            "description": "Isaiah Thomas misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:29",
+            "description": "Kevon Looney defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:26",
+            "description": "Kevon Looney turnover (bad pass) (Jarred Vanderbilt steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:25",
+            "description": "Jarred Vanderbilt makes two point dunk (Trey Lyles assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:17",
+            "description": "Quinn Cook makes two point running layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:02",
+            "description": "Torrey Craig makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:47",
+            "description": "Torrey Craig blocks Quinn Cook's two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:45",
+            "description": "Kevon Looney offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:44",
+            "description": "Kevon Looney makes two point dunk",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:36",
+            "description": "Isaiah Thomas misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:33",
+            "description": "Alfonzo McKinnie defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:10",
+            "description": "Jordan Bell misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:08",
+            "description": "Isaiah Thomas defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:04",
+            "description": "Kevon Looney blocks Isaiah Thomas's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:03",
+            "description": "Quinn Cook defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:02",
+            "description": "Quinn Cook turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:00",
+            "description": "Isaiah Thomas makes three point pullup jump shot (Torrey Craig assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:00",
+            "description": "Instant replay (Request: Ruling Upheld)",
+            "event_type": "review",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:00",
+            "description": "End of 4th Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,3698 @@
+{
+    "game_info": {
+        "id": "0ab22385-fe80-4689-84db-0339a90c235c",
+        "home_team": "Pacers",
+        "away_team": "Bucks",
+        "scheduled": "2018-12-13T00:00:00+00:00"
+    },
+    "events": [
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Bucks lineup change (Eric Bledsoe, Khris Middleton, Brook Lopez, Giannis Antetokounmpo, Malcolm Brogdon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Pacers lineup change (Thaddeus Young, Bojan Bogdanovic, Victor Oladipo, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "12:00",
+            "description": "Brook Lopez vs. Myles Turner (Malcolm Brogdon gains possession)",
+            "event_type": "opentip",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:45",
+            "description": "Brook Lopez misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:43",
+            "description": "Pacers defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:43",
+            "description": "Eric Bledsoe personal foul (Loose ball) (Darren Collison draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:28",
+            "description": "Bojan Bogdanovic misses two point turnaround bank jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:26",
+            "description": "Giannis Antetokounmpo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:21",
+            "description": "Brook Lopez misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:18",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:07",
+            "description": "Myles Turner misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:03",
+            "description": "Thaddeus Young offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "11:03",
+            "description": "Thaddeus Young makes two point tip layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:52",
+            "description": "Brook Lopez turnover (out of bounds step)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:37",
+            "description": "Bojan Bogdanovic makes two point cutting dunk (Thaddeus Young assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:24",
+            "description": "Khris Middleton misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:21",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:17",
+            "description": "Khris Middleton personal foul (Bojan Bogdanovic draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "10:09",
+            "description": "Myles Turner makes two point jump shot (Darren Collison assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:50",
+            "description": "Myles Turner blocks Malcolm Brogdon's two point driving finger roll layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:48",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:43",
+            "description": "Darren Collison misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:40",
+            "description": "Khris Middleton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:35",
+            "description": "Khris Middleton makes two point running finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:21",
+            "description": "Myles Turner makes two point jump shot (Darren Collison assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "9:08",
+            "description": "Brook Lopez makes three point jump shot (Khris Middleton assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:46",
+            "description": "Myles Turner makes two point layup (Thaddeus Young assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:23",
+            "description": "Brook Lopez makes two point cutting dunk (Eric Bledsoe assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:11",
+            "description": "Bojan Bogdanovic makes three point jump shot (Darren Collison assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:00",
+            "description": "Eric Bledsoe makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "8:00",
+            "description": "Myles Turner defensive goaltending violation",
+            "event_type": "defensivegoaltending",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:52",
+            "description": "Victor Oladipo makes three point jump shot (Myles Turner assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:50",
+            "description": "Bucks 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:50",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, Khris Middleton, Brook Lopez, Giannis Antetokounmpo)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:39",
+            "description": "Khris Middleton misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:36",
+            "description": "Thaddeus Young defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:30",
+            "description": "Myles Turner makes three point jump shot (Darren Collison assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:15",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:09",
+            "description": "Giannis Antetokounmpo misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:07",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "7:03",
+            "description": "Bojan Bogdanovic makes three point jump shot (Victor Oladipo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:44",
+            "description": "Myles Turner blocks Eric Bledsoe's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:41",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:38",
+            "description": "Thaddeus Young misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:36",
+            "description": "Brook Lopez defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:30",
+            "description": "Khris Middleton misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:28",
+            "description": "Sterling Brown offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:26",
+            "description": "Brook Lopez misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:24",
+            "description": "Myles Turner defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:06",
+            "description": "Darren Collison turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "6:06",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, Khris Middleton, Thon Maker, Brook Lopez)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:54",
+            "description": "Eric Bledsoe makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:54",
+            "description": "Victor Oladipo shooting foul (Eric Bledsoe draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:54",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Domantas Sabonis, Victor Oladipo, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:54",
+            "description": "Eric Bledsoe makes regular free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:41",
+            "description": "Domantas Sabonis misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:41",
+            "description": "Thon Maker defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:35",
+            "description": "Eric Bledsoe makes three point pullup jump shot (Thon Maker assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:12",
+            "description": "Domantas Sabonis misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:12",
+            "description": "Sterling Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:00",
+            "description": "Thon Maker makes two point alley-oop layup (Eric Bledsoe assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:00",
+            "description": "Pacers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:00",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Domantas Sabonis, Cory Joseph, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "5:00",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, Khris Middleton, Thon Maker, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:43",
+            "description": "Myles Turner misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:40",
+            "description": "Domantas Sabonis offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:33",
+            "description": "Cory Joseph misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:31",
+            "description": "Ersan Ilyasova defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:25",
+            "description": "Thon Maker misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:21",
+            "description": "Darren Collison defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:13",
+            "description": "Cory Joseph misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:10",
+            "description": "Sterling Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "4:00",
+            "description": "Myles Turner blocks Ersan Ilyasova's two point cutting layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:58",
+            "description": "Cory Joseph defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:52",
+            "description": "Bojan Bogdanovic turnover (bad pass) (Eric Bledsoe steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:48",
+            "description": "Eric Bledsoe makes two point layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:24",
+            "description": "Domantas Sabonis makes two point turnaround fadeaway jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:11",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:11",
+            "description": "Bucks lineup change (Sterling Brown, Tony Snell, Thon Maker, Malcolm Brogdon, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:11",
+            "description": "Pacers lineup change (Doug McDermott, Domantas Sabonis, Cory Joseph, Myles Turner, Tyreke Evans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "3:03",
+            "description": "Ersan Ilyasova misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:59",
+            "description": "Tyreke Evans defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:54",
+            "description": "Domantas Sabonis offensive foul (Off the ball) (Ersan Ilyasova draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:54",
+            "description": "Domantas Sabonis turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:42",
+            "description": "Myles Turner shooting foul (Ersan Ilyasova draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:42",
+            "description": "Ersan Ilyasova makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:42",
+            "description": "Ersan Ilyasova makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:28",
+            "description": "Thon Maker shooting foul (Myles Turner draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:28",
+            "description": "Myles Turner makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:28",
+            "description": "Myles Turner misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:27",
+            "description": "Tony Snell defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:16",
+            "description": "Tony Snell misses two point driving finger roll layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:13",
+            "description": "Doug McDermott defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "2:02",
+            "description": "Tyreke Evans turnover (bad pass) (Ersan Ilyasova steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:52",
+            "description": "Malcolm Brogdon misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:51",
+            "description": "Pacers defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:51",
+            "description": "Jump ball. Domantas Sabonis vs. Thon Maker (Tyreke Evans gains possession)",
+            "event_type": "jumpball",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:51",
+            "description": "Bucks lineup change (George Hill, Thon Maker, Giannis Antetokounmpo, Malcolm Brogdon, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:51",
+            "description": "Pacers lineup change (Thaddeus Young, Doug McDermott, Domantas Sabonis, Cory Joseph, Tyreke Evans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:46",
+            "description": "Tyreke Evans misses two point running layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:43",
+            "description": "Giannis Antetokounmpo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:35",
+            "description": "Thaddeus Young blocks Ersan Ilyasova's two point turnaround jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:35",
+            "description": "Doug McDermott defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:13",
+            "description": "Domantas Sabonis misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:12",
+            "description": "Thon Maker defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:03",
+            "description": "Ersan Ilyasova misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "1:01",
+            "description": "Thon Maker offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:54",
+            "description": "Domantas Sabonis shooting foul (Giannis Antetokounmpo draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:54",
+            "description": "Giannis Antetokounmpo makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:54",
+            "description": "Bucks lineup change (Tony Snell, George Hill, Giannis Antetokounmpo, Malcolm Brogdon, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:54",
+            "description": "Giannis Antetokounmpo makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:45",
+            "description": "Doug McDermott makes two point jump shot (Thaddeus Young assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:37",
+            "description": "Ersan Ilyasova misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:34",
+            "description": "Thaddeus Young defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:21",
+            "description": "Ersan Ilyasova personal foul (Domantas Sabonis draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:16",
+            "description": "Domantas Sabonis misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:13",
+            "description": "Thaddeus Young offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:08",
+            "description": "Thaddeus Young makes two point layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:03",
+            "description": "Malcolm Brogdon misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "Domantas Sabonis defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-3",
+            "clock": "00:00",
+            "description": "End of 1st Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "12:00",
+            "description": "Bucks lineup change (Tony Snell, George Hill, Brook Lopez, Giannis Antetokounmpo, Malcolm Brogdon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:40",
+            "description": "Domantas Sabonis makes two point jump shot (Cory Joseph assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:24",
+            "description": "Brook Lopez misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:22",
+            "description": "Tony Snell offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:20",
+            "description": "Tony Snell makes two point jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "11:08",
+            "description": "Tyreke Evans makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:58",
+            "description": "Brook Lopez turnover (lost ball) (Thaddeus Young steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:48",
+            "description": "Tyreke Evans makes two point pullup jump shot (Cory Joseph assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:32",
+            "description": "Giannis Antetokounmpo turnover (lost ball) (Tyreke Evans steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:27",
+            "description": "Cory Joseph makes two point running finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:26",
+            "description": "Bucks 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:03",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:02",
+            "description": "Brook Lopez misses three point fadeaway jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:02",
+            "description": "Bucks offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "10:02",
+            "description": "Bucks turnover (shot clock violation)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:47",
+            "description": "Tyreke Evans misses three point stepback jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:44",
+            "description": "Giannis Antetokounmpo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:43",
+            "description": "George Hill makes two point finger roll layup (Giannis Antetokounmpo assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:22",
+            "description": "Domantas Sabonis turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:07",
+            "description": "Brook Lopez misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:04",
+            "description": "Doug McDermott defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:00",
+            "description": "Giannis Antetokounmpo shooting foul (Thaddeus Young draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:00",
+            "description": "Thaddeus Young makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:00",
+            "description": "Bucks lineup change (Tony Snell, Eric Bledsoe, Khris Middleton, Brook Lopez, Giannis Antetokounmpo)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "9:00",
+            "description": "Thaddeus Young misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:57",
+            "description": "Giannis Antetokounmpo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:46",
+            "description": "Eric Bledsoe turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:37",
+            "description": "Tony Snell personal foul (Domantas Sabonis draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:33",
+            "description": "Cory Joseph makes two point driving floating jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:12",
+            "description": "Thaddeus Young personal foul (Giannis Antetokounmpo draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:12",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, Khris Middleton, Brook Lopez, Giannis Antetokounmpo)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:03",
+            "description": "Eric Bledsoe misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "8:00",
+            "description": "Tyreke Evans defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:41",
+            "description": "Tyreke Evans misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:38",
+            "description": "Giannis Antetokounmpo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:25",
+            "description": "Khris Middleton misses two point stepback jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:23",
+            "description": "Doug McDermott defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "7:18",
+            "description": "Doug McDermott makes three point jump shot (Cory Joseph assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:51",
+            "description": "Sterling Brown misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:48",
+            "description": "Cory Joseph defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:44",
+            "description": "Khris Middleton personal foul (Tyreke Evans draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:44",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, Khris Middleton, Thon Maker, Brook Lopez)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:44",
+            "description": "Pacers lineup change (Thaddeus Young, Bojan Bogdanovic, Domantas Sabonis, Cory Joseph, Tyreke Evans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:44",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Domantas Sabonis, Victor Oladipo, Cory Joseph, Myles Turner)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:30",
+            "description": "Cory Joseph misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:26",
+            "description": "Cory Joseph offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:20",
+            "description": "Bojan Bogdanovic turnover (bad pass) (Brook Lopez steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:06",
+            "description": "Domantas Sabonis shooting foul (Brook Lopez draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:06",
+            "description": "Brook Lopez misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:06",
+            "description": "Bucks offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:06",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, George Hill, Khris Middleton, Brook Lopez)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:06",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Victor Oladipo, Cory Joseph, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "6:06",
+            "description": "Brook Lopez makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:53",
+            "description": "Myles Turner makes two point jump shot (Victor Oladipo assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:40",
+            "description": "Darren Collison personal foul (Eric Bledsoe draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:34",
+            "description": "Eric Bledsoe misses two point driving finger roll layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:30",
+            "description": "Bojan Bogdanovic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:23",
+            "description": "Brook Lopez blocks Myles Turner's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:20",
+            "description": "Myles Turner offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:19",
+            "description": "George Hill blocks Myles Turner's two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:17",
+            "description": "Myles Turner offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:16",
+            "description": "Brook Lopez blocks Myles Turner's two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:15",
+            "description": "Myles Turner offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:15",
+            "description": "Myles Turner misses two point hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:15",
+            "description": "Brook Lopez defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:11",
+            "description": "Khris Middleton misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "5:07",
+            "description": "Bojan Bogdanovic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:55",
+            "description": "Myles Turner misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:53",
+            "description": "Khris Middleton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:47",
+            "description": "Sterling Brown misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:45",
+            "description": "Myles Turner defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:33",
+            "description": "Bojan Bogdanovic makes two point pullup jump shot (Myles Turner assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:14",
+            "description": "Brook Lopez makes three point jump shot",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "4:00",
+            "description": "Myles Turner makes two point cutting finger roll layup (Cory Joseph assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:44",
+            "description": "Eric Bledsoe makes three point jump shot (Brook Lopez assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:25",
+            "description": "Myles Turner misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:22",
+            "description": "Khris Middleton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:16",
+            "description": "Eric Bledsoe makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:16",
+            "description": "Pacers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:16",
+            "description": "Instant replay (Request: Ruling Upheld)",
+            "event_type": "review",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:16",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, George Hill, Khris Middleton, Giannis Antetokounmpo)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "3:16",
+            "description": "Pacers lineup change (Thaddeus Young, Bojan Bogdanovic, Victor Oladipo, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:54",
+            "description": "Myles Turner misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:51",
+            "description": "Giannis Antetokounmpo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:37",
+            "description": "Sterling Brown makes three point jump shot (Eric Bledsoe assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:19",
+            "description": "Thaddeus Young makes two point turnaround jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:11",
+            "description": "Giannis Antetokounmpo offensive foul (Charge) (Thaddeus Young draws the foul)",
+            "event_type": "offensivefoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "2:11",
+            "description": "Giannis Antetokounmpo turnover (offensive foul)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:52",
+            "description": "Thaddeus Young makes two point layup (Darren Collison assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:44",
+            "description": "Giannis Antetokounmpo makes two point running finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:24",
+            "description": "Sterling Brown shooting foul (Thaddeus Young draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:24",
+            "description": "Thaddeus Young misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:24",
+            "description": "Pacers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:24",
+            "description": "Bucks lineup change (Eric Bledsoe, George Hill, Khris Middleton, Giannis Antetokounmpo, Malcolm Brogdon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:24",
+            "description": "Thaddeus Young makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "1:12",
+            "description": "Giannis Antetokounmpo makes two point cutting dunk (Eric Bledsoe assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:46",
+            "description": "George Hill shooting foul (Thaddeus Young draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:46",
+            "description": "Thaddeus Young makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:46",
+            "description": "Thaddeus Young makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:27",
+            "description": "Khris Middleton misses two point turnaround jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:27",
+            "description": "Thaddeus Young defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:07",
+            "description": "Victor Oladipo makes two point pullup jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:01",
+            "description": "Khris Middleton misses two point pullup jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:01",
+            "description": "Bucks offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-2",
+            "clock": "00:00",
+            "description": "End of 1st Half.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "12:00",
+            "description": "Bucks lineup change (Eric Bledsoe, Khris Middleton, Brook Lopez, Giannis Antetokounmpo, Malcolm Brogdon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:46",
+            "description": "Thaddeus Young misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:43",
+            "description": "Eric Bledsoe defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:37",
+            "description": "Giannis Antetokounmpo turnover (lost ball) (Thaddeus Young steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:33",
+            "description": "Bojan Bogdanovic turnover (out of bounds step)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:15",
+            "description": "Brook Lopez misses two point turnaround hook shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:13",
+            "description": "Bojan Bogdanovic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:07",
+            "description": "Eric Bledsoe blocks Victor Oladipo's two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:07",
+            "description": "Pacers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:07",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "11:06",
+            "description": "Bojan Bogdanovic makes three point jump shot (Victor Oladipo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:53",
+            "description": "Myles Turner personal foul (Eric Bledsoe draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:48",
+            "description": "Khris Middleton misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:45",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:30",
+            "description": "Thaddeus Young makes three point jump shot (Victor Oladipo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:22",
+            "description": "Thaddeus Young shooting foul (Giannis Antetokounmpo draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:22",
+            "description": "Giannis Antetokounmpo misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:22",
+            "description": "Bucks offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:22",
+            "description": "Giannis Antetokounmpo makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:10",
+            "description": "Myles Turner misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:08",
+            "description": "Brook Lopez defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "10:01",
+            "description": "Khris Middleton makes two point turnaround fadeaway jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:42",
+            "description": "Victor Oladipo misses three point stepback jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:39",
+            "description": "Malcolm Brogdon defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:33",
+            "description": "Brook Lopez misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:30",
+            "description": "Thaddeus Young defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:27",
+            "description": "Brook Lopez blocks Thaddeus Young's two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:24",
+            "description": "Malcolm Brogdon defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:22",
+            "description": "Khris Middleton makes two point layup (Malcolm Brogdon assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:15",
+            "description": "Victor Oladipo misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:12",
+            "description": "Giannis Antetokounmpo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "9:06",
+            "description": "Malcolm Brogdon makes two point driving finger roll layup (Giannis Antetokounmpo assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:58",
+            "description": "Pacers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:48",
+            "description": "Bojan Bogdanovic misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:47",
+            "description": "Thaddeus Young offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:39",
+            "description": "Darren Collison misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:34",
+            "description": "Victor Oladipo offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:34",
+            "description": "Victor Oladipo makes two point putback layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:26",
+            "description": "Brook Lopez makes three point jump shot (Giannis Antetokounmpo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:12",
+            "description": "Brook Lopez shooting foul (Bojan Bogdanovic draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:12",
+            "description": "Bojan Bogdanovic makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:12",
+            "description": "Bojan Bogdanovic makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "8:03",
+            "description": "Eric Bledsoe makes two point pullup jump shot (Khris Middleton assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:40",
+            "description": "Myles Turner misses two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:38",
+            "description": "Malcolm Brogdon defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:28",
+            "description": "Malcolm Brogdon misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:26",
+            "description": "Brook Lopez offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:26",
+            "description": "Brook Lopez misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:26",
+            "description": "Bucks offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:26",
+            "description": "Darren Collison personal foul (Loose ball) (Brook Lopez draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:26",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, Khris Middleton, Brook Lopez, Giannis Antetokounmpo)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:17",
+            "description": "Brook Lopez misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:15",
+            "description": "Myles Turner defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:03",
+            "description": "Victor Oladipo misses two point turnaround fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "7:00",
+            "description": "Khris Middleton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:51",
+            "description": "Sterling Brown makes three point jump shot (Giannis Antetokounmpo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:31",
+            "description": "Thaddeus Young makes two point reverse layup (Darren Collison assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:24",
+            "description": "Khris Middleton turnover (out of bounds step)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "6:09",
+            "description": "Thaddeus Young turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:59",
+            "description": "Eric Bledsoe misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:56",
+            "description": "Bojan Bogdanovic defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:47",
+            "description": "Myles Turner turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:28",
+            "description": "Thaddeus Young shooting foul (Eric Bledsoe draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:28",
+            "description": "Eric Bledsoe makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:28",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, Khris Middleton, Thon Maker, Brook Lopez)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:28",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Domantas Sabonis, Victor Oladipo, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:28",
+            "description": "Eric Bledsoe misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:27",
+            "description": "Domantas Sabonis defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "5:13",
+            "description": "Myles Turner makes three point jump shot (Domantas Sabonis assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:58",
+            "description": "Khris Middleton misses two point driving bank jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:57",
+            "description": "Domantas Sabonis defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:51",
+            "description": "Victor Oladipo makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:38",
+            "description": "Bucks 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:38",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Domantas Sabonis, Cory Joseph, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:32",
+            "description": "Eric Bledsoe makes two point driving finger roll layup (Khris Middleton assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:30",
+            "description": "Eric Bledsoe technical foul",
+            "event_type": "technicalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:30",
+            "description": "Bojan Bogdanovic makes technical free throw 1 of 1",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:18",
+            "description": "Myles Turner misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:14",
+            "description": "Khris Middleton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:02",
+            "description": "Brook Lopez misses two point dunk",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "4:00",
+            "description": "Domantas Sabonis defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:56",
+            "description": "Bojan Bogdanovic turnover (lost ball) (Khris Middleton steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:51",
+            "description": "Thon Maker makes two point alley-oop layup (Eric Bledsoe assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:29",
+            "description": "Myles Turner makes three point jump shot (Darren Collison assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:10",
+            "description": "Khris Middleton turnover (lost ball) (Cory Joseph steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "3:02",
+            "description": "Darren Collison turnover (lost ball) (Eric Bledsoe steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:56",
+            "description": "Sterling Brown makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:42",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:42",
+            "description": "Bucks lineup change (Sterling Brown, Tony Snell, George Hill, Giannis Antetokounmpo, Malcolm Brogdon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:42",
+            "description": "Pacers lineup change (Thaddeus Young, Doug McDermott, Domantas Sabonis, Cory Joseph, Tyreke Evans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:35",
+            "description": "Giannis Antetokounmpo personal foul (Cory Joseph draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:30",
+            "description": "Doug McDermott makes two point layup (Thaddeus Young assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:18",
+            "description": "Malcolm Brogdon misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:14",
+            "description": "Thaddeus Young defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:04",
+            "description": "Thaddeus Young misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "2:01",
+            "description": "Domantas Sabonis offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:59",
+            "description": "Cory Joseph misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:55",
+            "description": "Thaddeus Young offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:55",
+            "description": "Thaddeus Young misses two point tip layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:54",
+            "description": "Thaddeus Young offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:52",
+            "description": "Tony Snell shooting foul (Thaddeus Young draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:52",
+            "description": "Thaddeus Young makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:52",
+            "description": "Bucks lineup change (Tony Snell, George Hill, Giannis Antetokounmpo, Malcolm Brogdon, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:52",
+            "description": "Thaddeus Young makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:34",
+            "description": "Malcolm Brogdon makes three point jump shot (Giannis Antetokounmpo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:17",
+            "description": "Domantas Sabonis misses two point layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:15",
+            "description": "Giannis Antetokounmpo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:06",
+            "description": "George Hill misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:04",
+            "description": "Ersan Ilyasova offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "1:01",
+            "description": "George Hill makes two point cutting finger roll layup (Ersan Ilyasova assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:41",
+            "description": "Domantas Sabonis turnover (lost ball) (George Hill steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:37",
+            "description": "Cory Joseph shooting foul (Giannis Antetokounmpo draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:37",
+            "description": "Giannis Antetokounmpo misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:37",
+            "description": "Bucks offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:37",
+            "description": "Giannis Antetokounmpo misses regular free throw 2 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:35",
+            "description": "Domantas Sabonis defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:19",
+            "description": "Domantas Sabonis makes two point hook shot (Tyreke Evans assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:01",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "Giannis Antetokounmpo turnover (traveling)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "Instant replay (Request: Ruling Upheld)",
+            "event_type": "review",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "Thaddeus Young turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT-1",
+            "clock": "00:00",
+            "description": "End of 3rd Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "12:00",
+            "description": "Bucks lineup change (Sterling Brown, George Hill, Giannis Antetokounmpo, Malcolm Brogdon, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:43",
+            "description": "Ersan Ilyasova misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:40",
+            "description": "Cory Joseph defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:29",
+            "description": "Doug McDermott makes three point jump shot (Cory Joseph assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "11:08",
+            "description": "Malcolm Brogdon makes two point driving finger roll layup (Giannis Antetokounmpo assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:53",
+            "description": "Thaddeus Young makes two point driving dunk (Domantas Sabonis assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:43",
+            "description": "Ersan Ilyasova makes three point jump shot (Giannis Antetokounmpo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:27",
+            "description": "Doug McDermott makes two point bank jump shot (Domantas Sabonis assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:11",
+            "description": "Malcolm Brogdon makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:00",
+            "description": "Giannis Antetokounmpo shooting foul (Domantas Sabonis draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:00",
+            "description": "Domantas Sabonis makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:00",
+            "description": "Bucks lineup change (Sterling Brown, Khris Middleton, Giannis Antetokounmpo, Malcolm Brogdon, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "10:00",
+            "description": "Domantas Sabonis makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:53",
+            "description": "Giannis Antetokounmpo makes three point jump shot (Malcolm Brogdon assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:37",
+            "description": "Khris Middleton shooting foul (Tyreke Evans draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:37",
+            "description": "Tyreke Evans makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:37",
+            "description": "Tyreke Evans makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:31",
+            "description": "Giannis Antetokounmpo misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:28",
+            "description": "Domantas Sabonis defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:22",
+            "description": "Tyreke Evans misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:19",
+            "description": "Cory Joseph offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:17",
+            "description": "Cory Joseph misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:15",
+            "description": "Khris Middleton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:10",
+            "description": "Malcolm Brogdon misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "9:08",
+            "description": "Ersan Ilyasova offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:54",
+            "description": "Khris Middleton misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:52",
+            "description": "Giannis Antetokounmpo offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:48",
+            "description": "Khris Middleton misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:44",
+            "description": "Thaddeus Young defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:31",
+            "description": "Tyreke Evans misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:31",
+            "description": "Pacers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:31",
+            "description": "Giannis Antetokounmpo personal foul (Loose ball) (Domantas Sabonis draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:31",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, Khris Middleton, Brook Lopez, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:31",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Doug McDermott, Domantas Sabonis, Cory Joseph, Tyreke Evans)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:18",
+            "description": "Cory Joseph misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:16",
+            "description": "Khris Middleton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:10",
+            "description": "Khris Middleton makes two point driving layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:03",
+            "description": "Pacers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:03",
+            "description": "Bucks lineup change (Sterling Brown, Eric Bledsoe, George Hill, Khris Middleton, Brook Lopez)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "8:03",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Doug McDermott, Domantas Sabonis, Victor Oladipo, Cory Joseph)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:52",
+            "description": "Domantas Sabonis makes two point cutting finger roll layup (Cory Joseph assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:52",
+            "description": "Brook Lopez shooting foul (Domantas Sabonis draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:52",
+            "description": "Domantas Sabonis misses regular free throw 1 of 1",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:52",
+            "description": "Brook Lopez defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:43",
+            "description": "Khris Middleton misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:40",
+            "description": "Domantas Sabonis defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:31",
+            "description": "Victor Oladipo turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "7:11",
+            "description": "Eric Bledsoe makes two point finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:57",
+            "description": "Brook Lopez blocks Domantas Sabonis's two point jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:57",
+            "description": "Pacers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:57",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:54",
+            "description": "Domantas Sabonis makes two point jump shot (Victor Oladipo assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:44",
+            "description": "Eric Bledsoe makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:31",
+            "description": "Victor Oladipo misses two point driving finger roll layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:28",
+            "description": "Domantas Sabonis offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:16",
+            "description": "Bojan Bogdanovic misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:14",
+            "description": "Sterling Brown defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:07",
+            "description": "Cory Joseph shooting foul (Khris Middleton draws the foul)",
+            "event_type": "shootingfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:07",
+            "description": "Khris Middleton makes regular free throw 1 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:07",
+            "description": "Khris Middleton makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:00",
+            "description": "Eric Bledsoe personal foul (Victor Oladipo draws the foul)",
+            "event_type": "personalfoul",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:00",
+            "description": "Victor Oladipo misses regular free throw 1 of 2",
+            "event_type": "freethrowmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:00",
+            "description": "Pacers offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "6:00",
+            "description": "Victor Oladipo makes regular free throw 2 of 2",
+            "event_type": "freethrowmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:47",
+            "description": "Brook Lopez makes three point jump shot (Eric Bledsoe assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:17",
+            "description": "Bojan Bogdanovic misses two point turnaround fadeaway jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:13",
+            "description": "Khris Middleton defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:10",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:10",
+            "description": "Bucks lineup change (Eric Bledsoe, George Hill, Khris Middleton, Brook Lopez, Malcolm Brogdon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:10",
+            "description": "Pacers lineup change (Bojan Bogdanovic, Doug McDermott, Victor Oladipo, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:03",
+            "description": "Khris Middleton misses three point pullup jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "5:00",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:42",
+            "description": "Darren Collison turnover (out of bounds bad pass)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:42",
+            "description": "Bucks lineup change (Eric Bledsoe, George Hill, Brook Lopez, Giannis Antetokounmpo, Malcolm Brogdon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:42",
+            "description": "Pacers lineup change (Thaddeus Young, Bojan Bogdanovic, Victor Oladipo, Myles Turner, Darren Collison)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:25",
+            "description": "Eric Bledsoe makes two point stepback jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:18",
+            "description": "Pacers 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "4:10",
+            "description": "Myles Turner makes three point jump shot (Victor Oladipo assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:52",
+            "description": "Malcolm Brogdon misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:49",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:39",
+            "description": "Victor Oladipo makes two point pullup bank jump shot",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:38",
+            "description": "Bucks 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:26",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:26",
+            "description": "Bucks lineup change (Eric Bledsoe, Khris Middleton, Brook Lopez, Giannis Antetokounmpo, Malcolm Brogdon)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:20",
+            "description": "Khris Middleton misses two point driving layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:17",
+            "description": "Giannis Antetokounmpo offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:17",
+            "description": "Giannis Antetokounmpo makes two point tip dunk",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "3:03",
+            "description": "Victor Oladipo turnover (out of bounds lost ball)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:50",
+            "description": "Eric Bledsoe turnover (bad pass) (Thaddeus Young steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:47",
+            "description": "Thaddeus Young makes two point driving finger roll layup",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:40",
+            "description": "Eric Bledsoe misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:37",
+            "description": "Myles Turner defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:20",
+            "description": "Darren Collison makes three point jump shot (Myles Turner assists)",
+            "event_type": "threepointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:13",
+            "description": "Bucks 60 second timeout",
+            "event_type": "teamtimeout",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "2:13",
+            "description": "Bucks lineup change (Sterling Brown, Tony Snell, George Hill, Thon Maker, Ersan Ilyasova)",
+            "event_type": "lineupchange",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:58",
+            "description": "Tony Snell makes two point driving finger roll layup (George Hill assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:44",
+            "description": "Bojan Bogdanovic misses two point floating jump shot",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:42",
+            "description": "Ersan Ilyasova defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:41",
+            "description": "Ersan Ilyasova turnover (bad pass) (Thaddeus Young steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:24",
+            "description": "Thaddeus Young makes two point cutting layup (Myles Turner assists)",
+            "event_type": "twopointmade",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:15",
+            "description": "Sterling Brown misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:12",
+            "description": "Pacers defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "1:12",
+            "description": "Stoppage (Out of bounds)",
+            "event_type": "stoppage",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:55",
+            "description": "Myles Turner misses two point cutting layup",
+            "event_type": "twopointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:52",
+            "description": "Thon Maker defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:48",
+            "description": "Ersan Ilyasova misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:45",
+            "description": "Thon Maker offensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:44",
+            "description": "George Hill misses three point jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:44",
+            "description": "Victor Oladipo defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:21",
+            "description": "Victor Oladipo misses three point stepback jump shot",
+            "event_type": "threepointmiss",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:18",
+            "description": "Ersan Ilyasova defensive rebound",
+            "event_type": "rebound",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:15",
+            "description": "George Hill turnover (bad pass) (Thaddeus Young steals)",
+            "event_type": "turnover",
+            "team": "N/A",
+            "player": "N/A"
+        },
+        {
+            "period": "OT0",
+            "clock": "00:00",
+            "description": "End of 4th Quarter.",
+            "event_type": "endperiod",
+            "team": "N/A",
+            "player": "N/A"
+        }
+    ]
+}
